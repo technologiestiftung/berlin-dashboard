@@ -1,0 +1,35 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v2.1.json",
+  "width": 600,
+  "height": 400,
+  "data": {
+    "url": "data/PLR-topo.json",
+    "format": {
+      "type": "topojson",
+      "feature": "Planungsraum"
+    }
+  },
+  
+  "transform": [{
+    "lookup": "properties['SCHLUESSEL']",
+    "from": {
+      "data": {
+        "url": "data/indicators.csv"
+      },
+      "key": "Nummer",
+      "fields": ["Name","S2"]
+    },
+    "default": 0
+  }],
+
+  "projection": {
+    "type": "mercator"
+  },
+  "mark": "geoshape",
+  "encoding": {
+    "color": {
+      "field": "S2",
+      "type": "quantitative"
+    }
+  }
+}

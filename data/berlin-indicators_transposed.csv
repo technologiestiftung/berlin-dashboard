@@ -1,0 +1,3481 @@
+Nummer,Name,EW,category,value
+01011101,Stülerstraße,3114,S1,5.78
+01011101,Stülerstraße,3114,S2,1.39
+01011101,Stülerstraße,3114,S3,8.22
+01011101,Stülerstraße,3114,S4,21.27
+01011101,Stülerstraße,3114,D1,-0.61
+01011101,Stülerstraße,3114,D2,-0.84
+01011101,Stülerstraße,3114,D3,0.78
+01011101,Stülerstraße,3114,D4,2.25
+01011103,Lützowstraße,5130,S1,7.82
+01011103,Lützowstraße,5130,S2,2.11
+01011103,Lützowstraße,5130,S3,18.32
+01011103,Lützowstraße,5130,S4,41.55
+01011103,Lützowstraße,5130,D1,-1.49
+01011103,Lützowstraße,5130,D2,-1
+01011103,Lützowstraße,5130,D3,-0.19
+01011103,Lützowstraße,5130,D4,2.51
+01011104,Körnerstraße,4403,S1,7.54
+01011104,Körnerstraße,4403,S2,2.24
+01011104,Körnerstraße,4403,S3,22.05
+01011104,Körnerstraße,4403,S4,49.69
+01011104,Körnerstraße,4403,D1,-2.23
+01011104,Körnerstraße,4403,D2,-1.38
+01011104,Körnerstraße,4403,D3,-2.56
+01011104,Körnerstraße,4403,D4,-9.3
+01011105,Nördlicher Landwehrkanal,1097,S1,2.71
+01011105,Nördlicher Landwehrkanal,1097,S2,0.74
+01011105,Nördlicher Landwehrkanal,1097,S3,2.01
+01011105,Nördlicher Landwehrkanal,1097,S4,4.26
+01011105,Nördlicher Landwehrkanal,1097,D1,0.38
+01011105,Nördlicher Landwehrkanal,1097,D2,0.22
+01011105,Nördlicher Landwehrkanal,1097,D3,-2.01
+01011105,Nördlicher Landwehrkanal,1097,D4,-3.61
+01011201,Wilhelmstraße,2055,S1,5.07
+01011201,Wilhelmstraße,2055,S2,1.49
+01011201,Wilhelmstraße,2055,S3,8.27
+01011201,Wilhelmstraße,2055,S4,28.1
+01011201,Wilhelmstraße,2055,D1,-1.35
+01011201,Wilhelmstraße,2055,D2,-0.41
+01011201,Wilhelmstraße,2055,D3,-0.53
+01011201,Wilhelmstraße,2055,D4,-1.72
+01011202,Unter den Linden Nord,498,S1,2.63
+01011202,Unter den Linden Nord,498,S2,0
+01011202,Unter den Linden Nord,498,S3,1.2
+01011202,Unter den Linden Nord,498,S4,0
+01011202,Unter den Linden Nord,498,D1,-1.31
+01011202,Unter den Linden Nord,498,D2,-0.85
+01011202,Unter den Linden Nord,498,D3,0.78
+01011202,Unter den Linden Nord,498,D4,0
+01011203,Unter den Linden Süd,932,S1,3.13
+01011203,Unter den Linden Süd,932,S2,1.19
+01011203,Unter den Linden Süd,932,S3,3.33
+01011203,Unter den Linden Süd,932,S4,8.51
+01011203,Unter den Linden Süd,932,D1,-0.6
+01011203,Unter den Linden Süd,932,D2,0.26
+01011203,Unter den Linden Süd,932,D3,0.16
+01011203,Unter den Linden Süd,932,D4,0.93
+01011204,Leipziger Straße,6424,S1,5.29
+01011204,Leipziger Straße,6424,S2,1.33
+01011204,Leipziger Straße,6424,S3,6.76
+01011204,Leipziger Straße,6424,S4,25.14
+01011204,Leipziger Straße,6424,D1,0.61
+01011204,Leipziger Straße,6424,D2,0.2
+01011204,Leipziger Straße,6424,D3,-0.6
+01011204,Leipziger Straße,6424,D4,1.5
+01011301,Charitéviertel,5597,S1,3.09
+01011301,Charitéviertel,5597,S2,0.72
+01011301,Charitéviertel,5597,S3,3.31
+01011301,Charitéviertel,5597,S4,4.75
+01011301,Charitéviertel,5597,D1,0.11
+01011301,Charitéviertel,5597,D2,0.01
+01011301,Charitéviertel,5597,D3,-0.49
+01011301,Charitéviertel,5597,D4,-2.54
+01011302,Oranienburger Straße,12137,S1,4.8
+01011302,Oranienburger Straße,12137,S2,1.05
+01011302,Oranienburger Straße,12137,S3,6.42
+01011302,Oranienburger Straße,12137,S4,12.07
+01011302,Oranienburger Straße,12137,D1,-0.53
+01011302,Oranienburger Straße,12137,D2,-0.1
+01011302,Oranienburger Straße,12137,D3,-0.49
+01011302,Oranienburger Straße,12137,D4,-1.66
+01011303,Alexanderplatzviertel,8608,S1,6.36
+01011303,Alexanderplatzviertel,8608,S2,1.75
+01011303,Alexanderplatzviertel,8608,S3,9.1
+01011303,Alexanderplatzviertel,8608,S4,22.13
+01011303,Alexanderplatzviertel,8608,D1,-0.64
+01011303,Alexanderplatzviertel,8608,D2,-0.26
+01011303,Alexanderplatzviertel,8608,D3,-0.26
+01011303,Alexanderplatzviertel,8608,D4,-1.61
+01011304,Karl-Marx-Allee,8424,S1,7.61
+01011304,Karl-Marx-Allee,8424,S2,2.57
+01011304,Karl-Marx-Allee,8424,S3,12.84
+01011304,Karl-Marx-Allee,8424,S4,39.9
+01011304,Karl-Marx-Allee,8424,D1,0.05
+01011304,Karl-Marx-Allee,8424,D2,0.05
+01011304,Karl-Marx-Allee,8424,D3,0.45
+01011304,Karl-Marx-Allee,8424,D4,-0.05
+01011305,Heine-Viertel West,7075,S1,4.85
+01011305,Heine-Viertel West,7075,S2,1.27
+01011305,Heine-Viertel West,7075,S3,7.56
+01011305,Heine-Viertel West,7075,S4,25.32
+01011305,Heine-Viertel West,7075,D1,-1.44
+01011305,Heine-Viertel West,7075,D2,-0.56
+01011305,Heine-Viertel West,7075,D3,-0.37
+01011305,Heine-Viertel West,7075,D4,-5.99
+01011306,Heine-Viertel Ost,8616,S1,6.53
+01011306,Heine-Viertel Ost,8616,S2,1.61
+01011306,Heine-Viertel Ost,8616,S3,8.72
+01011306,Heine-Viertel Ost,8616,S4,27.61
+01011306,Heine-Viertel Ost,8616,D1,-0.61
+01011306,Heine-Viertel Ost,8616,D2,-0.75
+01011306,Heine-Viertel Ost,8616,D3,0.38
+01011306,Heine-Viertel Ost,8616,D4,2.47
+01011401,Invalidenstraße,15235,S1,4.35
+01011401,Invalidenstraße,15235,S2,0.91
+01011401,Invalidenstraße,15235,S3,5.19
+01011401,Invalidenstraße,15235,S4,8.44
+01011401,Invalidenstraße,15235,D1,-0.63
+01011401,Invalidenstraße,15235,D2,-0.26
+01011401,Invalidenstraße,15235,D3,-0.25
+01011401,Invalidenstraße,15235,D4,-0.52
+01011402,Arkonaplatz,12666,S1,4.46
+01011402,Arkonaplatz,12666,S2,0.82
+01011402,Arkonaplatz,12666,S3,3.93
+01011402,Arkonaplatz,12666,S4,5.09
+01011402,Arkonaplatz,12666,D1,-0.17
+01011402,Arkonaplatz,12666,D2,-0.27
+01011402,Arkonaplatz,12666,D3,-0.48
+01011402,Arkonaplatz,12666,D4,-1.16
+01022101,Huttenkiez,3390,S1,11.28
+01022101,Huttenkiez,3390,S2,3.97
+01022101,Huttenkiez,3390,S3,23.33
+01022101,Huttenkiez,3390,S4,64.31
+01022101,Huttenkiez,3390,D1,-1.35
+01022101,Huttenkiez,3390,D2,0.03
+01022101,Huttenkiez,3390,D3,0.23
+01022101,Huttenkiez,3390,D4,-6.75
+01022102,Beusselkiez,6255,S1,11.68
+01022102,Beusselkiez,6255,S2,3.7
+01022102,Beusselkiez,6255,S3,24.88
+01022102,Beusselkiez,6255,S4,59.95
+01022102,Beusselkiez,6255,D1,-1.88
+01022102,Beusselkiez,6255,D2,-0.85
+01022102,Beusselkiez,6255,D3,-1.44
+01022102,Beusselkiez,6255,D4,-0.05
+01022104,Emdener Straße,17806,S1,9.97
+01022104,Emdener Straße,17806,S2,3.25
+01022104,Emdener Straße,17806,S3,19.01
+01022104,Emdener Straße,17806,S4,48.67
+01022104,Emdener Straße,17806,D1,-0.12
+01022104,Emdener Straße,17806,D2,-0.29
+01022104,Emdener Straße,17806,D3,-0.7
+01022104,Emdener Straße,17806,D4,0.04
+01022105,Zwinglistraße,5105,S1,9.97
+01022105,Zwinglistraße,5105,S2,2.77
+01022105,Zwinglistraße,5105,S3,24.86
+01022105,Zwinglistraße,5105,S4,65.72
+01022105,Zwinglistraße,5105,D1,-1.51
+01022105,Zwinglistraße,5105,D2,-0.72
+01022105,Zwinglistraße,5105,D3,-0.72
+01022105,Zwinglistraße,5105,D4,0.53
+01022106,Elberfelder Straße,11731,S1,6.65
+01022106,Elberfelder Straße,11731,S2,1.68
+01022106,Elberfelder Straße,11731,S3,10.99
+01022106,Elberfelder Straße,11731,S4,19.99
+01022106,Elberfelder Straße,11731,D1,-0.48
+01022106,Elberfelder Straße,11731,D2,-0.55
+01022106,Elberfelder Straße,11731,D3,-0.85
+01022106,Elberfelder Straße,11731,D4,-3.4
+01022201,Stephankiez,10469,S1,8.57
+01022201,Stephankiez,10469,S2,2.21
+01022201,Stephankiez,10469,S3,17.68
+01022201,Stephankiez,10469,S4,42.53
+01022201,Stephankiez,10469,D1,-1.72
+01022201,Stephankiez,10469,D2,-0.89
+01022201,Stephankiez,10469,D3,-2.08
+01022201,Stephankiez,10469,D4,-8.66
+01022202,Heidestraße,1448,S1,13.41
+01022202,Heidestraße,1448,S2,3.3
+01022202,Heidestraße,1448,S3,28.45
+01022202,Heidestraße,1448,S4,50.94
+01022202,Heidestraße,1448,D1,0.65
+01022202,Heidestraße,1448,D2,-1.21
+01022202,Heidestraße,1448,D3,-6.2
+01022202,Heidestraße,1448,D4,-15.16
+01022203,Lübecker Straße,6773,S1,10.73
+01022203,Lübecker Straße,6773,S2,3.02
+01022203,Lübecker Straße,6773,S3,25.51
+01022203,Lübecker Straße,6773,S4,55.17
+01022203,Lübecker Straße,6773,D1,-1.88
+01022203,Lübecker Straße,6773,D2,-1.44
+01022203,Lübecker Straße,6773,D3,-0.66
+01022203,Lübecker Straße,6773,D4,1.58
+01022204,Thomasiusstraße,5826,S1,6.77
+01022204,Thomasiusstraße,5826,S2,1.77
+01022204,Thomasiusstraße,5826,S3,11.28
+01022204,Thomasiusstraße,5826,S4,21.35
+01022204,Thomasiusstraße,5826,D1,-1.18
+01022204,Thomasiusstraße,5826,D2,-0.91
+01022204,Thomasiusstraße,5826,D3,-0.6
+01022204,Thomasiusstraße,5826,D4,-2.43
+01022205,Zillesiedlung,3207,S1,9.58
+01022205,Zillesiedlung,3207,S2,2.41
+01022205,Zillesiedlung,3207,S3,25.13
+01022205,Zillesiedlung,3207,S4,45.12
+01022205,Zillesiedlung,3207,D1,-1.12
+01022205,Zillesiedlung,3207,D2,-1.19
+01022205,Zillesiedlung,3207,D3,-2.68
+01022205,Zillesiedlung,3207,D4,-8.74
+01022206,Lüneburger Straße,3060,S1,6.62
+01022206,Lüneburger Straße,3060,S2,1.46
+01022206,Lüneburger Straße,3060,S3,13.17
+01022206,Lüneburger Straße,3060,S4,25.9
+01022206,Lüneburger Straße,3060,D1,-1.72
+01022206,Lüneburger Straße,3060,D2,-1.2
+01022206,Lüneburger Straße,3060,D3,0.67
+01022206,Lüneburger Straße,3060,D4,-3.9
+01022207,Hansaviertel,5477,S1,5.72
+01022207,Hansaviertel,5477,S2,1.53
+01022207,Hansaviertel,5477,S3,9.51
+01022207,Hansaviertel,5477,S4,25.56
+01022207,Hansaviertel,5477,D1,-0.79
+01022207,Hansaviertel,5477,D2,-0.38
+01022207,Hansaviertel,5477,D3,-0.12
+01022207,Hansaviertel,5477,D4,-0.92
+01033101,Soldiner Straße,25947,S1,13.25
+01033101,Soldiner Straße,25947,S2,4.18
+01033101,Soldiner Straße,25947,S3,31.79
+01033101,Soldiner Straße,25947,S4,68.88
+01033101,Soldiner Straße,25947,D1,-2.19
+01033101,Soldiner Straße,25947,D2,-1.18
+01033101,Soldiner Straße,25947,D3,0.46
+01033101,Soldiner Straße,25947,D4,0.28
+01033102,Gesundbrunnen,11586,S1,11.23
+01033102,Gesundbrunnen,11586,S2,2.91
+01033102,Gesundbrunnen,11586,S3,28.53
+01033102,Gesundbrunnen,11586,S4,64.12
+01033102,Gesundbrunnen,11586,D1,-2.07
+01033102,Gesundbrunnen,11586,D2,-1.45
+01033102,Gesundbrunnen,11586,D3,0.28
+01033102,Gesundbrunnen,11586,D4,-1.46
+01033201,Brunnenstraße,12885,S1,12.13
+01033201,Brunnenstraße,12885,S2,3.6
+01033201,Brunnenstraße,12885,S3,32.84
+01033201,Brunnenstraße,12885,S4,63
+01033201,Brunnenstraße,12885,D1,-1.57
+01033201,Brunnenstraße,12885,D2,-0.82
+01033201,Brunnenstraße,12885,D3,-0.4
+01033201,Brunnenstraße,12885,D4,-2.51
+01033202,Humboldthain Süd,9697,S1,10.85
+01033202,Humboldthain Süd,9697,S2,2.96
+01033202,Humboldthain Süd,9697,S3,23.64
+01033202,Humboldthain Süd,9697,S4,54.92
+01033202,Humboldthain Süd,9697,D1,-1.3
+01033202,Humboldthain Süd,9697,D2,-1.05
+01033202,Humboldthain Süd,9697,D3,-0.67
+01033202,Humboldthain Süd,9697,D4,-2.84
+01033203,Humboldthain Nordwest,13891,S1,12.69
+01033203,Humboldthain Nordwest,13891,S2,3.59
+01033203,Humboldthain Nordwest,13891,S3,31.8
+01033203,Humboldthain Nordwest,13891,S4,69.17
+01033203,Humboldthain Nordwest,13891,D1,-2.18
+01033203,Humboldthain Nordwest,13891,D2,-1.36
+01033203,Humboldthain Nordwest,13891,D3,-0.62
+01033203,Humboldthain Nordwest,13891,D4,-1.29
+01044101,Rehberge,19903,S1,10.83
+01044101,Rehberge,19903,S2,3.62
+01044101,Rehberge,19903,S3,20.84
+01044101,Rehberge,19903,S4,53.79
+01044101,Rehberge,19903,D1,-1.07
+01044101,Rehberge,19903,D2,-0.26
+01044101,Rehberge,19903,D3,-0.41
+01044101,Rehberge,19903,D4,-0.95
+01044102,Schillerpark,15792,S1,10.41
+01044102,Schillerpark,15792,S2,3.13
+01044102,Schillerpark,15792,S3,18.43
+01044102,Schillerpark,15792,S4,52.51
+01044102,Schillerpark,15792,D1,-1.8
+01044102,Schillerpark,15792,D2,-0.93
+01044102,Schillerpark,15792,D3,0.98
+01044102,Schillerpark,15792,D4,0.99
+01044103,Westliche Müllerstraße,8076,S1,10.29
+01044103,Westliche Müllerstraße,8076,S2,3.16
+01044103,Westliche Müllerstraße,8076,S3,19.03
+01044103,Westliche Müllerstraße,8076,S4,52.02
+01044103,Westliche Müllerstraße,8076,D1,-1.63
+01044103,Westliche Müllerstraße,8076,D2,-0.67
+01044103,Westliche Müllerstraße,8076,D3,-1.18
+01044103,Westliche Müllerstraße,8076,D4,-1.72
+01044201,Reinickendorfer Straße,23103,S1,13.66
+01044201,Reinickendorfer Straße,23103,S2,3.94
+01044201,Reinickendorfer Straße,23103,S3,32.45
+01044201,Reinickendorfer Straße,23103,S4,72.09
+01044201,Reinickendorfer Straße,23103,D1,-1.42
+01044201,Reinickendorfer Straße,23103,D2,-1.1
+01044201,Reinickendorfer Straße,23103,D3,0.34
+01044201,Reinickendorfer Straße,23103,D4,0.64
+01044202,Sparrplatz,16636,S1,10.22
+01044202,Sparrplatz,16636,S2,3.37
+01044202,Sparrplatz,16636,S3,20.64
+01044202,Sparrplatz,16636,S4,57.92
+01044202,Sparrplatz,16636,D1,-0.73
+01044202,Sparrplatz,16636,D2,-0.14
+01044202,Sparrplatz,16636,D3,-1.62
+01044202,Sparrplatz,16636,D4,-2.56
+01044203,Leopoldplatz,15985,S1,12.36
+01044203,Leopoldplatz,15985,S2,3.59
+01044203,Leopoldplatz,15985,S3,27.87
+01044203,Leopoldplatz,15985,S4,66.23
+01044203,Leopoldplatz,15985,D1,-1.53
+01044203,Leopoldplatz,15985,D2,-1.18
+01044203,Leopoldplatz,15985,D3,0.61
+01044203,Leopoldplatz,15985,D4,0.15
+02010101,Askanischer Platz,6106,S1,12.13
+02010101,Askanischer Platz,6106,S2,4.06
+02010101,Askanischer Platz,6106,S3,26.88
+02010101,Askanischer Platz,6106,S4,59.57
+02010101,Askanischer Platz,6106,D1,-0.68
+02010101,Askanischer Platz,6106,D2,-0.79
+02010101,Askanischer Platz,6106,D3,-2.39
+02010101,Askanischer Platz,6106,D4,-3.06
+02010102,Mehringplatz,13047,S1,14.4
+02010102,Mehringplatz,13047,S2,5.32
+02010102,Mehringplatz,13047,S3,33.66
+02010102,Mehringplatz,13047,S4,64.43
+02010102,Mehringplatz,13047,D1,-0.17
+02010102,Mehringplatz,13047,D2,-0.22
+02010102,Mehringplatz,13047,D3,-1.33
+02010102,Mehringplatz,13047,D4,-4.11
+02010103,Moritzplatz,15589,S1,16.69
+02010103,Moritzplatz,15589,S2,6.13
+02010103,Moritzplatz,15589,S3,36.77
+02010103,Moritzplatz,15589,S4,72.12
+02010103,Moritzplatz,15589,D1,-1.16
+02010103,Moritzplatz,15589,D2,-0.64
+02010103,Moritzplatz,15589,D3,-0.8
+02010103,Moritzplatz,15589,D4,-1.38
+02010104,Wassertorplatz,5145,S1,13.4
+02010104,Wassertorplatz,5145,S2,4.73
+02010104,Wassertorplatz,5145,S3,35.69
+02010104,Wassertorplatz,5145,S4,70.52
+02010104,Wassertorplatz,5145,D1,-2.18
+02010104,Wassertorplatz,5145,D2,-1.1
+02010104,Wassertorplatz,5145,D3,-1.62
+02010104,Wassertorplatz,5145,D4,1.21
+02020202,Rathaus Yorckstraße,5726,S1,7.74
+02020202,Rathaus Yorckstraße,5726,S2,2.63
+02020202,Rathaus Yorckstraße,5726,S3,13.38
+02020202,Rathaus Yorckstraße,5726,S4,24.28
+02020202,Rathaus Yorckstraße,5726,D1,-0.49
+02020202,Rathaus Yorckstraße,5726,D2,-0.14
+02020202,Rathaus Yorckstraße,5726,D3,0.03
+02020202,Rathaus Yorckstraße,5726,D4,-4.19
+02020203,Viktoriapark,10668,S1,6.83
+02020203,Viktoriapark,10668,S2,1.85
+02020203,Viktoriapark,10668,S3,11.49
+02020203,Viktoriapark,10668,S4,24.02
+02020203,Viktoriapark,10668,D1,-0.94
+02020203,Viktoriapark,10668,D2,-0.56
+02020203,Viktoriapark,10668,D3,-0.5
+02020203,Viktoriapark,10668,D4,-1.58
+02020204,Urbanstraße,12195,S1,6.93
+02020204,Urbanstraße,12195,S2,2.09
+02020204,Urbanstraße,12195,S3,12.45
+02020204,Urbanstraße,12195,S4,25.63
+02020204,Urbanstraße,12195,D1,-1.11
+02020204,Urbanstraße,12195,D2,-0.75
+02020204,Urbanstraße,12195,D3,-0.36
+02020204,Urbanstraße,12195,D4,-0.57
+02020205,Chamissokiez,14837,S1,7.16
+02020205,Chamissokiez,14837,S2,2.07
+02020205,Chamissokiez,14837,S3,12.26
+02020205,Chamissokiez,14837,S4,23.94
+02020205,Chamissokiez,14837,D1,-0.58
+02020205,Chamissokiez,14837,D2,-0.35
+02020205,Chamissokiez,14837,D3,-0.4
+02020205,Chamissokiez,14837,D4,-2.16
+02020206,Graefekiez,18928,S1,8.43
+02020206,Graefekiez,18928,S2,2.61
+02020206,Graefekiez,18928,S3,17.12
+02020206,Graefekiez,18928,S4,36.33
+02020206,Graefekiez,18928,D1,-1
+02020206,Graefekiez,18928,D2,-0.52
+02020206,Graefekiez,18928,D3,-0.72
+02020206,Graefekiez,18928,D4,-3.32
+02030301,Oranienplatz,9216,S1,12.07
+02030301,Oranienplatz,9216,S2,4.17
+02030301,Oranienplatz,9216,S3,29.1
+02030301,Oranienplatz,9216,S4,57.7
+02030301,Oranienplatz,9216,D1,-1.15
+02030301,Oranienplatz,9216,D2,-0.36
+02030301,Oranienplatz,9216,D3,-0.19
+02030301,Oranienplatz,9216,D4,-0.03
+02030302,Lausitzer Platz,13282,S1,10.97
+02030302,Lausitzer Platz,13282,S2,3.53
+02030302,Lausitzer Platz,13282,S3,23.36
+02030302,Lausitzer Platz,13282,S4,46.31
+02030302,Lausitzer Platz,13282,D1,-0.87
+02030302,Lausitzer Platz,13282,D2,-0.38
+02030302,Lausitzer Platz,13282,D3,-0.61
+02030302,Lausitzer Platz,13282,D4,-3.99
+02030401,Reichenberger Straße,15222,S1,9.2
+02030401,Reichenberger Straße,15222,S2,2.82
+02030401,Reichenberger Straße,15222,S3,18.37
+02030401,Reichenberger Straße,15222,S4,39.81
+02030401,Reichenberger Straße,15222,D1,-0.6
+02030401,Reichenberger Straße,15222,D2,-0.29
+02030401,Reichenberger Straße,15222,D3,-0.34
+02030401,Reichenberger Straße,15222,D4,-2.65
+02030402,Wrangelkiez,11273,S1,8.99
+02030402,Wrangelkiez,11273,S2,2.88
+02030402,Wrangelkiez,11273,S3,17.54
+02030402,Wrangelkiez,11273,S4,38.11
+02030402,Wrangelkiez,11273,D1,-0.64
+02030402,Wrangelkiez,11273,D2,-0.28
+02030402,Wrangelkiez,11273,D3,-0.59
+02030402,Wrangelkiez,11273,D4,-1.79
+02040501,Barnimkiez,5410,S1,9.62
+02040501,Barnimkiez,5410,S2,3.14
+02040501,Barnimkiez,5410,S3,13.55
+02040501,Barnimkiez,5410,S4,42.52
+02040501,Barnimkiez,5410,D1,0.21
+02040501,Barnimkiez,5410,D2,-0.24
+02040501,Barnimkiez,5410,D3,-0.18
+02040501,Barnimkiez,5410,D4,-4.68
+02040502,Friedenstraße,7118,S1,7.34
+02040502,Friedenstraße,7118,S2,2.13
+02040502,Friedenstraße,7118,S3,10.27
+02040502,Friedenstraße,7118,S4,30.78
+02040502,Friedenstraße,7118,D1,-0.3
+02040502,Friedenstraße,7118,D2,-0.14
+02040502,Friedenstraße,7118,D3,-0.08
+02040502,Friedenstraße,7118,D4,1.27
+02040503,Richard-Sorge-Viertel,10680,S1,5.64
+02040503,Richard-Sorge-Viertel,10680,S2,1.48
+02040503,Richard-Sorge-Viertel,10680,S3,7.22
+02040503,Richard-Sorge-Viertel,10680,S4,15.07
+02040503,Richard-Sorge-Viertel,10680,D1,-0.46
+02040503,Richard-Sorge-Viertel,10680,D2,-0.24
+02040503,Richard-Sorge-Viertel,10680,D3,0.08
+02040503,Richard-Sorge-Viertel,10680,D4,-0.35
+02040701,Andreasviertel,12266,S1,7.13
+02040701,Andreasviertel,12266,S2,2.08
+02040701,Andreasviertel,12266,S3,13.69
+02040701,Andreasviertel,12266,S4,44.24
+02040701,Andreasviertel,12266,D1,-0.69
+02040701,Andreasviertel,12266,D2,-0.42
+02040701,Andreasviertel,12266,D3,0.77
+02040701,Andreasviertel,12266,D4,0.33
+02040702,Weberwiese,10677,S1,6.17
+02040702,Weberwiese,10677,S2,1.5
+02040702,Weberwiese,10677,S3,7.51
+02040702,Weberwiese,10677,S4,14.5
+02040702,Weberwiese,10677,D1,-0.55
+02040702,Weberwiese,10677,D2,-0.3
+02040702,Weberwiese,10677,D3,0.04
+02040702,Weberwiese,10677,D4,0.07
+02040703,Wriezener Bahnhof/Entwicklungsgebiet,855,S1,7.76
+02040703,Wriezener Bahnhof/Entwicklungsgebiet,855,S2,2.64
+02040703,Wriezener Bahnhof/Entwicklungsgebiet,855,S3,22.92
+02040703,Wriezener Bahnhof/Entwicklungsgebiet,855,S4,57.14
+02040703,Wriezener Bahnhof/Entwicklungsgebiet,855,D1,-0.86
+02040703,Wriezener Bahnhof/Entwicklungsgebiet,855,D2,0.03
+02040703,Wriezener Bahnhof/Entwicklungsgebiet,855,D3,3.3
+02040703,Wriezener Bahnhof/Entwicklungsgebiet,855,D4,-3.9
+02050601,Hausburgviertel,8752,S1,8.21
+02050601,Hausburgviertel,8752,S2,2.1
+02050601,Hausburgviertel,8752,S3,9.52
+02050601,Hausburgviertel,8752,S4,22.31
+02050601,Hausburgviertel,8752,D1,-0.29
+02050601,Hausburgviertel,8752,D2,-0.4
+02050601,Hausburgviertel,8752,D3,-0.93
+02050601,Hausburgviertel,8752,D4,-3.07
+02050602,Samariterviertel,19631,S1,7.52
+02050602,Samariterviertel,19631,S2,1.93
+02050602,Samariterviertel,19631,S3,9.61
+02050602,Samariterviertel,19631,S4,17.47
+02050602,Samariterviertel,19631,D1,-0.55
+02050602,Samariterviertel,19631,D2,-0.53
+02050602,Samariterviertel,19631,D3,-0.78
+02050602,Samariterviertel,19631,D4,-4.83
+02050801,Traveplatz,18811,S1,7.6
+02050801,Traveplatz,18811,S2,2.04
+02050801,Traveplatz,18811,S3,11.5
+02050801,Traveplatz,18811,S4,27.15
+02050801,Traveplatz,18811,D1,-0.74
+02050801,Traveplatz,18811,D2,-0.47
+02050801,Traveplatz,18811,D3,-0.76
+02050801,Traveplatz,18811,D4,-3.98
+02050802,Boxhagener Platz,19841,S1,6.1
+02050802,Boxhagener Platz,19841,S2,1.55
+02050802,Boxhagener Platz,19841,S3,7.77
+02050802,Boxhagener Platz,19841,S4,14.27
+02050802,Boxhagener Platz,19841,D1,-0.9
+02050802,Boxhagener Platz,19841,D2,-0.44
+02050802,Boxhagener Platz,19841,D3,-0.42
+02050802,Boxhagener Platz,19841,D4,-2.53
+02050803,Stralauer Kiez,6632,S1,7.3
+02050803,Stralauer Kiez,6632,S2,2.06
+02050803,Stralauer Kiez,6632,S3,10.93
+02050803,Stralauer Kiez,6632,S4,29.29
+02050803,Stralauer Kiez,6632,D1,-0.75
+02050803,Stralauer Kiez,6632,D2,-0.2
+02050803,Stralauer Kiez,6632,D3,-0.78
+02050803,Stralauer Kiez,6632,D4,-0.59
+02050804,Stralauer Halbinsel,3500,S1,2.82
+02050804,Stralauer Halbinsel,3500,S2,0.7
+02050804,Stralauer Halbinsel,3500,S3,3.37
+02050804,Stralauer Halbinsel,3500,S4,4.45
+02050804,Stralauer Halbinsel,3500,D1,-0.56
+02050804,Stralauer Halbinsel,3500,D2,0.13
+02050804,Stralauer Halbinsel,3500,D3,-0.21
+02050804,Stralauer Halbinsel,3500,D4,-0.78
+03010101,Bucher Forst,3297,S1,7.99
+03010101,Bucher Forst,3297,S2,2.53
+03010101,Bucher Forst,3297,S3,9.01
+03010101,Bucher Forst,3297,S4,16.56
+03010101,Bucher Forst,3297,D1,-1.59
+03010101,Bucher Forst,3297,D2,-1.09
+03010101,Bucher Forst,3297,D3,-0.54
+03010101,Bucher Forst,3297,D4,-4.18
+03010102,Buch,11207,S1,10.62
+03010102,Buch,11207,S2,3.94
+03010102,Buch,11207,S3,15.93
+03010102,Buch,11207,S4,43.7
+03010102,Buch,11207,D1,-0.98
+03010102,Buch,11207,D2,-0.45
+03010102,Buch,11207,D3,0.76
+03010102,Buch,11207,D4,-2.95
+03020203,Blankenfelde,2069,S1,6.06
+03020203,Blankenfelde,2069,S2,2.61
+03020203,Blankenfelde,2069,S3,3.29
+03020203,Blankenfelde,2069,S4,8.87
+03020203,Blankenfelde,2069,D1,-1.27
+03020203,Blankenfelde,2069,D2,0.19
+03020203,Blankenfelde,2069,D3,-1.82
+03020203,Blankenfelde,2069,D4,-2.53
+03020209,Niederschönhausen,14031,S1,4.45
+03020209,Niederschönhausen,14031,S2,1.41
+03020209,Niederschönhausen,14031,S3,5.12
+03020209,Niederschönhausen,14031,S4,8.47
+03020209,Niederschönhausen,14031,D1,-1.06
+03020209,Niederschönhausen,14031,D2,-0.33
+03020209,Niederschönhausen,14031,D3,-0.42
+03020209,Niederschönhausen,14031,D4,-0.77
+03020210,Herthaplatz,10429,S1,5
+03020210,Herthaplatz,10429,S2,1.78
+03020210,Herthaplatz,10429,S3,5.69
+03020210,Herthaplatz,10429,S4,9.47
+03020210,Herthaplatz,10429,D1,-0.56
+03020210,Herthaplatz,10429,D2,0.3
+03020210,Herthaplatz,10429,D3,-0.63
+03020210,Herthaplatz,10429,D4,-1.24
+03020307,Buchholz,17218,S1,4.72
+03020307,Buchholz,17218,S2,1.57
+03020307,Buchholz,17218,S3,6.45
+03020307,Buchholz,17218,S4,12.8
+03020307,Buchholz,17218,D1,-0.96
+03020307,Buchholz,17218,D2,-0.29
+03020307,Buchholz,17218,D3,-0.68
+03020307,Buchholz,17218,D4,-3.08
+03030405,Karow Nord,10576,S1,5.4
+03030405,Karow Nord,10576,S2,1.68
+03030405,Karow Nord,10576,S3,9.18
+03030405,Karow Nord,10576,S4,19.46
+03030405,Karow Nord,10576,D1,-0.97
+03030405,Karow Nord,10576,D2,-0.37
+03030405,Karow Nord,10576,D3,0.61
+03030405,Karow Nord,10576,D4,-0.25
+03030406,Alt-Karow,8157,S1,3.15
+03030406,Alt-Karow,8157,S2,1
+03030406,Alt-Karow,8157,S3,2.18
+03030406,Alt-Karow,8157,S4,4.96
+03030406,Alt-Karow,8157,D1,-0.15
+03030406,Alt-Karow,8157,D2,-0.06
+03030406,Alt-Karow,8157,D3,-0.2
+03030406,Alt-Karow,8157,D4,0.5
+03030711,Blankenburg,6745,S1,3.12
+03030711,Blankenburg,6745,S2,1.13
+03030711,Blankenburg,6745,S3,2.65
+03030711,Blankenburg,6745,S4,4.49
+03030711,Blankenburg,6745,D1,-0.95
+03030711,Blankenburg,6745,D2,-0.35
+03030711,Blankenburg,6745,D3,0.23
+03030711,Blankenburg,6745,D4,-0.23
+03030715,Heinersdorf,6583,S1,4.35
+03030715,Heinersdorf,6583,S2,1.62
+03030715,Heinersdorf,6583,S3,4.03
+03030715,Heinersdorf,6583,S4,8.88
+03030715,Heinersdorf,6583,D1,-0.3
+03030715,Heinersdorf,6583,D2,-0.02
+03030715,Heinersdorf,6583,D3,0.16
+03030715,Heinersdorf,6583,D4,-0.95
+03030716,Märchenland,1128,S1,4.02
+03030716,Märchenland,1128,S2,0.89
+03030716,Märchenland,1128,S3,2.22
+03030716,Märchenland,1128,S4,5.94
+03030716,Märchenland,1128,D1,0.98
+03030716,Märchenland,1128,D2,-0.12
+03030716,Märchenland,1128,D3,-0.43
+03030716,Märchenland,1128,D4,5.94
+03040508,Rosenthal,4587,S1,3.91
+03040508,Rosenthal,4587,S2,1.27
+03040508,Rosenthal,4587,S3,5.65
+03040508,Rosenthal,4587,S4,12.28
+03040508,Rosenthal,4587,D1,-0.7
+03040508,Rosenthal,4587,D2,-0.15
+03040508,Rosenthal,4587,D3,-0.1
+03040508,Rosenthal,4587,D4,0.02
+03040512,Wilhelmsruh,9520,S1,4.98
+03040512,Wilhelmsruh,9520,S2,1.78
+03040512,Wilhelmsruh,9520,S3,4.97
+03040512,Wilhelmsruh,9520,S4,9.62
+03040512,Wilhelmsruh,9520,D1,-0.26
+03040512,Wilhelmsruh,9520,D2,0.08
+03040512,Wilhelmsruh,9520,D3,0.01
+03040512,Wilhelmsruh,9520,D4,-0.85
+03040513,Schönholz,3357,S1,4.08
+03040513,Schönholz,3357,S2,1.49
+03040513,Schönholz,3357,S3,2.8
+03040513,Schönholz,3357,S4,1.75
+03040513,Schönholz,3357,D1,-0.74
+03040513,Schönholz,3357,D2,-0.2
+03040513,Schönholz,3357,D3,-1.15
+03040513,Schönholz,3357,D4,-3.51
+03040614,Pankow Zentrum,34233,S1,6.38
+03040614,Pankow Zentrum,34233,S2,2.07
+03040614,Pankow Zentrum,34233,S3,7.69
+03040614,Pankow Zentrum,34233,S4,14.11
+03040614,Pankow Zentrum,34233,D1,-0.74
+03040614,Pankow Zentrum,34233,D2,-0.32
+03040614,Pankow Zentrum,34233,D3,-0.32
+03040614,Pankow Zentrum,34233,D4,-1.43
+03040818,Pankow Süd,33714,S1,6.78
+03040818,Pankow Süd,33714,S2,2.12
+03040818,Pankow Süd,33714,S3,8.56
+03040818,Pankow Süd,33714,S4,18.33
+03040818,Pankow Süd,33714,D1,-0.89
+03040818,Pankow Süd,33714,D2,-0.38
+03040818,Pankow Süd,33714,D3,-0.45
+03040818,Pankow Süd,33714,D4,-3.18
+03050919,Gustav-Adolf-Straße,5320,S1,6.61
+03050919,Gustav-Adolf-Straße,5320,S2,1.97
+03050919,Gustav-Adolf-Straße,5320,S3,8.65
+03050919,Gustav-Adolf-Straße,5320,S4,18.57
+03050919,Gustav-Adolf-Straße,5320,D1,-2.03
+03050919,Gustav-Adolf-Straße,5320,D2,-0.64
+03050919,Gustav-Adolf-Straße,5320,D3,-0.3
+03050919,Gustav-Adolf-Straße,5320,D4,-2.91
+03050920,Weißer See,7024,S1,6.47
+03050920,Weißer See,7024,S2,2.25
+03050920,Weißer See,7024,S3,7.87
+03050920,Weißer See,7024,S4,15.16
+03050920,Weißer See,7024,D1,-1.75
+03050920,Weißer See,7024,D2,-0.42
+03050920,Weißer See,7024,D3,0.26
+03050920,Weißer See,7024,D4,-2.13
+03050923,Weißenseer Spitze,8772,S1,8.88
+03050923,Weißenseer Spitze,8772,S2,3.43
+03050923,Weißenseer Spitze,8772,S3,9.54
+03050923,Weißenseer Spitze,8772,S4,17.34
+03050923,Weißenseer Spitze,8772,D1,-0.75
+03050923,Weißenseer Spitze,8772,D2,-0.2
+03050923,Weißenseer Spitze,8772,D3,-1.5
+03050923,Weißenseer Spitze,8772,D4,-4.42
+03050924,Behaimstraße,5647,S1,10.15
+03050924,Behaimstraße,5647,S2,3.52
+03050924,Behaimstraße,5647,S3,10.86
+03050924,Behaimstraße,5647,S4,20.6
+03050924,Behaimstraße,5647,D1,-1.03
+03050924,Behaimstraße,5647,D2,0.02
+03050924,Behaimstraße,5647,D3,-0.67
+03050924,Behaimstraße,5647,D4,-1.36
+03050925,Komponistenviertel Weißensee,8679,S1,6.99
+03050925,Komponistenviertel Weißensee,8679,S2,2.39
+03050925,Komponistenviertel Weißensee,8679,S3,9.38
+03050925,Komponistenviertel Weißensee,8679,S4,16.57
+03050925,Komponistenviertel Weißensee,8679,D1,-0.76
+03050925,Komponistenviertel Weißensee,8679,D2,-0.46
+03050925,Komponistenviertel Weißensee,8679,D3,0.07
+03050925,Komponistenviertel Weißensee,8679,D4,-0.65
+03051017,Rennbahnstraße,4123,S1,7.2
+03051017,Rennbahnstraße,4123,S2,2.17
+03051017,Rennbahnstraße,4123,S3,9.36
+03051017,Rennbahnstraße,4123,S4,21.44
+03051017,Rennbahnstraße,4123,D1,-0.34
+03051017,Rennbahnstraße,4123,D2,-0.61
+03051017,Rennbahnstraße,4123,D3,0.62
+03051017,Rennbahnstraße,4123,D4,-1.72
+03051021,Buschallee,6484,S1,9.6
+03051021,Buschallee,6484,S2,3.39
+03051021,Buschallee,6484,S3,10.19
+03051021,Buschallee,6484,S4,29.19
+03051021,Buschallee,6484,D1,-0.86
+03051021,Buschallee,6484,D2,-0.17
+03051021,Buschallee,6484,D3,-0.29
+03051021,Buschallee,6484,D4,-3.44
+03051022,Hansastraße,4518,S1,6.79
+03051022,Hansastraße,4518,S2,2.78
+03051022,Hansastraße,4518,S3,10.89
+03051022,Hansastraße,4518,S4,35.19
+03051022,Hansastraße,4518,D1,-1.6
+03051022,Hansastraße,4518,D2,-0.08
+03051022,Hansastraße,4518,D3,0.11
+03051022,Hansastraße,4518,D4,-1.03
+03061126,Arnimplatz,14997,S1,6.65
+03061126,Arnimplatz,14997,S2,1.9
+03061126,Arnimplatz,14997,S3,7.01
+03061126,Arnimplatz,14997,S4,10.88
+03061126,Arnimplatz,14997,D1,-1
+03061126,Arnimplatz,14997,D2,-0.43
+03061126,Arnimplatz,14997,D3,-0.74
+03061126,Arnimplatz,14997,D4,-3.88
+03061131,Falkplatz,10185,S1,5.92
+03061131,Falkplatz,10185,S2,1.68
+03061131,Falkplatz,10185,S3,5.75
+03061131,Falkplatz,10185,S4,6.82
+03061131,Falkplatz,10185,D1,-0.53
+03061131,Falkplatz,10185,D2,-0.54
+03061131,Falkplatz,10185,D3,-0.32
+03061131,Falkplatz,10185,D4,-1.27
+03061227,Humannplatz,14413,S1,6.33
+03061227,Humannplatz,14413,S2,1.74
+03061227,Humannplatz,14413,S3,6.66
+03061227,Humannplatz,14413,S4,12.64
+03061227,Humannplatz,14413,D1,-0.26
+03061227,Humannplatz,14413,D2,-0.2
+03061227,Humannplatz,14413,D3,-0.38
+03061227,Humannplatz,14413,D4,-0.77
+03061228,Erich-Weinert-Straße,12386,S1,7.82
+03061228,Erich-Weinert-Straße,12386,S2,2.47
+03061228,Erich-Weinert-Straße,12386,S3,9.37
+03061228,Erich-Weinert-Straße,12386,S4,23.81
+03061228,Erich-Weinert-Straße,12386,D1,-1.79
+03061228,Erich-Weinert-Straße,12386,D2,-0.76
+03061228,Erich-Weinert-Straße,12386,D3,-0.66
+03061228,Erich-Weinert-Straße,12386,D4,-5.08
+03061332,Helmholtzplatz,22245,S1,6.29
+03061332,Helmholtzplatz,22245,S2,1.89
+03061332,Helmholtzplatz,22245,S3,6.92
+03061332,Helmholtzplatz,22245,S4,9.94
+03061332,Helmholtzplatz,22245,D1,-0.54
+03061332,Helmholtzplatz,22245,D2,-0.38
+03061332,Helmholtzplatz,22245,D3,-0.34
+03061332,Helmholtzplatz,22245,D4,-1.74
+03061429,Greifswalder Straße,10163,S1,9.73
+03061429,Greifswalder Straße,10163,S2,3.82
+03061429,Greifswalder Straße,10163,S3,10.77
+03061429,Greifswalder Straße,10163,S4,38.36
+03061429,Greifswalder Straße,10163,D1,-1.07
+03061429,Greifswalder Straße,10163,D2,0.03
+03061429,Greifswalder Straße,10163,D3,0.12
+03061429,Greifswalder Straße,10163,D4,-1.66
+03061430,Volkspark Prenzlauer Berg,2971,S1,14.89
+03061430,Volkspark Prenzlauer Berg,2971,S2,4.72
+03061430,Volkspark Prenzlauer Berg,2971,S3,11.71
+03061430,Volkspark Prenzlauer Berg,2971,S4,30.48
+03061430,Volkspark Prenzlauer Berg,2971,D1,1.16
+03061430,Volkspark Prenzlauer Berg,2971,D2,-0.64
+03061430,Volkspark Prenzlauer Berg,2971,D3,0
+03061430,Volkspark Prenzlauer Berg,2971,D4,-0.61
+03061434,Anton-Saefkow-Park,6078,S1,7.56
+03061434,Anton-Saefkow-Park,6078,S2,2.39
+03061434,Anton-Saefkow-Park,6078,S3,8.52
+03061434,Anton-Saefkow-Park,6078,S4,15.2
+03061434,Anton-Saefkow-Park,6078,D1,-0.91
+03061434,Anton-Saefkow-Park,6078,D2,-0.16
+03061434,Anton-Saefkow-Park,6078,D3,-0.12
+03061434,Anton-Saefkow-Park,6078,D4,-0.83
+03061435,Conrad-Blenkle-Straße,3925,S1,9.93
+03061435,Conrad-Blenkle-Straße,3925,S2,3.52
+03061435,Conrad-Blenkle-Straße,3925,S3,13.07
+03061435,Conrad-Blenkle-Straße,3925,S4,33.64
+03061435,Conrad-Blenkle-Straße,3925,D1,-1.33
+03061435,Conrad-Blenkle-Straße,3925,D2,-0.44
+03061435,Conrad-Blenkle-Straße,3925,D3,0.71
+03061435,Conrad-Blenkle-Straße,3925,D4,-2.41
+03061441,Eldenaer Straße,2342,S1,2.18
+03061441,Eldenaer Straße,2342,S2,0.41
+03061441,Eldenaer Straße,2342,S3,0.81
+03061441,Eldenaer Straße,2342,S4,0.6
+03061441,Eldenaer Straße,2342,D1,-0.06
+03061441,Eldenaer Straße,2342,D2,0.41
+03061441,Eldenaer Straße,2342,D3,-0.65
+03061441,Eldenaer Straße,2342,D4,-0.04
+03071536,Teutoburger Platz,10661,S1,5.22
+03071536,Teutoburger Platz,10661,S2,1.42
+03071536,Teutoburger Platz,10661,S3,5.56
+03071536,Teutoburger Platz,10661,S4,9.66
+03071536,Teutoburger Platz,10661,D1,-0.42
+03071536,Teutoburger Platz,10661,D2,-0.12
+03071536,Teutoburger Platz,10661,D3,-0.28
+03071536,Teutoburger Platz,10661,D4,0.37
+03071537,Kollwitzplatz,14511,S1,5.11
+03071537,Kollwitzplatz,14511,S2,1.48
+03071537,Kollwitzplatz,14511,S3,5.47
+03071537,Kollwitzplatz,14511,S4,7.7
+03071537,Kollwitzplatz,14511,D1,-0.61
+03071537,Kollwitzplatz,14511,D2,-0.14
+03071537,Kollwitzplatz,14511,D3,0.04
+03071537,Kollwitzplatz,14511,D4,0.41
+03071633,Thälmannpark,2736,S1,9.98
+03071633,Thälmannpark,2736,S2,3.42
+03071633,Thälmannpark,2736,S3,13.96
+03071633,Thälmannpark,2736,S4,24.42
+03071633,Thälmannpark,2736,D1,1.06
+03071633,Thälmannpark,2736,D2,0.34
+03071633,Thälmannpark,2736,D3,-0.24
+03071633,Thälmannpark,2736,D4,-3.31
+03071638,Winsstraße,16800,S1,5.56
+03071638,Winsstraße,16800,S2,1.68
+03071638,Winsstraße,16800,S3,5.95
+03071638,Winsstraße,16800,S4,9.96
+03071638,Winsstraße,16800,D1,-0.65
+03071638,Winsstraße,16800,D2,-0.12
+03071638,Winsstraße,16800,D3,-0.26
+03071638,Winsstraße,16800,D4,-0.14
+03071639,Bötzowstraße,12323,S1,5.79
+03071639,Bötzowstraße,12323,S2,1.56
+03071639,Bötzowstraße,12323,S3,5.91
+03071639,Bötzowstraße,12323,S4,7.81
+03071639,Bötzowstraße,12323,D1,-0.38
+03071639,Bötzowstraße,12323,D2,-0.24
+03071639,Bötzowstraße,12323,D3,-0.29
+03071639,Bötzowstraße,12323,D4,-0.35
+04010101,Jungfernheide,10339,S1,12.75
+04010101,Jungfernheide,10339,S2,4.97
+04010101,Jungfernheide,10339,S3,19.48
+04010101,Jungfernheide,10339,S4,56.17
+04010101,Jungfernheide,10339,D1,-0.49
+04010101,Jungfernheide,10339,D2,-0.39
+04010101,Jungfernheide,10339,D3,-1.51
+04010101,Jungfernheide,10339,D4,0.37
+04010102,Plötzensee,772,S1,7.95
+04010102,Plötzensee,772,S2,2.71
+04010102,Plötzensee,772,S3,8.16
+04010102,Plötzensee,772,S4,42.42
+04010102,Plötzensee,772,D1,2.53
+04010102,Plötzensee,772,D2,0.01
+04010102,Plötzensee,772,D3,2.98
+04010102,Plötzensee,772,D4,7.64
+04010103,Paul-Hertz-Siedlung,7631,S1,12.69
+04010103,Paul-Hertz-Siedlung,7631,S2,4.79
+04010103,Paul-Hertz-Siedlung,7631,S3,24.87
+04010103,Paul-Hertz-Siedlung,7631,S4,55.86
+04010103,Paul-Hertz-Siedlung,7631,D1,0.04
+04010103,Paul-Hertz-Siedlung,7631,D2,-0.53
+04010103,Paul-Hertz-Siedlung,7631,D3,0.8
+04010103,Paul-Hertz-Siedlung,7631,D4,0.05
+04020205,Siedlung Ruhleben,1264,S1,3.29
+04020205,Siedlung Ruhleben,1264,S2,0.39
+04020205,Siedlung Ruhleben,1264,S3,1.9
+04020205,Siedlung Ruhleben,1264,S4,6.13
+04020205,Siedlung Ruhleben,1264,D1,0.31
+04020205,Siedlung Ruhleben,1264,D2,-0.64
+04020205,Siedlung Ruhleben,1264,D3,-0.84
+04020205,Siedlung Ruhleben,1264,D4,0.87
+04020206,Angerburger Allee,2570,S1,5.03
+04020206,Angerburger Allee,2570,S2,1.89
+04020206,Angerburger Allee,2570,S3,5.41
+04020206,Angerburger Allee,2570,S4,19.46
+04020206,Angerburger Allee,2570,D1,-0.46
+04020206,Angerburger Allee,2570,D2,0.43
+04020206,Angerburger Allee,2570,D3,-0.32
+04020206,Angerburger Allee,2570,D4,1.21
+04020207,Flatowallee,2624,S1,3.36
+04020207,Flatowallee,2624,S2,0.85
+04020207,Flatowallee,2624,S3,2.71
+04020207,Flatowallee,2624,S4,4.95
+04020207,Flatowallee,2624,D1,-0.44
+04020207,Flatowallee,2624,D2,-0.47
+04020207,Flatowallee,2624,D3,-0.32
+04020207,Flatowallee,2624,D4,-3.36
+04020208,Kranzallee,2846,S1,3.48
+04020208,Kranzallee,2846,S2,1.16
+04020208,Kranzallee,2846,S3,3.58
+04020208,Kranzallee,2846,S4,5.06
+04020208,Kranzallee,2846,D1,-0.23
+04020208,Kranzallee,2846,D2,-0.16
+04020208,Kranzallee,2846,D3,1.05
+04020208,Kranzallee,2846,D4,3.51
+04020209,Eichkamp,3128,S1,0.95
+04020209,Eichkamp,3128,S2,0
+04020209,Eichkamp,3128,S3,0.83
+04020209,Eichkamp,3128,S4,1.57
+04020209,Eichkamp,3128,D1,-0.3
+04020209,Eichkamp,3128,D2,-0.37
+04020209,Eichkamp,3128,D3,0.04
+04020209,Eichkamp,3128,D4,0.76
+04020310,Park Ruhwald,600,S1,2.81
+04020310,Park Ruhwald,600,S2,1.3
+04020310,Park Ruhwald,600,S3,3.17
+04020310,Park Ruhwald,600,S4,0
+04020310,Park Ruhwald,600,D1,-2.32
+04020310,Park Ruhwald,600,D2,-0.41
+04020310,Park Ruhwald,600,D3,-1.28
+04020310,Park Ruhwald,600,D4,-11.11
+04020311,Reichsstraße,14153,S1,4.94
+04020311,Reichsstraße,14153,S2,1.88
+04020311,Reichsstraße,14153,S3,5.4
+04020311,Reichsstraße,14153,S4,12.08
+04020311,Reichsstraße,14153,D1,-0.16
+04020311,Reichsstraße,14153,D2,-0.1
+04020311,Reichsstraße,14153,D3,-0.18
+04020311,Reichsstraße,14153,D4,-0.1
+04020312,Branitzer Platz,5036,S1,4.63
+04020312,Branitzer Platz,5036,S2,1.46
+04020312,Branitzer Platz,5036,S3,4.96
+04020312,Branitzer Platz,5036,S4,7.6
+04020312,Branitzer Platz,5036,D1,-0.26
+04020312,Branitzer Platz,5036,D2,-0.31
+04020312,Branitzer Platz,5036,D3,-0.22
+04020312,Branitzer Platz,5036,D4,0.57
+04020313,Königin-Elisabeth-Straße,7346,S1,5.56
+04020313,Königin-Elisabeth-Straße,7346,S2,1.77
+04020313,Königin-Elisabeth-Straße,7346,S3,8.66
+04020313,Königin-Elisabeth-Straße,7346,S4,22.16
+04020313,Königin-Elisabeth-Straße,7346,D1,-0.95
+04020313,Königin-Elisabeth-Straße,7346,D2,-0.65
+04020313,Königin-Elisabeth-Straße,7346,D3,-0.4
+04020313,Königin-Elisabeth-Straße,7346,D4,-0.44
+04030415,Schloßgarten,2750,S1,11.03
+04030415,Schloßgarten,2750,S2,4.47
+04030415,Schloßgarten,2750,S3,19.05
+04030415,Schloßgarten,2750,S4,49.25
+04030415,Schloßgarten,2750,D1,0.11
+04030415,Schloßgarten,2750,D2,0.17
+04030415,Schloßgarten,2750,D3,-0.2
+04030415,Schloßgarten,2750,D4,-1.6
+04030416,Klausenerplatz,10276,S1,8.31
+04030416,Klausenerplatz,10276,S2,3.01
+04030416,Klausenerplatz,10276,S3,16.37
+04030416,Klausenerplatz,10276,S4,28.45
+04030416,Klausenerplatz,10276,D1,-0.4
+04030416,Klausenerplatz,10276,D2,-0.8
+04030416,Klausenerplatz,10276,D3,-0.24
+04030416,Klausenerplatz,10276,D4,-0.93
+04030417,Schloßstraße,10758,S1,5.94
+04030417,Schloßstraße,10758,S2,2.04
+04030417,Schloßstraße,10758,S3,9.58
+04030417,Schloßstraße,10758,S4,18.14
+04030417,Schloßstraße,10758,D1,-0.43
+04030417,Schloßstraße,10758,D2,-0.6
+04030417,Schloßstraße,10758,D3,-0.66
+04030417,Schloßstraße,10758,D4,-3.32
+04030518,Tegeler Weg,9313,S1,8.55
+04030518,Tegeler Weg,9313,S2,3.06
+04030518,Tegeler Weg,9313,S3,13.45
+04030518,Tegeler Weg,9313,S4,32.71
+04030518,Tegeler Weg,9313,D1,-0.12
+04030518,Tegeler Weg,9313,D2,-0.54
+04030518,Tegeler Weg,9313,D3,-0.8
+04030518,Tegeler Weg,9313,D4,-2.6
+04030519,Kaiserin-Augusta-Allee,5597,S1,8.29
+04030519,Kaiserin-Augusta-Allee,5597,S2,3.17
+04030519,Kaiserin-Augusta-Allee,5597,S3,14.6
+04030519,Kaiserin-Augusta-Allee,5597,S4,44.31
+04030519,Kaiserin-Augusta-Allee,5597,D1,-0.47
+04030519,Kaiserin-Augusta-Allee,5597,D2,-0.51
+04030519,Kaiserin-Augusta-Allee,5597,D3,-0.7
+04030519,Kaiserin-Augusta-Allee,5597,D4,1.06
+04030620,Alt-Lietzow,8480,S1,7
+04030620,Alt-Lietzow,8480,S2,2.65
+04030620,Alt-Lietzow,8480,S3,12.55
+04030620,Alt-Lietzow,8480,S4,29.56
+04030620,Alt-Lietzow,8480,D1,-0.45
+04030620,Alt-Lietzow,8480,D2,-0.1
+04030620,Alt-Lietzow,8480,D3,-0.12
+04030620,Alt-Lietzow,8480,D4,-2.61
+04030621,Spreestadt,2984,S1,7.97
+04030621,Spreestadt,2984,S2,3.34
+04030621,Spreestadt,2984,S3,14.48
+04030621,Spreestadt,2984,S4,37.1
+04030621,Spreestadt,2984,D1,-0.96
+04030621,Spreestadt,2984,D2,0.02
+04030621,Spreestadt,2984,D3,-2.14
+04030621,Spreestadt,2984,D4,-5.08
+04030622,Richard-Wagner-Straße,10186,S1,8.3
+04030622,Richard-Wagner-Straße,10186,S2,2.78
+04030622,Richard-Wagner-Straße,10186,S3,13.8
+04030622,Richard-Wagner-Straße,10186,S4,32.17
+04030622,Richard-Wagner-Straße,10186,D1,-0.06
+04030622,Richard-Wagner-Straße,10186,D2,-1.02
+04030622,Richard-Wagner-Straße,10186,D3,0.03
+04030622,Richard-Wagner-Straße,10186,D4,-0.27
+04030623,Ernst-Reuter-Platz,4544,S1,8.19
+04030623,Ernst-Reuter-Platz,4544,S2,3.24
+04030623,Ernst-Reuter-Platz,4544,S3,15.01
+04030623,Ernst-Reuter-Platz,4544,S4,35.12
+04030623,Ernst-Reuter-Platz,4544,D1,-0.08
+04030623,Ernst-Reuter-Platz,4544,D2,-0.55
+04030623,Ernst-Reuter-Platz,4544,D3,-0.45
+04030623,Ernst-Reuter-Platz,4544,D4,-2.41
+04030724,Lietzensee,6294,S1,6.51
+04030724,Lietzensee,6294,S2,2.42
+04030724,Lietzensee,6294,S3,8.72
+04030724,Lietzensee,6294,S4,18.85
+04030724,Lietzensee,6294,D1,-0.41
+04030724,Lietzensee,6294,D2,-0.42
+04030724,Lietzensee,6294,D3,0.22
+04030724,Lietzensee,6294,D4,1.6
+04030725,Amtsgerichtsplatz,11822,S1,6.09
+04030725,Amtsgerichtsplatz,11822,S2,2.17
+04030725,Amtsgerichtsplatz,11822,S3,6.99
+04030725,Amtsgerichtsplatz,11822,S4,13.76
+04030725,Amtsgerichtsplatz,11822,D1,0.26
+04030725,Amtsgerichtsplatz,11822,D2,-0.09
+04030725,Amtsgerichtsplatz,11822,D3,-0.96
+04030725,Amtsgerichtsplatz,11822,D4,-2.83
+04030726,Droysenstraße,5407,S1,6.3
+04030726,Droysenstraße,5407,S2,2.21
+04030726,Droysenstraße,5407,S3,7.97
+04030726,Droysenstraße,5407,S4,17.22
+04030726,Droysenstraße,5407,D1,-0.21
+04030726,Droysenstraße,5407,D2,-0.5
+04030726,Droysenstraße,5407,D3,-1
+04030726,Droysenstraße,5407,D4,-2.32
+04030827,Karl-August-Platz,11852,S1,7.26
+04030827,Karl-August-Platz,11852,S2,2.95
+04030827,Karl-August-Platz,11852,S3,11.9
+04030827,Karl-August-Platz,11852,S4,28.34
+04030827,Karl-August-Platz,11852,D1,-0.78
+04030827,Karl-August-Platz,11852,D2,-0.42
+04030827,Karl-August-Platz,11852,D3,-1.61
+04030827,Karl-August-Platz,11852,D4,-6.48
+04030828,Savignyplatz,9315,S1,5.62
+04030828,Savignyplatz,9315,S2,1.75
+04030828,Savignyplatz,9315,S3,7.79
+04030828,Savignyplatz,9315,S4,17.82
+04030828,Savignyplatz,9315,D1,0.19
+04030828,Savignyplatz,9315,D2,-0.59
+04030828,Savignyplatz,9315,D3,-0.49
+04030828,Savignyplatz,9315,D4,-1.3
+04030929,Hindemithplatz,5838,S1,4.68
+04030929,Hindemithplatz,5838,S2,1.78
+04030929,Hindemithplatz,5838,S3,6.75
+04030929,Hindemithplatz,5838,S4,10.14
+04030929,Hindemithplatz,5838,D1,-0.86
+04030929,Hindemithplatz,5838,D2,-0.04
+04030929,Hindemithplatz,5838,D3,-0.74
+04030929,Hindemithplatz,5838,D4,-0.85
+04030930,George-Grosz-Platz,5444,S1,3.97
+04030930,George-Grosz-Platz,5444,S2,1.73
+04030930,George-Grosz-Platz,5444,S3,5.8
+04030930,George-Grosz-Platz,5444,S4,11.03
+04030930,George-Grosz-Platz,5444,D1,-0.95
+04030930,George-Grosz-Platz,5444,D2,-0.31
+04030930,George-Grosz-Platz,5444,D3,-0.24
+04030930,George-Grosz-Platz,5444,D4,-2.2
+04030931,Breitscheidplatz,3432,S1,5.66
+04030931,Breitscheidplatz,3432,S2,1.89
+04030931,Breitscheidplatz,3432,S3,7.98
+04030931,Breitscheidplatz,3432,S4,15.76
+04030931,Breitscheidplatz,3432,D1,-0.13
+04030931,Breitscheidplatz,3432,D2,-0.49
+04030931,Breitscheidplatz,3432,D3,-0.21
+04030931,Breitscheidplatz,3432,D4,-0.16
+04031032,Halensee,14638,S1,6.18
+04031032,Halensee,14638,S2,2.39
+04031032,Halensee,14638,S3,7.95
+04031032,Halensee,14638,S4,16.02
+04031032,Halensee,14638,D1,-0.35
+04031032,Halensee,14638,D2,-0.15
+04031032,Halensee,14638,D3,-0.57
+04031032,Halensee,14638,D4,-3.36
+04041134,Bismarckallee,4979,S1,4.34
+04041134,Bismarckallee,4979,S2,1.57
+04041134,Bismarckallee,4979,S3,5.8
+04041134,Bismarckallee,4979,S4,8.99
+04041134,Bismarckallee,4979,D1,-0.09
+04041134,Bismarckallee,4979,D2,-0.38
+04041134,Bismarckallee,4979,D3,-0.35
+04041134,Bismarckallee,4979,D4,-1.45
+04041135,Hundekehle,2762,S1,2.42
+04041135,Hundekehle,2762,S2,0.81
+04041135,Hundekehle,2762,S3,2.28
+04041135,Hundekehle,2762,S4,2.19
+04041135,Hundekehle,2762,D1,0.29
+04041135,Hundekehle,2762,D2,0.01
+04041135,Hundekehle,2762,D3,-0.5
+04041135,Hundekehle,2762,D4,-2.81
+04041136,Hagenplatz,2990,S1,2.22
+04041136,Hagenplatz,2990,S2,0.62
+04041136,Hagenplatz,2990,S3,2.64
+04041136,Hagenplatz,2990,S4,3.12
+04041136,Hagenplatz,2990,D1,-1.03
+04041136,Hagenplatz,2990,D2,-0.3
+04041136,Hagenplatz,2990,D3,0.14
+04041136,Hagenplatz,2990,D4,-0.33
+04041137,Flinsberger Platz,7729,S1,5.73
+04041137,Flinsberger Platz,7729,S2,2.25
+04041137,Flinsberger Platz,7729,S3,8.25
+04041137,Flinsberger Platz,7729,S4,19.35
+04041137,Flinsberger Platz,7729,D1,-0.5
+04041137,Flinsberger Platz,7729,D2,-0.41
+04041137,Flinsberger Platz,7729,D3,0.12
+04041137,Flinsberger Platz,7729,D4,1.89
+04041238,Kissinger Straße,5597,S1,4.81
+04041238,Kissinger Straße,5597,S2,2
+04041238,Kissinger Straße,5597,S3,6.56
+04041238,Kissinger Straße,5597,S4,13.9
+04041238,Kissinger Straße,5597,D1,-0.63
+04041238,Kissinger Straße,5597,D2,-0.02
+04041238,Kissinger Straße,5597,D3,-1.02
+04041238,Kissinger Straße,5597,D4,-3.82
+04041240,Messelpark,1551,S1,2.2
+04041240,Messelpark,1551,S2,0.37
+04041240,Messelpark,1551,S3,0.9
+04041240,Messelpark,1551,S4,0
+04041240,Messelpark,1551,D1,-0.12
+04041240,Messelpark,1551,D2,0.37
+04041240,Messelpark,1551,D3,-0.39
+04041240,Messelpark,1551,D4,-1.39
+04041241,Breite Straße,6952,S1,3.64
+04041241,Breite Straße,6952,S2,1.5
+04041241,Breite Straße,6952,S3,3.98
+04041241,Breite Straße,6952,S4,4.46
+04041241,Breite Straße,6952,D1,-0.51
+04041241,Breite Straße,6952,D2,0.15
+04041241,Breite Straße,6952,D3,-0.8
+04041241,Breite Straße,6952,D4,-1.67
+04041342,Schlangenbader Straße,3974,S1,5.73
+04041342,Schlangenbader Straße,3974,S2,2.52
+04041342,Schlangenbader Straße,3974,S3,9.41
+04041342,Schlangenbader Straße,3974,S4,21.32
+04041342,Schlangenbader Straße,3974,D1,-1.35
+04041342,Schlangenbader Straße,3974,D2,-0.79
+04041342,Schlangenbader Straße,3974,D3,-0.97
+04041342,Schlangenbader Straße,3974,D4,-3.77
+04041343,Binger Straße,3540,S1,5.45
+04041343,Binger Straße,3540,S2,1.88
+04041343,Binger Straße,3540,S3,6.27
+04041343,Binger Straße,3540,S4,11.48
+04041343,Binger Straße,3540,D1,0.19
+04041343,Binger Straße,3540,D2,-0.41
+04041343,Binger Straße,3540,D3,-1.48
+04041343,Binger Straße,3540,D4,-0.51
+04041344,Rüdesheimer Platz,10660,S1,4.57
+04041344,Rüdesheimer Platz,10660,S2,1.66
+04041344,Rüdesheimer Platz,10660,S3,6.15
+04041344,Rüdesheimer Platz,10660,S4,12.06
+04041344,Rüdesheimer Platz,10660,D1,-0.07
+04041344,Rüdesheimer Platz,10660,D2,-0.03
+04041344,Rüdesheimer Platz,10660,D3,-1.1
+04041344,Rüdesheimer Platz,10660,D4,-3.14
+04051445,Eisenzahnstraße,6116,S1,7.52
+04051445,Eisenzahnstraße,6116,S2,2.76
+04051445,Eisenzahnstraße,6116,S3,10.48
+04051445,Eisenzahnstraße,6116,S4,26.24
+04051445,Eisenzahnstraße,6116,D1,-0.16
+04051445,Eisenzahnstraße,6116,D2,-0.6
+04051445,Eisenzahnstraße,6116,D3,0.09
+04051445,Eisenzahnstraße,6116,D4,2.08
+04051446,Preußenpark,10449,S1,5.19
+04051446,Preußenpark,10449,S2,2.04
+04051446,Preußenpark,10449,S3,7.39
+04051446,Preußenpark,10449,S4,15.41
+04051446,Preußenpark,10449,D1,-0.39
+04051446,Preußenpark,10449,D2,-0.49
+04051446,Preußenpark,10449,D3,0.07
+04051446,Preußenpark,10449,D4,0.29
+04051447,Ludwigkirchplatz,5173,S1,7.05
+04051447,Ludwigkirchplatz,5173,S2,2.4
+04051447,Ludwigkirchplatz,5173,S3,8.27
+04051447,Ludwigkirchplatz,5173,S4,19.28
+04051447,Ludwigkirchplatz,5173,D1,0.11
+04051447,Ludwigkirchplatz,5173,D2,-0.35
+04051447,Ludwigkirchplatz,5173,D3,-0.74
+04051447,Ludwigkirchplatz,5173,D4,0.86
+04051448,Schaperstraße,8915,S1,6.34
+04051448,Schaperstraße,8915,S2,2.66
+04051448,Schaperstraße,8915,S3,7.68
+04051448,Schaperstraße,8915,S4,18.29
+04051448,Schaperstraße,8915,D1,-0.19
+04051448,Schaperstraße,8915,D2,-0.02
+04051448,Schaperstraße,8915,D3,-0.9
+04051448,Schaperstraße,8915,D4,-2.06
+04051549,Rathaus Wilmersdorf,4227,S1,7.55
+04051549,Rathaus Wilmersdorf,4227,S2,2.94
+04051549,Rathaus Wilmersdorf,4227,S3,9.13
+04051549,Rathaus Wilmersdorf,4227,S4,20.82
+04051549,Rathaus Wilmersdorf,4227,D1,-0.15
+04051549,Rathaus Wilmersdorf,4227,D2,0.23
+04051549,Rathaus Wilmersdorf,4227,D3,-0.83
+04051549,Rathaus Wilmersdorf,4227,D4,-0.76
+04051550,Leon-Jessel-Platz,5371,S1,6.27
+04051550,Leon-Jessel-Platz,5371,S2,2.36
+04051550,Leon-Jessel-Platz,5371,S3,9.74
+04051550,Leon-Jessel-Platz,5371,S4,22.26
+04051550,Leon-Jessel-Platz,5371,D1,-0.44
+04051550,Leon-Jessel-Platz,5371,D2,-0.43
+04051550,Leon-Jessel-Platz,5371,D3,-0.44
+04051550,Leon-Jessel-Platz,5371,D4,-2.09
+04051551,Brabanter Platz,4270,S1,6.55
+04051551,Brabanter Platz,4270,S2,2.34
+04051551,Brabanter Platz,4270,S3,10.44
+04051551,Brabanter Platz,4270,S4,23.19
+04051551,Brabanter Platz,4270,D1,-0.97
+04051551,Brabanter Platz,4270,D2,-0.86
+04051551,Brabanter Platz,4270,D3,-1.59
+04051551,Brabanter Platz,4270,D4,-5.69
+04051652,Nikolsburger Platz,9490,S1,5.64
+04051652,Nikolsburger Platz,9490,S2,2.02
+04051652,Nikolsburger Platz,9490,S3,6.69
+04051652,Nikolsburger Platz,9490,S4,12.09
+04051652,Nikolsburger Platz,9490,D1,0.37
+04051652,Nikolsburger Platz,9490,D2,-0.31
+04051652,Nikolsburger Platz,9490,D3,-1.09
+04051652,Nikolsburger Platz,9490,D4,-2.08
+04051653,Prager Platz,6623,S1,6.71
+04051653,Prager Platz,6623,S2,2.27
+04051653,Prager Platz,6623,S3,7.55
+04051653,Prager Platz,6623,S4,13.26
+04051653,Prager Platz,6623,D1,0.1
+04051653,Prager Platz,6623,D2,-0.3
+04051653,Prager Platz,6623,D3,-0.81
+04051653,Prager Platz,6623,D4,-1.41
+04051654,Wilhelmsaue,2941,S1,6.17
+04051654,Wilhelmsaue,2941,S2,2.39
+04051654,Wilhelmsaue,2941,S3,6.6
+04051654,Wilhelmsaue,2941,S4,9.54
+04051654,Wilhelmsaue,2941,D1,-0.11
+04051654,Wilhelmsaue,2941,D2,-0.45
+04051654,Wilhelmsaue,2941,D3,-1.78
+04051654,Wilhelmsaue,2941,D4,-6.98
+04051655,Babelsberger Straße,6911,S1,6.81
+04051655,Babelsberger Straße,6911,S2,2.21
+04051655,Babelsberger Straße,6911,S3,10.17
+04051655,Babelsberger Straße,6911,S4,19.16
+04051655,Babelsberger Straße,6911,D1,-0.27
+04051655,Babelsberger Straße,6911,D2,-1.01
+04051655,Babelsberger Straße,6911,D3,-0.99
+04051655,Babelsberger Straße,6911,D4,-3.69
+04051656,Hildegardstraße,7474,S1,5.61
+04051656,Hildegardstraße,7474,S2,1.81
+04051656,Hildegardstraße,7474,S3,6.68
+04051656,Hildegardstraße,7474,S4,13.46
+04051656,Hildegardstraße,7474,D1,-0.26
+04051656,Hildegardstraße,7474,D2,-0.29
+04051656,Hildegardstraße,7474,D3,-0.17
+04051656,Hildegardstraße,7474,D4,0.79
+05010101,Hakenfelde Nord,9959,S1,6.64
+05010101,Hakenfelde Nord,9959,S2,1.93
+05010101,Hakenfelde Nord,9959,S3,11.47
+05010101,Hakenfelde Nord,9959,S4,28.98
+05010101,Hakenfelde Nord,9959,D1,-1.12
+05010101,Hakenfelde Nord,9959,D2,-0.52
+05010101,Hakenfelde Nord,9959,D3,-0.09
+05010101,Hakenfelde Nord,9959,D4,-1.4
+05010102,Goltzstraße,5671,S1,8.48
+05010102,Goltzstraße,5671,S2,2.69
+05010102,Goltzstraße,5671,S3,13.51
+05010102,Goltzstraße,5671,S4,41.47
+05010102,Goltzstraße,5671,D1,-1.77
+05010102,Goltzstraße,5671,D2,-0.87
+05010102,Goltzstraße,5671,D3,0.98
+05010102,Goltzstraße,5671,D4,-1.15
+05010103,Amorbacher Weg,7413,S1,6.36
+05010103,Amorbacher Weg,7413,S2,2.27
+05010103,Amorbacher Weg,7413,S3,8.12
+05010103,Amorbacher Weg,7413,S4,20.26
+05010103,Amorbacher Weg,7413,D1,-0.67
+05010103,Amorbacher Weg,7413,D2,-0.31
+05010103,Amorbacher Weg,7413,D3,0.12
+05010103,Amorbacher Weg,7413,D4,2.61
+05010204,Griesingerstraße,3142,S1,13.21
+05010204,Griesingerstraße,3142,S2,3.85
+05010204,Griesingerstraße,3142,S3,25.05
+05010204,Griesingerstraße,3142,S4,60.42
+05010204,Griesingerstraße,3142,D1,-1.36
+05010204,Griesingerstraße,3142,D2,-0.89
+05010204,Griesingerstraße,3142,D3,-0.98
+05010204,Griesingerstraße,3142,D4,-2.45
+05010205,An der Tränke,1906,S1,2.85
+05010205,An der Tränke,1906,S2,1.13
+05010205,An der Tränke,1906,S3,3.73
+05010205,An der Tränke,1906,S4,11.91
+05010205,An der Tränke,1906,D1,-0.12
+05010205,An der Tränke,1906,D2,0.33
+05010205,An der Tränke,1906,D3,0.02
+05010205,An der Tränke,1906,D4,4.69
+05010206,Gütersloher Weg,9945,S1,11.78
+05010206,Gütersloher Weg,9945,S2,4.03
+05010206,Gütersloher Weg,9945,S3,19.19
+05010206,Gütersloher Weg,9945,S4,47.28
+05010206,Gütersloher Weg,9945,D1,-1.61
+05010206,Gütersloher Weg,9945,D2,-0.81
+05010206,Gütersloher Weg,9945,D3,0.27
+05010206,Gütersloher Weg,9945,D4,-1.61
+05010207,Darbystraße,11116,S1,13.26
+05010207,Darbystraße,11116,S2,4.35
+05010207,Darbystraße,11116,S3,28.46
+05010207,Darbystraße,11116,S4,58.39
+05010207,Darbystraße,11116,D1,-1.62
+05010207,Darbystraße,11116,D2,-0.86
+05010207,Darbystraße,11116,D3,0.37
+05010207,Darbystraße,11116,D4,-0.23
+05010208,Germersheimer Platz,7464,S1,12.7
+05010208,Germersheimer Platz,7464,S2,4.23
+05010208,Germersheimer Platz,7464,S3,22.91
+05010208,Germersheimer Platz,7464,S4,58.71
+05010208,Germersheimer Platz,7464,D1,-1.68
+05010208,Germersheimer Platz,7464,D2,-0.34
+05010208,Germersheimer Platz,7464,D3,1.5
+05010208,Germersheimer Platz,7464,D4,1.69
+05010209,An der Kappe,6014,S1,6.11
+05010209,An der Kappe,6014,S2,1.83
+05010209,An der Kappe,6014,S3,8.81
+05010209,An der Kappe,6014,S4,23.63
+05010209,An der Kappe,6014,D1,-0.15
+05010209,An der Kappe,6014,D2,-0.28
+05010209,An der Kappe,6014,D3,1.3
+05010209,An der Kappe,6014,D4,4.96
+05010310,Eckschanze,3761,S1,11.15
+05010310,Eckschanze,3761,S2,3.51
+05010310,Eckschanze,3761,S3,20.93
+05010310,Eckschanze,3761,S4,51.53
+05010310,Eckschanze,3761,D1,-2.15
+05010310,Eckschanze,3761,D2,-1.3
+05010310,Eckschanze,3761,D3,1.84
+05010310,Eckschanze,3761,D4,3.24
+05010311,Eiswerder,5500,S1,11.61
+05010311,Eiswerder,5500,S2,4.22
+05010311,Eiswerder,5500,S3,24.02
+05010311,Eiswerder,5500,S4,56.09
+05010311,Eiswerder,5500,D1,-2.88
+05010311,Eiswerder,5500,D2,-1.23
+05010311,Eiswerder,5500,D3,-0.06
+05010311,Eiswerder,5500,D4,-1.17
+05010312,Kurstraße,6770,S1,13.79
+05010312,Kurstraße,6770,S2,4.41
+05010312,Kurstraße,6770,S3,28.55
+05010312,Kurstraße,6770,S4,62.51
+05010312,Kurstraße,6770,D1,-2.04
+05010312,Kurstraße,6770,D2,-1.13
+05010312,Kurstraße,6770,D3,1.45
+05010312,Kurstraße,6770,D4,-0.14
+05010313,Ackerstraße,6497,S1,12.17
+05010313,Ackerstraße,6497,S2,4.46
+05010313,Ackerstraße,6497,S3,20.16
+05010313,Ackerstraße,6497,S4,51.09
+05010313,Ackerstraße,6497,D1,-0.68
+05010313,Ackerstraße,6497,D2,-0.31
+05010313,Ackerstraße,6497,D3,-0.63
+05010313,Ackerstraße,6497,D4,-0.86
+05010314,Carl-Schurz-Straße,11671,S1,10.75
+05010314,Carl-Schurz-Straße,11671,S2,3.66
+05010314,Carl-Schurz-Straße,11671,S3,19.39
+05010314,Carl-Schurz-Straße,11671,S4,47.62
+05010314,Carl-Schurz-Straße,11671,D1,-2.02
+05010314,Carl-Schurz-Straße,11671,D2,-0.63
+05010314,Carl-Schurz-Straße,11671,D3,0.17
+05010314,Carl-Schurz-Straße,11671,D4,-3.47
+05010339,Freiheit,448,S1,10.98
+05010339,Freiheit,448,S2,5.49
+05010339,Freiheit,448,S3,8.26
+05010339,Freiheit,448,S4,15
+05010339,Freiheit,448,D1,0.64
+05010339,Freiheit,448,D2,1.82
+05010339,Freiheit,448,D3,-0.92
+05010339,Freiheit,448,D4,-11.32
+05020415,Isenburger Weg,3900,S1,2.39
+05020415,Isenburger Weg,3900,S2,0.52
+05020415,Isenburger Weg,3900,S3,1.77
+05020415,Isenburger Weg,3900,S4,3.85
+05020415,Isenburger Weg,3900,D1,-0.64
+05020415,Isenburger Weg,3900,D2,-0.39
+05020415,Isenburger Weg,3900,D3,-0.74
+05020415,Isenburger Weg,3900,D4,-1.65
+05020416,Am Heideberg,1736,S1,5.53
+05020416,Am Heideberg,1736,S2,1.31
+05020416,Am Heideberg,1736,S3,7.72
+05020416,Am Heideberg,1736,S4,21.09
+05020416,Am Heideberg,1736,D1,-0.96
+05020416,Am Heideberg,1736,D2,-0.62
+05020416,Am Heideberg,1736,D3,0.42
+05020416,Am Heideberg,1736,D4,0.36
+05020417,Staakener Straße,5709,S1,5.17
+05020417,Staakener Straße,5709,S2,1.66
+05020417,Staakener Straße,5709,S3,5.62
+05020417,Staakener Straße,5709,S4,13.77
+05020417,Staakener Straße,5709,D1,-0.01
+05020417,Staakener Straße,5709,D2,-0.09
+05020417,Staakener Straße,5709,D3,1.22
+05020417,Staakener Straße,5709,D4,2.53
+05020418,Spandauer Straße,3971,S1,7.03
+05020418,Spandauer Straße,3971,S2,2.18
+05020418,Spandauer Straße,3971,S3,8.16
+05020418,Spandauer Straße,3971,S4,14.18
+05020418,Spandauer Straße,3971,D1,-1.53
+05020418,Spandauer Straße,3971,D2,-0.44
+05020418,Spandauer Straße,3971,D3,-1.77
+05020418,Spandauer Straße,3971,D4,-4.64
+05020419,Magistratsweg,6897,S1,12.64
+05020419,Magistratsweg,6897,S2,4.19
+05020419,Magistratsweg,6897,S3,19.12
+05020419,Magistratsweg,6897,S4,54.14
+05020419,Magistratsweg,6897,D1,-0.48
+05020419,Magistratsweg,6897,D2,-0.62
+05020419,Magistratsweg,6897,D3,-0.18
+05020419,Magistratsweg,6897,D4,-2.7
+05020420,Werkstraße,929,S1,4.23
+05020420,Werkstraße,929,S2,0.87
+05020420,Werkstraße,929,S3,5.38
+05020420,Werkstraße,929,S4,10.61
+05020420,Werkstraße,929,D1,-1.17
+05020420,Werkstraße,929,D2,-0.62
+05020420,Werkstraße,929,D3,0.77
+05020420,Werkstraße,929,D4,0.88
+05020521,Döberitzer Weg,2876,S1,3.37
+05020521,Döberitzer Weg,2876,S2,0.89
+05020521,Döberitzer Weg,2876,S3,5.08
+05020521,Döberitzer Weg,2876,S4,9.35
+05020521,Döberitzer Weg,2876,D1,-0.87
+05020521,Döberitzer Weg,2876,D2,-0.16
+05020521,Döberitzer Weg,2876,D3,-0.18
+05020521,Döberitzer Weg,2876,D4,-0.03
+05020522,Pillnitzer Weg,7117,S1,14.23
+05020522,Pillnitzer Weg,7117,S2,4.6
+05020522,Pillnitzer Weg,7117,S3,30.21
+05020522,Pillnitzer Weg,7117,S4,64.74
+05020522,Pillnitzer Weg,7117,D1,-0.83
+05020522,Pillnitzer Weg,7117,D2,-0.71
+05020522,Pillnitzer Weg,7117,D3,2.7
+05020522,Pillnitzer Weg,7117,D4,2.4
+05020523,Maulbeerallee,11613,S1,16.55
+05020523,Maulbeerallee,11613,S2,5.83
+05020523,Maulbeerallee,11613,S3,38.73
+05020523,Maulbeerallee,11613,S4,74.01
+05020523,Maulbeerallee,11613,D1,-1.98
+05020523,Maulbeerallee,11613,D2,-0.7
+05020523,Maulbeerallee,11613,D3,1.13
+05020523,Maulbeerallee,11613,D4,-0.66
+05020524,Weinmeisterhornweg,6082,S1,5.12
+05020524,Weinmeisterhornweg,6082,S2,1.91
+05020524,Weinmeisterhornweg,6082,S3,5.69
+05020524,Weinmeisterhornweg,6082,S4,15.51
+05020524,Weinmeisterhornweg,6082,D1,-0.39
+05020524,Weinmeisterhornweg,6082,D2,-0.13
+05020524,Weinmeisterhornweg,6082,D3,0.25
+05020524,Weinmeisterhornweg,6082,D4,3.05
+05020625,Borkumer Straße,7417,S1,9.17
+05020625,Borkumer Straße,7417,S2,2.56
+05020625,Borkumer Straße,7417,S3,15.32
+05020625,Borkumer Straße,7417,S4,44.47
+05020625,Borkumer Straße,7417,D1,-1.03
+05020625,Borkumer Straße,7417,D2,-1.37
+05020625,Borkumer Straße,7417,D3,0.25
+05020625,Borkumer Straße,7417,D4,-0.6
+05020626,Adamstraße,17174,S1,10.68
+05020626,Adamstraße,17174,S2,3.51
+05020626,Adamstraße,17174,S3,17.04
+05020626,Adamstraße,17174,S4,43.21
+05020626,Adamstraße,17174,D1,-1.12
+05020626,Adamstraße,17174,D2,-0.52
+05020626,Adamstraße,17174,D3,0.02
+05020626,Adamstraße,17174,D4,1.62
+05020627,Tiefwerder,3889,S1,10.55
+05020627,Tiefwerder,3889,S2,3.6
+05020627,Tiefwerder,3889,S3,22.37
+05020627,Tiefwerder,3889,S4,54.33
+05020627,Tiefwerder,3889,D1,-0.05
+05020627,Tiefwerder,3889,D2,-0.21
+05020627,Tiefwerder,3889,D3,1.75
+05020627,Tiefwerder,3889,D4,5.44
+05020628,Graetschelsteig,1985,S1,9.36
+05020628,Graetschelsteig,1985,S2,3.7
+05020628,Graetschelsteig,1985,S3,12.14
+05020628,Graetschelsteig,1985,S4,41.44
+05020628,Graetschelsteig,1985,D1,-0.41
+05020628,Graetschelsteig,1985,D2,0.15
+05020628,Graetschelsteig,1985,D3,-0.69
+05020628,Graetschelsteig,1985,D4,-0.52
+05020629,Börnicker Straße,4370,S1,4.28
+05020629,Börnicker Straße,4370,S2,1.11
+05020629,Börnicker Straße,4370,S3,2.84
+05020629,Börnicker Straße,4370,S4,2.93
+05020629,Börnicker Straße,4370,D1,0.06
+05020629,Börnicker Straße,4370,D2,-0.31
+05020629,Börnicker Straße,4370,D3,-0.09
+05020629,Börnicker Straße,4370,D4,-3.39
+05030730,Zitadellenweg,3786,S1,5.59
+05030730,Zitadellenweg,3786,S2,1.67
+05030730,Zitadellenweg,3786,S3,12.04
+05030730,Zitadellenweg,3786,S4,22.32
+05030730,Zitadellenweg,3786,D1,-0.98
+05030730,Zitadellenweg,3786,D2,-0.28
+05030730,Zitadellenweg,3786,D3,-0.6
+05030730,Zitadellenweg,3786,D4,-4.23
+05030731,Gartenfelder Straße,11499,S1,11.64
+05030731,Gartenfelder Straße,11499,S2,3.83
+05030731,Gartenfelder Straße,11499,S3,20.51
+05030731,Gartenfelder Straße,11499,S4,53.72
+05030731,Gartenfelder Straße,11499,D1,-1.4
+05030731,Gartenfelder Straße,11499,D2,-0.71
+05030731,Gartenfelder Straße,11499,D3,0.97
+05030731,Gartenfelder Straße,11499,D4,1.38
+05030832,Rohrdamm,11346,S1,9.13
+05030832,Rohrdamm,11346,S2,2.88
+05030832,Rohrdamm,11346,S3,17.6
+05030832,Rohrdamm,11346,S4,43.55
+05030832,Rohrdamm,11346,D1,-1.44
+05030832,Rohrdamm,11346,D2,-0.79
+05030832,Rohrdamm,11346,D3,1.42
+05030832,Rohrdamm,11346,D4,2.73
+05030833,Motardstraße,1407,S1,2.25
+05030833,Motardstraße,1407,S2,0.49
+05030833,Motardstraße,1407,S3,3.2
+05030833,Motardstraße,1407,S4,5.54
+05030833,Motardstraße,1407,D1,-1.13
+05030833,Motardstraße,1407,D2,-0.4
+05030833,Motardstraße,1407,D3,-1.65
+05030833,Motardstraße,1407,D4,4
+05040934,Alt-Gatow,3984,S1,2.12
+05040934,Alt-Gatow,3984,S2,0.62
+05040934,Alt-Gatow,3984,S3,2.16
+05040934,Alt-Gatow,3984,S4,3.34
+05040934,Alt-Gatow,3984,D1,-0.49
+05040934,Alt-Gatow,3984,D2,-0.16
+05040934,Alt-Gatow,3984,D3,-0.3
+05040934,Alt-Gatow,3984,D4,-0.91
+05040935,Groß-Glienicker Weg,418,S1,9.32
+05040935,Groß-Glienicker Weg,418,S2,2.51
+05040935,Groß-Glienicker Weg,418,S3,6.94
+05040935,Groß-Glienicker Weg,418,S4,0
+05040935,Groß-Glienicker Weg,418,D1,-0.54
+05040935,Groß-Glienicker Weg,418,D2,-0.31
+05040935,Groß-Glienicker Weg,418,D3,-2.67
+05040935,Groß-Glienicker Weg,418,D4,0
+05040936,Jägerallee,9324,S1,2.73
+05040936,Jägerallee,9324,S2,0.67
+05040936,Jägerallee,9324,S3,1.48
+05040936,Jägerallee,9324,S4,2.77
+05040936,Jägerallee,9324,D1,-0.1
+05040936,Jägerallee,9324,D2,0.21
+05040936,Jägerallee,9324,D3,-1.06
+05040936,Jägerallee,9324,D4,-2.14
+05040937,Kladower Damm,2148,S1,1.83
+05040937,Kladower Damm,2148,S2,0.7
+05040937,Kladower Damm,2148,S3,1.26
+05040937,Kladower Damm,2148,S4,1.63
+05040937,Kladower Damm,2148,D1,-0.5
+05040937,Kladower Damm,2148,D2,-0.22
+05040937,Kladower Damm,2148,D3,-0.6
+05040937,Kladower Damm,2148,D4,-2.4
+05040938,Kafkastraße,3565,S1,3.11
+05040938,Kafkastraße,3565,S2,0.73
+05040938,Kafkastraße,3565,S3,2.58
+05040938,Kafkastraße,3565,S4,9.57
+05040938,Kafkastraße,3565,D1,0.24
+05040938,Kafkastraße,3565,D2,-0.04
+05040938,Kafkastraße,3565,D3,0.86
+05040938,Kafkastraße,3565,D4,2.92
+06010101,Fichtenberg,6820,S1,3.4
+06010101,Fichtenberg,6820,S2,1.15
+06010101,Fichtenberg,6820,S3,3.27
+06010101,Fichtenberg,6820,S4,6.78
+06010101,Fichtenberg,6820,D1,-0.55
+06010101,Fichtenberg,6820,D2,-0.13
+06010101,Fichtenberg,6820,D3,0
+06010101,Fichtenberg,6820,D4,0.87
+06010102,Schloßstraße,8755,S1,5.92
+06010102,Schloßstraße,8755,S2,2.16
+06010102,Schloßstraße,8755,S3,7.93
+06010102,Schloßstraße,8755,S4,18.57
+06010102,Schloßstraße,8755,D1,0.46
+06010102,Schloßstraße,8755,D2,0.46
+06010102,Schloßstraße,8755,D3,-0.56
+06010102,Schloßstraße,8755,D4,-1.2
+06010103,Markelstraße,6334,S1,6.05
+06010103,Markelstraße,6334,S2,2.03
+06010103,Markelstraße,6334,S3,6.47
+06010103,Markelstraße,6334,S4,15.02
+06010103,Markelstraße,6334,D1,0.1
+06010103,Markelstraße,6334,D2,-0.23
+06010103,Markelstraße,6334,D3,-0.89
+06010103,Markelstraße,6334,D4,-2.46
+06010204,Munsterdamm,6830,S1,7.69
+06010204,Munsterdamm,6830,S2,2.84
+06010204,Munsterdamm,6830,S3,10.12
+06010204,Munsterdamm,6830,S4,24.94
+06010204,Munsterdamm,6830,D1,0.06
+06010204,Munsterdamm,6830,D2,0.1
+06010204,Munsterdamm,6830,D3,-1.07
+06010204,Munsterdamm,6830,D4,-0.94
+06010205,Südende,9627,S1,7.12
+06010205,Südende,9627,S2,2.27
+06010205,Südende,9627,S3,8.9
+06010205,Südende,9627,S4,21.04
+06010205,Südende,9627,D1,-0.01
+06010205,Südende,9627,D2,-0.49
+06010205,Südende,9627,D3,-0.07
+06010205,Südende,9627,D4,-0.43
+06010206,Stadtpark,7638,S1,6.48
+06010206,Stadtpark,7638,S2,2.46
+06010206,Stadtpark,7638,S3,8.08
+06010206,Stadtpark,7638,S4,20.77
+06010206,Stadtpark,7638,D1,-0.13
+06010206,Stadtpark,7638,D2,-0.03
+06010206,Stadtpark,7638,D3,-0.22
+06010206,Stadtpark,7638,D4,0.55
+06010207,Mittelstraße,7863,S1,6.65
+06010207,Mittelstraße,7863,S2,2.22
+06010207,Mittelstraße,7863,S3,8.3
+06010207,Mittelstraße,7863,S4,21.87
+06010207,Mittelstraße,7863,D1,0.03
+06010207,Mittelstraße,7863,D2,-0.53
+06010207,Mittelstraße,7863,D3,-0.79
+06010207,Mittelstraße,7863,D4,-0.73
+06010208,Bergstraße,6433,S1,6.63
+06010208,Bergstraße,6433,S2,2
+06010208,Bergstraße,6433,S3,8.52
+06010208,Bergstraße,6433,S4,17.6
+06010208,Bergstraße,6433,D1,-0.66
+06010208,Bergstraße,6433,D2,-0.69
+06010208,Bergstraße,6433,D3,-1.18
+06010208,Bergstraße,6433,D4,-2.99
+06010209,Feuerbachstraße,9055,S1,6.53
+06010209,Feuerbachstraße,9055,S2,2.22
+06010209,Feuerbachstraße,9055,S3,8.63
+06010209,Feuerbachstraße,9055,S4,20.97
+06010209,Feuerbachstraße,9055,D1,-0.36
+06010209,Feuerbachstraße,9055,D2,-0.17
+06010209,Feuerbachstraße,9055,D3,-0.34
+06010209,Feuerbachstraße,9055,D4,-1.23
+06010210,Bismarckstraße,4887,S1,7.32
+06010210,Bismarckstraße,4887,S2,2.54
+06010210,Bismarckstraße,4887,S3,9.27
+06010210,Bismarckstraße,4887,S4,22.22
+06010210,Bismarckstraße,4887,D1,-0.77
+06010210,Bismarckstraße,4887,D2,-0.72
+06010210,Bismarckstraße,4887,D3,-1.61
+06010210,Bismarckstraße,4887,D4,-2.59
+06020301,Alt-Lankwitz,4985,S1,7.14
+06020301,Alt-Lankwitz,4985,S2,2.63
+06020301,Alt-Lankwitz,4985,S3,9.25
+06020301,Alt-Lankwitz,4985,S4,18.62
+06020301,Alt-Lankwitz,4985,D1,0.32
+06020301,Alt-Lankwitz,4985,D2,-0.23
+06020301,Alt-Lankwitz,4985,D3,0.36
+06020301,Alt-Lankwitz,4985,D4,-0.4
+06020302,Komponistenviertel Lankwitz,5391,S1,5.44
+06020302,Komponistenviertel Lankwitz,5391,S2,1.83
+06020302,Komponistenviertel Lankwitz,5391,S3,5.4
+06020302,Komponistenviertel Lankwitz,5391,S4,14.98
+06020302,Komponistenviertel Lankwitz,5391,D1,0.15
+06020302,Komponistenviertel Lankwitz,5391,D2,0.15
+06020302,Komponistenviertel Lankwitz,5391,D3,-0.13
+06020302,Komponistenviertel Lankwitz,5391,D4,0.44
+06020303,Lankwitz Kirche,7249,S1,8.93
+06020303,Lankwitz Kirche,7249,S2,3.38
+06020303,Lankwitz Kirche,7249,S3,11.6
+06020303,Lankwitz Kirche,7249,S4,30.96
+06020303,Lankwitz Kirche,7249,D1,0.83
+06020303,Lankwitz Kirche,7249,D2,-0.17
+06020303,Lankwitz Kirche,7249,D3,-0.81
+06020303,Lankwitz Kirche,7249,D4,-2.59
+06020304,Kaiser-Wilhelm-Straße,6887,S1,7.93
+06020304,Kaiser-Wilhelm-Straße,6887,S2,2.87
+06020304,Kaiser-Wilhelm-Straße,6887,S3,10.38
+06020304,Kaiser-Wilhelm-Straße,6887,S4,26.98
+06020304,Kaiser-Wilhelm-Straße,6887,D1,-0.25
+06020304,Kaiser-Wilhelm-Straße,6887,D2,0.25
+06020304,Kaiser-Wilhelm-Straße,6887,D3,-0.85
+06020304,Kaiser-Wilhelm-Straße,6887,D4,-0.99
+06020305,Gemeindepark Lankwitz,11139,S1,8.16
+06020305,Gemeindepark Lankwitz,11139,S2,2.9
+06020305,Gemeindepark Lankwitz,11139,S3,12.61
+06020305,Gemeindepark Lankwitz,11139,S4,33
+06020305,Gemeindepark Lankwitz,11139,D1,-0.54
+06020305,Gemeindepark Lankwitz,11139,D2,-0.35
+06020305,Gemeindepark Lankwitz,11139,D3,-0.9
+06020305,Gemeindepark Lankwitz,11139,D4,-2.96
+06020306,Lankwitz Süd,6415,S1,4.73
+06020306,Lankwitz Süd,6415,S2,1.63
+06020306,Lankwitz Süd,6415,S3,5.36
+06020306,Lankwitz Süd,6415,S4,14.54
+06020306,Lankwitz Süd,6415,D1,0.28
+06020306,Lankwitz Süd,6415,D2,-0.01
+06020306,Lankwitz Süd,6415,D3,-0.46
+06020306,Lankwitz Süd,6415,D4,0.97
+06020407,Thermometersiedlung,4824,S1,11.62
+06020407,Thermometersiedlung,4824,S2,4.28
+06020407,Thermometersiedlung,4824,S3,20.34
+06020407,Thermometersiedlung,4824,S4,60.57
+06020407,Thermometersiedlung,4824,D1,0.09
+06020407,Thermometersiedlung,4824,D2,-0.53
+06020407,Thermometersiedlung,4824,D3,-0.57
+06020407,Thermometersiedlung,4824,D4,-0.94
+06020408,Lichterfelde Süd,6477,S1,7.11
+06020408,Lichterfelde Süd,6477,S2,2.59
+06020408,Lichterfelde Süd,6477,S3,9.68
+06020408,Lichterfelde Süd,6477,S4,27.27
+06020408,Lichterfelde Süd,6477,D1,0.02
+06020408,Lichterfelde Süd,6477,D2,-0.35
+06020408,Lichterfelde Süd,6477,D3,0.19
+06020408,Lichterfelde Süd,6477,D4,0.01
+06020409,Königsberger Straße,8222,S1,5.81
+06020409,Königsberger Straße,8222,S2,2.08
+06020409,Königsberger Straße,8222,S3,5.59
+06020409,Königsberger Straße,8222,S4,14.05
+06020409,Königsberger Straße,8222,D1,-0.31
+06020409,Königsberger Straße,8222,D2,-0.32
+06020409,Königsberger Straße,8222,D3,-0.57
+06020409,Königsberger Straße,8222,D4,-0.9
+06020410,Oberhofer Platz,6884,S1,4.13
+06020410,Oberhofer Platz,6884,S2,1.44
+06020410,Oberhofer Platz,6884,S3,3.85
+06020410,Oberhofer Platz,6884,S4,7.21
+06020410,Oberhofer Platz,6884,D1,0
+06020410,Oberhofer Platz,6884,D2,0.04
+06020410,Oberhofer Platz,6884,D3,-0.18
+06020410,Oberhofer Platz,6884,D4,1.2
+06020411,Schütte-Lanz-Straße,8445,S1,4.57
+06020411,Schütte-Lanz-Straße,8445,S2,2.09
+06020411,Schütte-Lanz-Straße,8445,S3,5.49
+06020411,Schütte-Lanz-Straße,8445,S4,12.58
+06020411,Schütte-Lanz-Straße,8445,D1,-0.36
+06020411,Schütte-Lanz-Straße,8445,D2,0.01
+06020411,Schütte-Lanz-Straße,8445,D3,-0.75
+06020411,Schütte-Lanz-Straße,8445,D4,-2.11
+06030501,Berlepschstraße,5582,S1,3.68
+06030501,Berlepschstraße,5582,S2,1.04
+06030501,Berlepschstraße,5582,S3,3.92
+06030501,Berlepschstraße,5582,S4,10.2
+06030501,Berlepschstraße,5582,D1,-0.07
+06030501,Berlepschstraße,5582,D2,0.29
+06030501,Berlepschstraße,5582,D3,-0.22
+06030501,Berlepschstraße,5582,D4,-0.37
+06030502,Zehlendorf Süd,5450,S1,6.92
+06030502,Zehlendorf Süd,5450,S2,2.28
+06030502,Zehlendorf Süd,5450,S3,8.24
+06030502,Zehlendorf Süd,5450,S4,23.5
+06030502,Zehlendorf Süd,5450,D1,0.61
+06030502,Zehlendorf Süd,5450,D2,0.32
+06030502,Zehlendorf Süd,5450,D3,-1.63
+06030502,Zehlendorf Süd,5450,D4,-4.44
+06030503,Zehlendorf Mitte,11272,S1,4.81
+06030503,Zehlendorf Mitte,11272,S2,1.64
+06030503,Zehlendorf Mitte,11272,S3,6.09
+06030503,Zehlendorf Mitte,11272,S4,14.31
+06030503,Zehlendorf Mitte,11272,D1,0.04
+06030503,Zehlendorf Mitte,11272,D2,-0.12
+06030503,Zehlendorf Mitte,11272,D3,-0.42
+06030503,Zehlendorf Mitte,11272,D4,0.47
+06030504,Teltower Damm,10958,S1,3.16
+06030504,Teltower Damm,10958,S2,0.72
+06030504,Teltower Damm,10958,S3,2.92
+06030504,Teltower Damm,10958,S4,6.26
+06030504,Teltower Damm,10958,D1,0.18
+06030504,Teltower Damm,10958,D2,-0.08
+06030504,Teltower Damm,10958,D3,0.03
+06030504,Teltower Damm,10958,D4,-0.02
+06030605,Botanischer Garten,6933,S1,5.56
+06030605,Botanischer Garten,6933,S2,2.22
+06030605,Botanischer Garten,6933,S3,5.5
+06030605,Botanischer Garten,6933,S4,14.25
+06030605,Botanischer Garten,6933,D1,0.22
+06030605,Botanischer Garten,6933,D2,0.25
+06030605,Botanischer Garten,6933,D3,-0.38
+06030605,Botanischer Garten,6933,D4,1.59
+06030606,Hindenburgdamm,5275,S1,6.93
+06030606,Hindenburgdamm,5275,S2,2.74
+06030606,Hindenburgdamm,5275,S3,7.89
+06030606,Hindenburgdamm,5275,S4,18.03
+06030606,Hindenburgdamm,5275,D1,-0.38
+06030606,Hindenburgdamm,5275,D2,-0.58
+06030606,Hindenburgdamm,5275,D3,-1.48
+06030606,Hindenburgdamm,5275,D4,-3.27
+06030607,Goerzwerke,3241,S1,3.46
+06030607,Goerzwerke,3241,S2,1.02
+06030607,Goerzwerke,3241,S3,3.58
+06030607,Goerzwerke,3241,S4,11.14
+06030607,Goerzwerke,3241,D1,0.19
+06030607,Goerzwerke,3241,D2,0.05
+06030607,Goerzwerke,3241,D3,-0.08
+06030607,Goerzwerke,3241,D4,0.6
+06030608,Schweizer Viertel,11970,S1,3.25
+06030608,Schweizer Viertel,11970,S2,1.12
+06030608,Schweizer Viertel,11970,S3,2.02
+06030608,Schweizer Viertel,11970,S4,2.34
+06030608,Schweizer Viertel,11970,D1,-0.19
+06030608,Schweizer Viertel,11970,D2,-0.05
+06030608,Schweizer Viertel,11970,D3,-0.05
+06030608,Schweizer Viertel,11970,D4,0.18
+06030609,Augustaplatz,11847,S1,5.27
+06030609,Augustaplatz,11847,S2,1.86
+06030609,Augustaplatz,11847,S3,5.28
+06030609,Augustaplatz,11847,S4,13.04
+06030609,Augustaplatz,11847,D1,0.16
+06030609,Augustaplatz,11847,D2,0.09
+06030609,Augustaplatz,11847,D3,-0.22
+06030609,Augustaplatz,11847,D4,1.66
+06030610,Lichterfelde West,8159,S1,3.34
+06030610,Lichterfelde West,8159,S2,1.18
+06030610,Lichterfelde West,8159,S3,3.05
+06030610,Lichterfelde West,8159,S4,4.96
+06030610,Lichterfelde West,8159,D1,-0.06
+06030610,Lichterfelde West,8159,D2,-0.02
+06030610,Lichterfelde West,8159,D3,-0.13
+06030610,Lichterfelde West,8159,D4,-0.66
+06040701,Wannsee,9631,S1,2.9
+06040701,Wannsee,9631,S2,0.81
+06040701,Wannsee,9631,S3,2.32
+06040701,Wannsee,9631,S4,3.84
+06040701,Wannsee,9631,D1,0.01
+06040701,Wannsee,9631,D2,0.14
+06040701,Wannsee,9631,D3,-0.19
+06040701,Wannsee,9631,D4,-0.18
+06040702,Düppel,5360,S1,2.73
+06040702,Düppel,5360,S2,0.78
+06040702,Düppel,5360,S3,3.26
+06040702,Düppel,5360,S4,3.65
+06040702,Düppel,5360,D1,-0.08
+06040702,Düppel,5360,D2,-0.1
+06040702,Düppel,5360,D3,-0.53
+06040702,Düppel,5360,D4,-1.27
+06040703,Nikolassee,10716,S1,2.98
+06040703,Nikolassee,10716,S2,0.88
+06040703,Nikolassee,10716,S3,2.41
+06040703,Nikolassee,10716,S4,4.01
+06040703,Nikolassee,10716,D1,0.21
+06040703,Nikolassee,10716,D2,0.3
+06040703,Nikolassee,10716,D3,-0.32
+06040703,Nikolassee,10716,D4,-0.3
+06040804,Krumme Lanke,7483,S1,2.78
+06040804,Krumme Lanke,7483,S2,0.87
+06040804,Krumme Lanke,7483,S3,1.43
+06040804,Krumme Lanke,7483,S4,2.46
+06040804,Krumme Lanke,7483,D1,0.24
+06040804,Krumme Lanke,7483,D2,0.05
+06040804,Krumme Lanke,7483,D3,-0.51
+06040804,Krumme Lanke,7483,D4,-0.71
+06040805,Fischerhüttenstraße,5278,S1,3.1
+06040805,Fischerhüttenstraße,5278,S2,0.96
+06040805,Fischerhüttenstraße,5278,S3,3.03
+06040805,Fischerhüttenstraße,5278,S4,5.41
+06040805,Fischerhüttenstraße,5278,D1,0.06
+06040805,Fischerhüttenstraße,5278,D2,-0.1
+06040805,Fischerhüttenstraße,5278,D3,-0.14
+06040805,Fischerhüttenstraße,5278,D4,0.87
+06040806,Fischtal,7227,S1,3.24
+06040806,Fischtal,7227,S2,1.12
+06040806,Fischtal,7227,S3,2.68
+06040806,Fischtal,7227,S4,3.59
+06040806,Fischtal,7227,D1,0.13
+06040806,Fischtal,7227,D2,0.35
+06040806,Fischtal,7227,D3,-0.09
+06040806,Fischtal,7227,D4,-0.64
+06040807,Zehlendorf Eiche,5753,S1,4.24
+06040807,Zehlendorf Eiche,5753,S2,1.25
+06040807,Zehlendorf Eiche,5753,S3,4.12
+06040807,Zehlendorf Eiche,5753,S4,6.15
+06040807,Zehlendorf Eiche,5753,D1,0.31
+06040807,Zehlendorf Eiche,5753,D2,-0.07
+06040807,Zehlendorf Eiche,5753,D3,-0.48
+06040807,Zehlendorf Eiche,5753,D4,-0.43
+06040808,Hüttenweg,4150,S1,2.45
+06040808,Hüttenweg,4150,S2,0.5
+06040808,Hüttenweg,4150,S3,1.88
+06040808,Hüttenweg,4150,S4,3.15
+06040808,Hüttenweg,4150,D1,-0.21
+06040808,Hüttenweg,4150,D2,-0.16
+06040808,Hüttenweg,4150,D3,-0.96
+06040808,Hüttenweg,4150,D4,-1.17
+06040809,Thielallee,4969,S1,1.49
+06040809,Thielallee,4969,S2,0.2
+06040809,Thielallee,4969,S3,1.57
+06040809,Thielallee,4969,S4,1.84
+06040809,Thielallee,4969,D1,-0.29
+06040809,Thielallee,4969,D2,-0.23
+06040809,Thielallee,4969,D3,0.07
+06040809,Thielallee,4969,D4,0.43
+06040810,Dahlem,6854,S1,1.81
+06040810,Dahlem,6854,S2,0.54
+06040810,Dahlem,6854,S3,0.83
+06040810,Dahlem,6854,S4,0.63
+06040810,Dahlem,6854,D1,-0.07
+06040810,Dahlem,6854,D2,0.06
+06040810,Dahlem,6854,D3,-0.17
+06040810,Dahlem,6854,D4,-0.1
+07010101,Wittenbergplatz/Viktoria-Luise-Platz,9397,S1,7.19
+07010101,Wittenbergplatz/Viktoria-Luise-Platz,9397,S2,2.4
+07010101,Wittenbergplatz/Viktoria-Luise-Platz,9397,S3,10.57
+07010101,Wittenbergplatz/Viktoria-Luise-Platz,9397,S4,19.37
+07010101,Wittenbergplatz/Viktoria-Luise-Platz,9397,D1,0.08
+07010101,Wittenbergplatz/Viktoria-Luise-Platz,9397,D2,-0.29
+07010101,Wittenbergplatz/Viktoria-Luise-Platz,9397,D3,0.23
+07010101,Wittenbergplatz/Viktoria-Luise-Platz,9397,D4,-0.58
+07010102,Nollendorfplatz,15450,S1,9.22
+07010102,Nollendorfplatz,15450,S2,3.27
+07010102,Nollendorfplatz,15450,S3,19.3
+07010102,Nollendorfplatz,15450,S4,43
+07010102,Nollendorfplatz,15450,D1,-0.17
+07010102,Nollendorfplatz,15450,D2,-0.13
+07010102,Nollendorfplatz,15450,D3,-1.85
+07010102,Nollendorfplatz,15450,D4,-5.3
+07010103,Barbarossaplatz,9956,S1,6.1
+07010103,Barbarossaplatz,9956,S2,1.85
+07010103,Barbarossaplatz,9956,S3,9.65
+07010103,Barbarossaplatz,9956,S4,18.46
+07010103,Barbarossaplatz,9956,D1,-0.53
+07010103,Barbarossaplatz,9956,D2,0
+07010103,Barbarossaplatz,9956,D3,-0.76
+07010103,Barbarossaplatz,9956,D4,-1.79
+07010104,Dennewitzplatz,13512,S1,10.7
+07010104,Dennewitzplatz,13512,S2,3.89
+07010104,Dennewitzplatz,13512,S3,22.88
+07010104,Dennewitzplatz,13512,S4,47.73
+07010104,Dennewitzplatz,13512,D1,-0.61
+07010104,Dennewitzplatz,13512,D2,-0.01
+07010104,Dennewitzplatz,13512,D3,-1.47
+07010104,Dennewitzplatz,13512,D4,-5.18
+07020201,Bayerischer Platz,10335,S1,6.56
+07020201,Bayerischer Platz,10335,S2,2.04
+07020201,Bayerischer Platz,10335,S3,8.35
+07020201,Bayerischer Platz,10335,S4,18.17
+07020201,Bayerischer Platz,10335,D1,-0.04
+07020201,Bayerischer Platz,10335,D2,-0.05
+07020201,Bayerischer Platz,10335,D3,-0.44
+07020201,Bayerischer Platz,10335,D4,-0.3
+07020202,Volkspark (Rudolf-Wilde-Park),9832,S1,7.76
+07020202,Volkspark (Rudolf-Wilde-Park),9832,S2,2.31
+07020202,Volkspark (Rudolf-Wilde-Park),9832,S3,11.75
+07020202,Volkspark (Rudolf-Wilde-Park),9832,S4,27.63
+07020202,Volkspark (Rudolf-Wilde-Park),9832,D1,0.11
+07020202,Volkspark (Rudolf-Wilde-Park),9832,D2,-0.1
+07020202,Volkspark (Rudolf-Wilde-Park),9832,D3,-1.07
+07020202,Volkspark (Rudolf-Wilde-Park),9832,D4,-3.38
+07020203,Kaiser-Wilhelm-Platz,17298,S1,8.34
+07020203,Kaiser-Wilhelm-Platz,17298,S2,2.83
+07020203,Kaiser-Wilhelm-Platz,17298,S3,14.41
+07020203,Kaiser-Wilhelm-Platz,17298,S4,29.69
+07020203,Kaiser-Wilhelm-Platz,17298,D1,-0.46
+07020203,Kaiser-Wilhelm-Platz,17298,D2,-0.09
+07020203,Kaiser-Wilhelm-Platz,17298,D3,-0.92
+07020203,Kaiser-Wilhelm-Platz,17298,D4,-2.71
+07020204,Schöneberger Insel,11395,S1,7.81
+07020204,Schöneberger Insel,11395,S2,2.35
+07020204,Schöneberger Insel,11395,S3,11.9
+07020204,Schöneberger Insel,11395,S4,26.67
+07020204,Schöneberger Insel,11395,D1,-0.32
+07020204,Schöneberger Insel,11395,D2,-0.2
+07020204,Schöneberger Insel,11395,D3,-1.07
+07020204,Schöneberger Insel,11395,D4,-5.38
+07030301,Friedenau,23870,S1,4.31
+07030301,Friedenau,23870,S2,1.25
+07030301,Friedenau,23870,S3,5.32
+07030301,Friedenau,23870,S4,9.37
+07030301,Friedenau,23870,D1,-0.15
+07030301,Friedenau,23870,D2,-0.12
+07030301,Friedenau,23870,D3,-0.2
+07030301,Friedenau,23870,D4,-0.14
+07030302,Ceciliengärten,9151,S1,5.06
+07030302,Ceciliengärten,9151,S2,1.68
+07030302,Ceciliengärten,9151,S3,6.79
+07030302,Ceciliengärten,9151,S4,11.97
+07030302,Ceciliengärten,9151,D1,-0.04
+07030302,Ceciliengärten,9151,D2,-0.13
+07030302,Ceciliengärten,9151,D3,-0.12
+07030302,Ceciliengärten,9151,D4,-1.04
+07030303,Grazer Platz,12073,S1,8.31
+07030303,Grazer Platz,12073,S2,3.01
+07030303,Grazer Platz,12073,S3,14.98
+07030303,Grazer Platz,12073,S4,33.06
+07030303,Grazer Platz,12073,D1,-0.63
+07030303,Grazer Platz,12073,D2,-0.08
+07030303,Grazer Platz,12073,D3,-1.5
+07030303,Grazer Platz,12073,D4,-3.64
+07040401,Neu-Tempelhof,17126,S1,7.75
+07040401,Neu-Tempelhof,17126,S2,2.44
+07040401,Neu-Tempelhof,17126,S3,11.74
+07040401,Neu-Tempelhof,17126,S4,24.13
+07040401,Neu-Tempelhof,17126,D1,0.09
+07040401,Neu-Tempelhof,17126,D2,0.08
+07040401,Neu-Tempelhof,17126,D3,0.03
+07040401,Neu-Tempelhof,17126,D4,0.02
+07040402,Lindenhofsiedlung,2102,S1,9.42
+07040402,Lindenhofsiedlung,2102,S2,3.66
+07040402,Lindenhofsiedlung,2102,S3,14.61
+07040402,Lindenhofsiedlung,2102,S4,41.05
+07040402,Lindenhofsiedlung,2102,D1,-1.95
+07040402,Lindenhofsiedlung,2102,D2,-0.05
+07040402,Lindenhofsiedlung,2102,D3,1.04
+07040402,Lindenhofsiedlung,2102,D4,0.29
+07040403,Manteuffelstraße,23418,S1,8.57
+07040403,Manteuffelstraße,23418,S2,2.89
+07040403,Manteuffelstraße,23418,S3,14.37
+07040403,Manteuffelstraße,23418,S4,38.16
+07040403,Manteuffelstraße,23418,D1,-0.4
+07040403,Manteuffelstraße,23418,D2,-0.22
+07040403,Manteuffelstraße,23418,D3,-0.06
+07040403,Manteuffelstraße,23418,D4,-0.48
+07040404,Marienhöhe,5057,S1,7.58
+07040404,Marienhöhe,5057,S2,2.78
+07040404,Marienhöhe,5057,S3,11.21
+07040404,Marienhöhe,5057,S4,28.22
+07040404,Marienhöhe,5057,D1,-0.28
+07040404,Marienhöhe,5057,D2,0.28
+07040404,Marienhöhe,5057,D3,-0.72
+07040404,Marienhöhe,5057,D4,-2.24
+07040405,Rathaus Tempelhof,10567,S1,9.6
+07040405,Rathaus Tempelhof,10567,S2,3.2
+07040405,Rathaus Tempelhof,10567,S3,15.94
+07040405,Rathaus Tempelhof,10567,S4,43.01
+07040405,Rathaus Tempelhof,10567,D1,0.46
+07040405,Rathaus Tempelhof,10567,D2,-0.17
+07040405,Rathaus Tempelhof,10567,D3,0.14
+07040405,Rathaus Tempelhof,10567,D4,-1.33
+07040406,Germaniagarten,3590,S1,14.68
+07040406,Germaniagarten,3590,S2,5.05
+07040406,Germaniagarten,3590,S3,25.71
+07040406,Germaniagarten,3590,S4,65.24
+07040406,Germaniagarten,3590,D1,-0.84
+07040406,Germaniagarten,3590,D2,-0.26
+07040406,Germaniagarten,3590,D3,-0.74
+07040406,Germaniagarten,3590,D4,-4.92
+07050501,Rathausstraße,15872,S1,9.48
+07050501,Rathausstraße,15872,S2,3.14
+07050501,Rathausstraße,15872,S3,15.17
+07050501,Rathausstraße,15872,S4,41.13
+07050501,Rathausstraße,15872,D1,-0.57
+07050501,Rathausstraße,15872,D2,-0.16
+07050501,Rathausstraße,15872,D3,-0.38
+07050501,Rathausstraße,15872,D4,-2.84
+07050502,Fritz-Werner-Straße,7700,S1,10.51
+07050502,Fritz-Werner-Straße,7700,S2,3.24
+07050502,Fritz-Werner-Straße,7700,S3,13.05
+07050502,Fritz-Werner-Straße,7700,S4,35.81
+07050502,Fritz-Werner-Straße,7700,D1,0.62
+07050502,Fritz-Werner-Straße,7700,D2,0.04
+07050502,Fritz-Werner-Straße,7700,D3,0.94
+07050502,Fritz-Werner-Straße,7700,D4,3.19
+07050503,Eisenacher Straße,9106,S1,8.54
+07050503,Eisenacher Straße,9106,S2,2.85
+07050503,Eisenacher Straße,9106,S3,11.88
+07050503,Eisenacher Straße,9106,S4,32.72
+07050503,Eisenacher Straße,9106,D1,-0.37
+07050503,Eisenacher Straße,9106,D2,-0.33
+07050503,Eisenacher Straße,9106,D3,-0.47
+07050503,Eisenacher Straße,9106,D4,-1.49
+07050504,Imbrosweg,5480,S1,9.14
+07050504,Imbrosweg,5480,S2,3.19
+07050504,Imbrosweg,5480,S3,12.92
+07050504,Imbrosweg,5480,S4,29.23
+07050504,Imbrosweg,5480,D1,0.7
+07050504,Imbrosweg,5480,D2,0.54
+07050504,Imbrosweg,5480,D3,-1.29
+07050504,Imbrosweg,5480,D4,-4.41
+07050505,Hundsteinweg,10460,S1,6.2
+07050505,Hundsteinweg,10460,S2,2.09
+07050505,Hundsteinweg,10460,S3,7.93
+07050505,Hundsteinweg,10460,S4,22.72
+07050505,Hundsteinweg,10460,D1,0.41
+07050505,Hundsteinweg,10460,D2,0.17
+07050505,Hundsteinweg,10460,D3,-0.79
+07050505,Hundsteinweg,10460,D4,-2.34
+07050506,Birnhornweg,2209,S1,3.85
+07050506,Birnhornweg,2209,S2,1.66
+07050506,Birnhornweg,2209,S3,2.9
+07050506,Birnhornweg,2209,S4,9.54
+07050506,Birnhornweg,2209,D1,0.09
+07050506,Birnhornweg,2209,D2,0.5
+07050506,Birnhornweg,2209,D3,0.16
+07050506,Birnhornweg,2209,D4,1.18
+07060601,Marienfelder Allee Nordwest,9901,S1,10.24
+07060601,Marienfelder Allee Nordwest,9901,S2,3.16
+07060601,Marienfelder Allee Nordwest,9901,S3,17.66
+07060601,Marienfelder Allee Nordwest,9901,S4,41.05
+07060601,Marienfelder Allee Nordwest,9901,D1,1.53
+07060601,Marienfelder Allee Nordwest,9901,D2,0.43
+07060601,Marienfelder Allee Nordwest,9901,D3,3.23
+07060601,Marienfelder Allee Nordwest,9901,D4,9.19
+07060602,Kirchstraße,4606,S1,4.62
+07060602,Kirchstraße,4606,S2,1.44
+07060602,Kirchstraße,4606,S3,4.62
+07060602,Kirchstraße,4606,S4,10.29
+07060602,Kirchstraße,4606,D1,0.12
+07060602,Kirchstraße,4606,D2,0.12
+07060602,Kirchstraße,4606,D3,-0.11
+07060602,Kirchstraße,4606,D4,1.99
+07060603,Marienfelde Nordost,2740,S1,8.56
+07060603,Marienfelde Nordost,2740,S2,2.46
+07060603,Marienfelde Nordost,2740,S3,13.5
+07060603,Marienfelde Nordost,2740,S4,48.19
+07060603,Marienfelde Nordost,2740,D1,1.31
+07060603,Marienfelde Nordost,2740,D2,0.25
+07060603,Marienfelde Nordost,2740,D3,0.03
+07060603,Marienfelde Nordost,2740,D4,0.21
+07060604,Marienfelde Süd,13843,S1,9.77
+07060604,Marienfelde Süd,13843,S2,3.38
+07060604,Marienfelde Süd,13843,S3,16.69
+07060604,Marienfelde Süd,13843,S4,43.88
+07060604,Marienfelde Süd,13843,D1,-0.39
+07060604,Marienfelde Süd,13843,D2,-0.06
+07060604,Marienfelde Süd,13843,D3,-0.56
+07060604,Marienfelde Süd,13843,D4,0.37
+07070701,Kettinger Straße/Schillerstraße,10408,S1,5.15
+07070701,Kettinger Straße/Schillerstraße,10408,S2,1.7
+07070701,Kettinger Straße/Schillerstraße,10408,S3,5.88
+07070701,Kettinger Straße/Schillerstraße,10408,S4,17.63
+07070701,Kettinger Straße/Schillerstraße,10408,D1,-0.1
+07070701,Kettinger Straße/Schillerstraße,10408,D2,0.22
+07070701,Kettinger Straße/Schillerstraße,10408,D3,-0.32
+07070701,Kettinger Straße/Schillerstraße,10408,D4,1.16
+07070702,Alt-Lichtenrade/Töpchiner Weg,10151,S1,5.3
+07070702,Alt-Lichtenrade/Töpchiner Weg,10151,S2,2.07
+07070702,Alt-Lichtenrade/Töpchiner Weg,10151,S3,7.34
+07070702,Alt-Lichtenrade/Töpchiner Weg,10151,S4,17.06
+07070702,Alt-Lichtenrade/Töpchiner Weg,10151,D1,-0.26
+07070702,Alt-Lichtenrade/Töpchiner Weg,10151,D2,-0.02
+07070702,Alt-Lichtenrade/Töpchiner Weg,10151,D3,0.02
+07070702,Alt-Lichtenrade/Töpchiner Weg,10151,D4,1.1
+07070703,John-Locke-Straße,7480,S1,9.94
+07070703,John-Locke-Straße,7480,S2,3.88
+07070703,John-Locke-Straße,7480,S3,15.33
+07070703,John-Locke-Straße,7480,S4,42.44
+07070703,John-Locke-Straße,7480,D1,-0.79
+07070703,John-Locke-Straße,7480,D2,-0.05
+07070703,John-Locke-Straße,7480,D3,-0.46
+07070703,John-Locke-Straße,7480,D4,0.31
+07070704,Nahariyastraße,8128,S1,12.81
+07070704,Nahariyastraße,8128,S2,4.4
+07070704,Nahariyastraße,8128,S3,23.49
+07070704,Nahariyastraße,8128,S4,59.5
+07070704,Nahariyastraße,8128,D1,0.97
+07070704,Nahariyastraße,8128,D2,-0.04
+07070704,Nahariyastraße,8128,D3,-0.15
+07070704,Nahariyastraße,8128,D4,1.88
+07070705,Franziusweg/Rohrbachstraße,7008,S1,3.86
+07070705,Franziusweg/Rohrbachstraße,7008,S2,1.48
+07070705,Franziusweg/Rohrbachstraße,7008,S3,4.08
+07070705,Franziusweg/Rohrbachstraße,7008,S4,10.21
+07070705,Franziusweg/Rohrbachstraße,7008,D1,0.06
+07070705,Franziusweg/Rohrbachstraße,7008,D2,0.19
+07070705,Franziusweg/Rohrbachstraße,7008,D3,-0.33
+07070705,Franziusweg/Rohrbachstraße,7008,D4,-0.84
+07070706,Horstwalder Straße/Paplitzer Straße,3723,S1,5.31
+07070706,Horstwalder Straße/Paplitzer Straße,3723,S2,1.48
+07070706,Horstwalder Straße/Paplitzer Straße,3723,S3,4.97
+07070706,Horstwalder Straße/Paplitzer Straße,3723,S4,12.84
+07070706,Horstwalder Straße/Paplitzer Straße,3723,D1,0.71
+07070706,Horstwalder Straße/Paplitzer Straße,3723,D2,-0.3
+07070706,Horstwalder Straße/Paplitzer Straße,3723,D3,-0.09
+07070706,Horstwalder Straße/Paplitzer Straße,3723,D4,0.14
+07070707,Wittelsbacherstraße,2823,S1,3
+07070707,Wittelsbacherstraße,2823,S2,1.23
+07070707,Wittelsbacherstraße,2823,S3,2.94
+07070707,Wittelsbacherstraße,2823,S4,9.85
+07070707,Wittelsbacherstraße,2823,D1,0.21
+07070707,Wittelsbacherstraße,2823,D2,-0.14
+07070707,Wittelsbacherstraße,2823,D3,-0.26
+07070707,Wittelsbacherstraße,2823,D4,3.63
+08010115,Hasenheide,867,S1,8.92
+08010115,Hasenheide,867,S2,1.93
+08010115,Hasenheide,867,S3,9.46
+08010115,Hasenheide,867,S4,23.08
+08010115,Hasenheide,867,D1,3.29
+08010115,Hasenheide,867,D2,0.87
+08010115,Hasenheide,867,D3,-2.14
+08010115,Hasenheide,867,D4,0.07
+08010116,Wissmannstraße,3524,S1,12.49
+08010116,Wissmannstraße,3524,S2,3.87
+08010116,Wissmannstraße,3524,S3,27.04
+08010116,Wissmannstraße,3524,S4,53.27
+08010116,Wissmannstraße,3524,D1,-1.36
+08010116,Wissmannstraße,3524,D2,-0.36
+08010116,Wissmannstraße,3524,D3,0.05
+08010116,Wissmannstraße,3524,D4,-3.47
+08010117,Schillerpromenade,16108,S1,10.99
+08010117,Schillerpromenade,16108,S2,3.19
+08010117,Schillerpromenade,16108,S3,22.38
+08010117,Schillerpromenade,16108,S4,54.68
+08010117,Schillerpromenade,16108,D1,-1.52
+08010117,Schillerpromenade,16108,D2,-0.71
+08010117,Schillerpromenade,16108,D3,-1.32
+08010117,Schillerpromenade,16108,D4,-4.42
+08010118,Silbersteinstraße,11773,S1,11.75
+08010118,Silbersteinstraße,11773,S2,3.87
+08010118,Silbersteinstraße,11773,S3,30.74
+08010118,Silbersteinstraße,11773,S4,69.14
+08010118,Silbersteinstraße,11773,D1,-1.94
+08010118,Silbersteinstraße,11773,D2,-0.59
+08010118,Silbersteinstraße,11773,D3,-2.42
+08010118,Silbersteinstraße,11773,D4,-3.12
+08010211,Flughafenstraße,10204,S1,10.41
+08010211,Flughafenstraße,10204,S2,3.18
+08010211,Flughafenstraße,10204,S3,24.04
+08010211,Flughafenstraße,10204,S4,60.83
+08010211,Flughafenstraße,10204,D1,-0.87
+08010211,Flughafenstraße,10204,D2,-0.04
+08010211,Flughafenstraße,10204,D3,-1.01
+08010211,Flughafenstraße,10204,D4,-3.92
+08010212,Rollberg,7474,S1,12.38
+08010212,Rollberg,7474,S2,3.97
+08010212,Rollberg,7474,S3,35.56
+08010212,Rollberg,7474,S4,67.17
+08010212,Rollberg,7474,D1,-1.44
+08010212,Rollberg,7474,D2,-0.49
+08010212,Rollberg,7474,D3,-0.77
+08010212,Rollberg,7474,D4,-2.22
+08010213,Körnerpark,12812,S1,11.29
+08010213,Körnerpark,12812,S2,3.33
+08010213,Körnerpark,12812,S3,25.78
+08010213,Körnerpark,12812,S4,65.44
+08010213,Körnerpark,12812,D1,-1.61
+08010213,Körnerpark,12812,D2,-1.11
+08010213,Körnerpark,12812,D3,-0.68
+08010213,Körnerpark,12812,D4,0.41
+08010214,Glasower Straße,8249,S1,13.18
+08010214,Glasower Straße,8249,S2,4.4
+08010214,Glasower Straße,8249,S3,29.53
+08010214,Glasower Straße,8249,S4,66.43
+08010214,Glasower Straße,8249,D1,-1.34
+08010214,Glasower Straße,8249,D2,-0.3
+08010214,Glasower Straße,8249,D3,-0.77
+08010214,Glasower Straße,8249,D4,-1.28
+08010301,Reuterkiez,28139,S1,8.67
+08010301,Reuterkiez,28139,S2,2.52
+08010301,Reuterkiez,28139,S3,18.8
+08010301,Reuterkiez,28139,S4,44.55
+08010301,Reuterkiez,28139,D1,-0.86
+08010301,Reuterkiez,28139,D2,-0.22
+08010301,Reuterkiez,28139,D3,-0.97
+08010301,Reuterkiez,28139,D4,-5.56
+08010302,Bouchéstraße,3780,S1,11.51
+08010302,Bouchéstraße,3780,S2,4.11
+08010302,Bouchéstraße,3780,S3,22.86
+08010302,Bouchéstraße,3780,S4,54.61
+08010302,Bouchéstraße,3780,D1,-0.73
+08010302,Bouchéstraße,3780,D2,0.33
+08010302,Bouchéstraße,3780,D3,0.72
+08010302,Bouchéstraße,3780,D4,-4.66
+08010303,Donaustraße,8552,S1,10.57
+08010303,Donaustraße,8552,S2,2.79
+08010303,Donaustraße,8552,S3,25.5
+08010303,Donaustraße,8552,S4,63.47
+08010303,Donaustraße,8552,D1,-0.41
+08010303,Donaustraße,8552,D2,-0.7
+08010303,Donaustraße,8552,D3,-1.96
+08010303,Donaustraße,8552,D4,-2.16
+08010404,Rixdorf,23397,S1,10.83
+08010404,Rixdorf,23397,S2,3.08
+08010404,Rixdorf,23397,S3,24.02
+08010404,Rixdorf,23397,S4,57.47
+08010404,Rixdorf,23397,D1,-1.06
+08010404,Rixdorf,23397,D2,-0.74
+08010404,Rixdorf,23397,D3,-1.74
+08010404,Rixdorf,23397,D4,-4.85
+08010405,Hertzbergplatz,9035,S1,9.68
+08010405,Hertzbergplatz,9035,S2,2.65
+08010405,Hertzbergplatz,9035,S3,21.58
+08010405,Hertzbergplatz,9035,S4,53.09
+08010405,Hertzbergplatz,9035,D1,-1.58
+08010405,Hertzbergplatz,9035,D2,-0.87
+08010405,Hertzbergplatz,9035,D3,-1.21
+08010405,Hertzbergplatz,9035,D4,-3.11
+08010406,Treptower Straße Nord,7031,S1,13.78
+08010406,Treptower Straße Nord,7031,S2,4.2
+08010406,Treptower Straße Nord,7031,S3,32.8
+08010406,Treptower Straße Nord,7031,S4,73.73
+08010406,Treptower Straße Nord,7031,D1,-1.72
+08010406,Treptower Straße Nord,7031,D2,-0.6
+08010406,Treptower Straße Nord,7031,D3,-0.2
+08010406,Treptower Straße Nord,7031,D4,7.18
+08010407,Gewerbegebiet Ederstraße,801,S1,11.62
+08010407,Gewerbegebiet Ederstraße,801,S2,2.94
+08010407,Gewerbegebiet Ederstraße,801,S3,17.6
+08010407,Gewerbegebiet Ederstraße,801,S4,52.86
+08010407,Gewerbegebiet Ederstraße,801,D1,0.06
+08010407,Gewerbegebiet Ederstraße,801,D2,-0.91
+08010407,Gewerbegebiet Ederstraße,801,D3,-2.92
+08010407,Gewerbegebiet Ederstraße,801,D4,-14.84
+08010508,Weiße Siedlung,5474,S1,15.55
+08010508,Weiße Siedlung,5474,S2,5.08
+08010508,Weiße Siedlung,5474,S3,41.83
+08010508,Weiße Siedlung,5474,S4,72.07
+08010508,Weiße Siedlung,5474,D1,-1
+08010508,Weiße Siedlung,5474,D2,0.28
+08010508,Weiße Siedlung,5474,D3,-0.06
+08010508,Weiße Siedlung,5474,D4,-1.33
+08010509,Schulenburgpark,9508,S1,16.27
+08010509,Schulenburgpark,9508,S2,5.67
+08010509,Schulenburgpark,9508,S3,45.27
+08010509,Schulenburgpark,9508,S4,76.84
+08010509,Schulenburgpark,9508,D1,-2.44
+08010509,Schulenburgpark,9508,D2,0.33
+08010509,Schulenburgpark,9508,D3,2.25
+08010509,Schulenburgpark,9508,D4,2.07
+08010510,Gewerbegebiet Köllnische Heide,383,S1,10.06
+08010510,Gewerbegebiet Köllnische Heide,383,S2,2.6
+08010510,Gewerbegebiet Köllnische Heide,383,S3,17.23
+08010510,Gewerbegebiet Köllnische Heide,383,S4,25.93
+08010510,Gewerbegebiet Köllnische Heide,383,D1,-1.86
+08010510,Gewerbegebiet Köllnische Heide,383,D2,0.28
+08010510,Gewerbegebiet Köllnische Heide,383,D3,2.67
+08010510,Gewerbegebiet Köllnische Heide,383,D4,-17.26
+08020619,Buschkrugallee Nord,10579,S1,9.44
+08020619,Buschkrugallee Nord,10579,S2,3.1
+08020619,Buschkrugallee Nord,10579,S3,25.52
+08020619,Buschkrugallee Nord,10579,S4,51.1
+08020619,Buschkrugallee Nord,10579,D1,-2.88
+08020619,Buschkrugallee Nord,10579,D2,-0.61
+08020619,Buschkrugallee Nord,10579,D3,1.38
+08020619,Buschkrugallee Nord,10579,D4,-2.31
+08020620,Tempelhofer Weg,9226,S1,10.17
+08020620,Tempelhofer Weg,9226,S2,3.43
+08020620,Tempelhofer Weg,9226,S3,22.88
+08020620,Tempelhofer Weg,9226,S4,59.49
+08020620,Tempelhofer Weg,9226,D1,-1.4
+08020620,Tempelhofer Weg,9226,D2,-0.47
+08020620,Tempelhofer Weg,9226,D3,-0.03
+08020620,Tempelhofer Weg,9226,D4,1.11
+08020621,Mohriner Allee Nord,2318,S1,2.33
+08020621,Mohriner Allee Nord,2318,S2,0.58
+08020621,Mohriner Allee Nord,2318,S3,2.2
+08020621,Mohriner Allee Nord,2318,S4,5.1
+08020621,Mohriner Allee Nord,2318,D1,0.16
+08020621,Mohriner Allee Nord,2318,D2,0.39
+08020621,Mohriner Allee Nord,2318,D3,0.18
+08020621,Mohriner Allee Nord,2318,D4,2.56
+08020622,Parchimer Allee,14195,S1,7.79
+08020622,Parchimer Allee,14195,S2,2.13
+08020622,Parchimer Allee,14195,S3,14.58
+08020622,Parchimer Allee,14195,S4,33.88
+08020622,Parchimer Allee,14195,D1,-0.45
+08020622,Parchimer Allee,14195,D2,-0.4
+08020622,Parchimer Allee,14195,D3,-0.05
+08020622,Parchimer Allee,14195,D4,-1.4
+08020623,Ortolanweg,1264,S1,6.69
+08020623,Ortolanweg,1264,S2,1.57
+08020623,Ortolanweg,1264,S3,16.06
+08020623,Ortolanweg,1264,S4,47.15
+08020623,Ortolanweg,1264,D1,-0.54
+08020623,Ortolanweg,1264,D2,-0.58
+08020623,Ortolanweg,1264,D3,-0.17
+08020623,Ortolanweg,1264,D4,5.93
+08020624,Britzer Garten,1142,S1,7.63
+08020624,Britzer Garten,1142,S2,2.5
+08020624,Britzer Garten,1142,S3,10.33
+08020624,Britzer Garten,1142,S4,23.64
+08020624,Britzer Garten,1142,D1,0.54
+08020624,Britzer Garten,1142,D2,0.97
+08020624,Britzer Garten,1142,D3,-4.63
+08020624,Britzer Garten,1142,D4,-2.04
+08020625,Handwerker-Siedlung,3331,S1,7.56
+08020625,Handwerker-Siedlung,3331,S2,2.5
+08020625,Handwerker-Siedlung,3331,S3,10.72
+08020625,Handwerker-Siedlung,3331,S4,20.96
+08020625,Handwerker-Siedlung,3331,D1,-1.06
+08020625,Handwerker-Siedlung,3331,D2,-0.93
+08020625,Handwerker-Siedlung,3331,D3,0.95
+08020625,Handwerker-Siedlung,3331,D4,2.05
+08020726,Buckow West,8291,S1,4.9
+08020726,Buckow West,8291,S2,1.32
+08020726,Buckow West,8291,S3,8.29
+08020726,Buckow West,8291,S4,20.99
+08020726,Buckow West,8291,D1,-1.02
+08020726,Buckow West,8291,D2,-0.39
+08020726,Buckow West,8291,D3,0.82
+08020726,Buckow West,8291,D4,2.09
+08020727,Buckow Mitte,11436,S1,5.98
+08020727,Buckow Mitte,11436,S2,1.73
+08020727,Buckow Mitte,11436,S3,10.48
+08020727,Buckow Mitte,11436,S4,29.53
+08020727,Buckow Mitte,11436,D1,-0.32
+08020727,Buckow Mitte,11436,D2,-0.32
+08020727,Buckow Mitte,11436,D3,-0.21
+08020727,Buckow Mitte,11436,D4,-1.28
+08020728,Buckow Ost,8286,S1,8.67
+08020728,Buckow Ost,8286,S2,2.59
+08020728,Buckow Ost,8286,S3,18.84
+08020728,Buckow Ost,8286,S4,47.56
+08020728,Buckow Ost,8286,D1,-0.47
+08020728,Buckow Ost,8286,D2,-0.05
+08020728,Buckow Ost,8286,D3,1.78
+08020728,Buckow Ost,8286,D4,1.67
+08030829,Gropiusstadt Nord,12327,S1,10.53
+08030829,Gropiusstadt Nord,12327,S2,3.36
+08030829,Gropiusstadt Nord,12327,S3,25.81
+08030829,Gropiusstadt Nord,12327,S4,63.77
+08030829,Gropiusstadt Nord,12327,D1,-1.25
+08030829,Gropiusstadt Nord,12327,D2,-0.22
+08030829,Gropiusstadt Nord,12327,D3,1
+08030829,Gropiusstadt Nord,12327,D4,0.15
+08030830,Gropiusstadt Süd,7272,S1,9.17
+08030830,Gropiusstadt Süd,7272,S2,2.98
+08030830,Gropiusstadt Süd,7272,S3,17.86
+08030830,Gropiusstadt Süd,7272,S4,56.19
+08030830,Gropiusstadt Süd,7272,D1,-1.17
+08030830,Gropiusstadt Süd,7272,D2,-0.44
+08030830,Gropiusstadt Süd,7272,D3,1
+08030830,Gropiusstadt Süd,7272,D4,2.47
+08030831,Gropiusstadt Ost,16867,S1,10.61
+08030831,Gropiusstadt Ost,16867,S2,3.67
+08030831,Gropiusstadt Ost,16867,S3,23.78
+08030831,Gropiusstadt Ost,16867,S4,52.05
+08030831,Gropiusstadt Ost,16867,D1,-0.57
+08030831,Gropiusstadt Ost,16867,D2,0.13
+08030831,Gropiusstadt Ost,16867,D3,0.71
+08030831,Gropiusstadt Ost,16867,D4,-1.41
+08040932,Goldhähnchenweg,2757,S1,6.23
+08040932,Goldhähnchenweg,2757,S2,2.44
+08040932,Goldhähnchenweg,2757,S3,14.15
+08040932,Goldhähnchenweg,2757,S4,37.54
+08040932,Goldhähnchenweg,2757,D1,-0.98
+08040932,Goldhähnchenweg,2757,D2,-0.2
+08040932,Goldhähnchenweg,2757,D3,-0.04
+08040932,Goldhähnchenweg,2757,D4,-6.45
+08040933,Vogelviertel Süd,3941,S1,5.13
+08040933,Vogelviertel Süd,3941,S2,1.58
+08040933,Vogelviertel Süd,3941,S3,8.88
+08040933,Vogelviertel Süd,3941,S4,23.46
+08040933,Vogelviertel Süd,3941,D1,-0.13
+08040933,Vogelviertel Süd,3941,D2,0.1
+08040933,Vogelviertel Süd,3941,D3,1.26
+08040933,Vogelviertel Süd,3941,D4,4.07
+08040934,Vogelviertel Nord,2686,S1,4.34
+08040934,Vogelviertel Nord,2686,S2,1.3
+08040934,Vogelviertel Nord,2686,S3,10.09
+08040934,Vogelviertel Nord,2686,S4,23.51
+08040934,Vogelviertel Nord,2686,D1,-1.47
+08040934,Vogelviertel Nord,2686,D2,-0.49
+08040934,Vogelviertel Nord,2686,D3,1.02
+08040934,Vogelviertel Nord,2686,D4,1.39
+08041035,Blumenviertel,7847,S1,4.11
+08041035,Blumenviertel,7847,S2,1.21
+08041035,Blumenviertel,7847,S3,4.21
+08041035,Blumenviertel,7847,S4,11.13
+08041035,Blumenviertel,7847,D1,-0.06
+08041035,Blumenviertel,7847,D2,0.01
+08041035,Blumenviertel,7847,D3,0.17
+08041035,Blumenviertel,7847,D4,1.7
+08041036,Zittauer Straße,6802,S1,3.44
+08041036,Zittauer Straße,6802,S2,0.72
+08041036,Zittauer Straße,6802,S3,3.88
+08041036,Zittauer Straße,6802,S4,8.75
+08041036,Zittauer Straße,6802,D1,0.15
+08041036,Zittauer Straße,6802,D2,-0.47
+08041036,Zittauer Straße,6802,D3,-0.11
+08041036,Zittauer Straße,6802,D4,-1.35
+08041037,Alt-Rudow,9632,S1,5.97
+08041037,Alt-Rudow,9632,S2,1.85
+08041037,Alt-Rudow,9632,S3,9.43
+08041037,Alt-Rudow,9632,S4,29.6
+08041037,Alt-Rudow,9632,D1,-0.26
+08041037,Alt-Rudow,9632,D2,0.26
+08041037,Alt-Rudow,9632,D3,0.14
+08041037,Alt-Rudow,9632,D4,0.83
+08041038,Waßmannsdorfer Chaussee,6690,S1,3.38
+08041038,Waßmannsdorfer Chaussee,6690,S2,1.13
+08041038,Waßmannsdorfer Chaussee,6690,S3,4.54
+08041038,Waßmannsdorfer Chaussee,6690,S4,11.23
+08041038,Waßmannsdorfer Chaussee,6690,D1,-0.5
+08041038,Waßmannsdorfer Chaussee,6690,D2,0.14
+08041038,Waßmannsdorfer Chaussee,6690,D3,0.05
+08041038,Waßmannsdorfer Chaussee,6690,D4,-0.57
+08041039,Frauenviertel,3725,S1,5.26
+08041039,Frauenviertel,3725,S2,1.58
+08041039,Frauenviertel,3725,S3,13.07
+08041039,Frauenviertel,3725,S4,29.53
+08041039,Frauenviertel,3725,D1,-1.53
+08041039,Frauenviertel,3725,D2,-0.35
+08041039,Frauenviertel,3725,D3,-1.66
+08041039,Frauenviertel,3725,D4,-4.23
+08041040,Waltersdorfer Chaussee Ost,7991,S1,4.69
+08041040,Waltersdorfer Chaussee Ost,7991,S2,1.32
+08041040,Waltersdorfer Chaussee Ost,7991,S3,9.41
+08041040,Waltersdorfer Chaussee Ost,7991,S4,22.64
+08041040,Waltersdorfer Chaussee Ost,7991,D1,-0.66
+08041040,Waltersdorfer Chaussee Ost,7991,D2,-0.2
+08041040,Waltersdorfer Chaussee Ost,7991,D3,-0.27
+08041040,Waltersdorfer Chaussee Ost,7991,D4,-0.35
+09010101,Elsenstraße,11330,S1,9.22
+09010101,Elsenstraße,11330,S2,3.42
+09010101,Elsenstraße,11330,S3,12.67
+09010101,Elsenstraße,11330,S4,26.9
+09010101,Elsenstraße,11330,D1,-1.15
+09010101,Elsenstraße,11330,D2,-0.39
+09010101,Elsenstraße,11330,D3,-0.3
+09010101,Elsenstraße,11330,D4,-2.86
+09010201,Am Treptower Park Süd,4252,S1,5.44
+09010201,Am Treptower Park Süd,4252,S2,1.88
+09010201,Am Treptower Park Süd,4252,S3,5.79
+09010201,Am Treptower Park Süd,4252,S4,10
+09010201,Am Treptower Park Süd,4252,D1,-0.08
+09010201,Am Treptower Park Süd,4252,D2,0.14
+09010201,Am Treptower Park Süd,4252,D3,-0.48
+09010201,Am Treptower Park Süd,4252,D4,-2.01
+09010202,Köpenicker Landstraße,6722,S1,10.89
+09010202,Köpenicker Landstraße,6722,S2,3.92
+09010202,Köpenicker Landstraße,6722,S3,9.91
+09010202,Köpenicker Landstraße,6722,S4,34.38
+09010202,Köpenicker Landstraße,6722,D1,0.85
+09010202,Köpenicker Landstraße,6722,D2,0.07
+09010202,Köpenicker Landstraße,6722,D3,-1.47
+09010202,Köpenicker Landstraße,6722,D4,-4.65
+09010301,Baumschulenstraße,14704,S1,8.09
+09010301,Baumschulenstraße,14704,S2,2.62
+09010301,Baumschulenstraße,14704,S3,9.16
+09010301,Baumschulenstraße,14704,S4,29.32
+09010301,Baumschulenstraße,14704,D1,-0.59
+09010301,Baumschulenstraße,14704,D2,-0.41
+09010301,Baumschulenstraße,14704,D3,-0.69
+09010301,Baumschulenstraße,14704,D4,-2.01
+09010302,Späthsfelde,2943,S1,2.9
+09010302,Späthsfelde,2943,S2,1.09
+09010302,Späthsfelde,2943,S3,2.31
+09010302,Späthsfelde,2943,S4,5.03
+09010302,Späthsfelde,2943,D1,-0.61
+09010302,Späthsfelde,2943,D2,0.13
+09010302,Späthsfelde,2943,D3,-0.56
+09010302,Späthsfelde,2943,D4,0.32
+09010401,Johannisthal West,7844,S1,6.88
+09010401,Johannisthal West,7844,S2,2.62
+09010401,Johannisthal West,7844,S3,6.23
+09010401,Johannisthal West,7844,S4,22.05
+09010401,Johannisthal West,7844,D1,-0.4
+09010401,Johannisthal West,7844,D2,0.06
+09010401,Johannisthal West,7844,D3,-0.63
+09010401,Johannisthal West,7844,D4,-1.85
+09010402,Johannisthal Ost,10737,S1,5.57
+09010402,Johannisthal Ost,10737,S2,1.99
+09010402,Johannisthal Ost,10737,S3,7.67
+09010402,Johannisthal Ost,10737,S4,15.11
+09010402,Johannisthal Ost,10737,D1,-0.59
+09010402,Johannisthal Ost,10737,D2,-0.36
+09010402,Johannisthal Ost,10737,D3,0.45
+09010402,Johannisthal Ost,10737,D4,0.62
+09020501,Oberschöneweide West,6147,S1,13.67
+09020501,Oberschöneweide West,6147,S2,5.24
+09020501,Oberschöneweide West,6147,S3,17.7
+09020501,Oberschöneweide West,6147,S4,41.97
+09020501,Oberschöneweide West,6147,D1,-0.67
+09020501,Oberschöneweide West,6147,D2,-0.5
+09020501,Oberschöneweide West,6147,D3,-0.64
+09020501,Oberschöneweide West,6147,D4,-4.27
+09020502,Oberschöneweide Ost,14214,S1,9.34
+09020502,Oberschöneweide Ost,14214,S2,3.78
+09020502,Oberschöneweide Ost,14214,S3,13.49
+09020502,Oberschöneweide Ost,14214,S4,30.39
+09020502,Oberschöneweide Ost,14214,D1,-0.98
+09020502,Oberschöneweide Ost,14214,D2,-0.06
+09020502,Oberschöneweide Ost,14214,D3,-0.86
+09020502,Oberschöneweide Ost,14214,D4,-4.71
+09020601,Schnellerstraße,7437,S1,8.81
+09020601,Schnellerstraße,7437,S2,2.62
+09020601,Schnellerstraße,7437,S3,12.26
+09020601,Schnellerstraße,7437,S4,33.51
+09020601,Schnellerstraße,7437,D1,-0.47
+09020601,Schnellerstraße,7437,D2,-0.83
+09020601,Schnellerstraße,7437,D3,0.5
+09020601,Schnellerstraße,7437,D4,-1.48
+09020602,Oberspree,3434,S1,5.82
+09020602,Oberspree,3434,S2,2.23
+09020602,Oberspree,3434,S3,5.97
+09020602,Oberspree,3434,S4,22.03
+09020602,Oberspree,3434,D1,-0.16
+09020602,Oberspree,3434,D2,0.35
+09020602,Oberspree,3434,D3,-0.38
+09020602,Oberspree,3434,D4,1.97
+09020701,Adlershof West,508,S1,6.79
+09020701,Adlershof West,508,S2,3.51
+09020701,Adlershof West,508,S3,4.92
+09020701,Adlershof West,508,S4,0
+09020701,Adlershof West,508,D1,-10.24
+09020701,Adlershof West,508,D2,-3.08
+09020701,Adlershof West,508,D3,-4.21
+09020701,Adlershof West,508,D4,0
+09020702,Adlershof Ost,15934,S1,7.72
+09020702,Adlershof Ost,15934,S2,2.83
+09020702,Adlershof Ost,15934,S3,8.5
+09020702,Adlershof Ost,15934,S4,21.23
+09020702,Adlershof Ost,15934,D1,-0.58
+09020702,Adlershof Ost,15934,D2,-0.21
+09020702,Adlershof Ost,15934,D3,0.06
+09020702,Adlershof Ost,15934,D4,-0.43
+09020801,Spindlersfeld,2881,S1,5.66
+09020801,Spindlersfeld,2881,S2,2.34
+09020801,Spindlersfeld,2881,S3,7.81
+09020801,Spindlersfeld,2881,S4,16.67
+09020801,Spindlersfeld,2881,D1,-0.89
+09020801,Spindlersfeld,2881,D2,-0.07
+09020801,Spindlersfeld,2881,D3,-0.18
+09020801,Spindlersfeld,2881,D4,0.42
+09020802,Köllnische Vorstadt,7268,S1,12.12
+09020802,Köllnische Vorstadt,7268,S2,4.46
+09020802,Köllnische Vorstadt,7268,S3,18.96
+09020802,Köllnische Vorstadt,7268,S4,51.32
+09020802,Köllnische Vorstadt,7268,D1,-0.53
+09020802,Köllnische Vorstadt,7268,D2,-0.43
+09020802,Köllnische Vorstadt,7268,D3,-0.34
+09020802,Köllnische Vorstadt,7268,D4,-1.77
+09030901,Dorf Altglienicke,12317,S1,3.53
+09030901,Dorf Altglienicke,12317,S2,1.05
+09030901,Dorf Altglienicke,12317,S3,3.05
+09030901,Dorf Altglienicke,12317,S4,7.88
+09030901,Dorf Altglienicke,12317,D1,-0.39
+09030901,Dorf Altglienicke,12317,D2,-0.04
+09030901,Dorf Altglienicke,12317,D3,-0.13
+09030901,Dorf Altglienicke,12317,D4,-0.77
+09030902,Wohngebiet II,5827,S1,14.87
+09030902,Wohngebiet II,5827,S2,5.99
+09030902,Wohngebiet II,5827,S3,23.27
+09030902,Wohngebiet II,5827,S4,56.16
+09030902,Wohngebiet II,5827,D1,-0.44
+09030902,Wohngebiet II,5827,D2,-0.48
+09030902,Wohngebiet II,5827,D3,0.89
+09030902,Wohngebiet II,5827,D4,0.19
+09030903,Kölner Viertel,7800,S1,5.93
+09030903,Kölner Viertel,7800,S2,2.43
+09030903,Kölner Viertel,7800,S3,9.29
+09030903,Kölner Viertel,7800,S4,18.58
+09030903,Kölner Viertel,7800,D1,-0.27
+09030903,Kölner Viertel,7800,D2,0.27
+09030903,Kölner Viertel,7800,D3,-1.04
+09030903,Kölner Viertel,7800,D4,-2.87
+09031001,Bohnsdorf,12240,S1,4.4
+09031001,Bohnsdorf,12240,S2,1.41
+09031001,Bohnsdorf,12240,S3,5.28
+09031001,Bohnsdorf,12240,S4,14.06
+09031001,Bohnsdorf,12240,D1,-0.17
+09031001,Bohnsdorf,12240,D2,0.11
+09031001,Bohnsdorf,12240,D3,0.06
+09031001,Bohnsdorf,12240,D4,-0.32
+09031101,Grünau,5649,S1,4.45
+09031101,Grünau,5649,S2,1.4
+09031101,Grünau,5649,S3,3.54
+09031101,Grünau,5649,S4,8.08
+09031101,Grünau,5649,D1,-0.92
+09031101,Grünau,5649,D2,-0.41
+09031101,Grünau,5649,D3,-0.16
+09031101,Grünau,5649,D4,-1.68
+09031201,Karolinenhof,1764,S1,2.78
+09031201,Karolinenhof,1764,S2,0.86
+09031201,Karolinenhof,1764,S3,1.13
+09031201,Karolinenhof,1764,S4,0
+09031201,Karolinenhof,1764,D1,-1.05
+09031201,Karolinenhof,1764,D2,-0.29
+09031201,Karolinenhof,1764,D3,0.11
+09031201,Karolinenhof,1764,D4,0
+09031202,Schmöckwitz/Rauchfangswerder,2351,S1,4.37
+09031202,Schmöckwitz/Rauchfangswerder,2351,S2,1.19
+09031202,Schmöckwitz/Rauchfangswerder,2351,S3,2.68
+09031202,Schmöckwitz/Rauchfangswerder,2351,S4,6.14
+09031202,Schmöckwitz/Rauchfangswerder,2351,D1,0.99
+09031202,Schmöckwitz/Rauchfangswerder,2351,D2,-0.23
+09031202,Schmöckwitz/Rauchfangswerder,2351,D3,1.06
+09031202,Schmöckwitz/Rauchfangswerder,2351,D4,6.14
+09041301,Kietzer Feld/Nachtheide,13933,S1,7.14
+09041301,Kietzer Feld/Nachtheide,13933,S2,2.65
+09041301,Kietzer Feld/Nachtheide,13933,S3,6.68
+09041301,Kietzer Feld/Nachtheide,13933,S4,18.99
+09041301,Kietzer Feld/Nachtheide,13933,D1,-0.59
+09041301,Kietzer Feld/Nachtheide,13933,D2,-0.12
+09041301,Kietzer Feld/Nachtheide,13933,D3,-0.16
+09041301,Kietzer Feld/Nachtheide,13933,D4,-0.55
+09041302,Wendenschloß,1792,S1,2.16
+09041302,Wendenschloß,1792,S2,0.45
+09041302,Wendenschloß,1792,S3,0.84
+09041302,Wendenschloß,1792,S4,0
+09041302,Wendenschloß,1792,D1,-0.28
+09041302,Wendenschloß,1792,D2,-0.07
+09041302,Wendenschloß,1792,D3,-0.51
+09041302,Wendenschloß,1792,D4,-1.35
+09041401,Allende I,4845,S1,5.94
+09041401,Allende I,4845,S2,1.89
+09041401,Allende I,4845,S3,6.71
+09041401,Allende I,4845,S4,17.74
+09041401,Allende I,4845,D1,0.39
+09041401,Allende I,4845,D2,-0.31
+09041401,Allende I,4845,D3,-0.05
+09041401,Allende I,4845,D4,-2.65
+09041402,Allende II,1480,S1,4.33
+09041402,Allende II,1480,S2,1.41
+09041402,Allende II,1480,S3,5.81
+09041402,Allende II,1480,S4,13.9
+09041402,Allende II,1480,D1,-0.83
+09041402,Allende II,1480,D2,-0.24
+09041402,Allende II,1480,D3,-0.5
+09041402,Allende II,1480,D4,-5.76
+09041501,Altstadt Kietz,7173,S1,9.19
+09041501,Altstadt Kietz,7173,S2,3.37
+09041501,Altstadt Kietz,7173,S3,13.65
+09041501,Altstadt Kietz,7173,S4,32.5
+09041501,Altstadt Kietz,7173,D1,-1.2
+09041501,Altstadt Kietz,7173,D2,-0.52
+09041501,Altstadt Kietz,7173,D3,-1.33
+09041501,Altstadt Kietz,7173,D4,-4.17
+09041601,Müggelheim,6522,S1,3.35
+09041601,Müggelheim,6522,S2,1.08
+09041601,Müggelheim,6522,S3,2.02
+09041601,Müggelheim,6522,S4,3.73
+09041601,Müggelheim,6522,D1,-0.63
+09041601,Müggelheim,6522,D2,-0.08
+09041601,Müggelheim,6522,D3,-0.39
+09041601,Müggelheim,6522,D4,-0.5
+09051701,Hirschgarten,3522,S1,4.17
+09051701,Hirschgarten,3522,S2,0.88
+09051701,Hirschgarten,3522,S3,4.09
+09051701,Hirschgarten,3522,S4,8.31
+09051701,Hirschgarten,3522,D1,-1.26
+09051701,Hirschgarten,3522,D2,-0.54
+09051701,Hirschgarten,3522,D3,0.42
+09051701,Hirschgarten,3522,D4,1.51
+09051702,Bölschestraße,14383,S1,4.48
+09051702,Bölschestraße,14383,S2,1.6
+09051702,Bölschestraße,14383,S3,3.96
+09051702,Bölschestraße,14383,S4,7.49
+09051702,Bölschestraße,14383,D1,-0.45
+09051702,Bölschestraße,14383,D2,-0.07
+09051702,Bölschestraße,14383,D3,-0.09
+09051702,Bölschestraße,14383,D4,-0.43
+09051801,Rahnsdorf/Hessenwinkel,9041,S1,3.92
+09051801,Rahnsdorf/Hessenwinkel,9041,S2,1.15
+09051801,Rahnsdorf/Hessenwinkel,9041,S3,2.37
+09051801,Rahnsdorf/Hessenwinkel,9041,S4,4.28
+09051801,Rahnsdorf/Hessenwinkel,9041,D1,0.37
+09051801,Rahnsdorf/Hessenwinkel,9041,D2,0.2
+09051801,Rahnsdorf/Hessenwinkel,9041,D3,-0.02
+09051801,Rahnsdorf/Hessenwinkel,9041,D4,-0.96
+09051901,Dammvorstadt,10075,S1,6.88
+09051901,Dammvorstadt,10075,S2,2.27
+09051901,Dammvorstadt,10075,S3,7
+09051901,Dammvorstadt,10075,S4,16.52
+09051901,Dammvorstadt,10075,D1,-0.33
+09051901,Dammvorstadt,10075,D2,-0.43
+09051901,Dammvorstadt,10075,D3,-1.09
+09051901,Dammvorstadt,10075,D4,-3.55
+09052001,Köpenick Nord,12300,S1,5.96
+09052001,Köpenick Nord,12300,S2,2.12
+09052001,Köpenick Nord,12300,S3,4.56
+09052001,Köpenick Nord,12300,S4,12.18
+09052001,Köpenick Nord,12300,D1,-0.21
+09052001,Köpenick Nord,12300,D2,-0.29
+09052001,Köpenick Nord,12300,D3,-0.09
+09052001,Köpenick Nord,12300,D4,-0.43
+10010101,Marzahn West,5545,S1,11.52
+10010101,Marzahn West,5545,S2,3.89
+10010101,Marzahn West,5545,S3,25.59
+10010101,Marzahn West,5545,S4,55.13
+10010101,Marzahn West,5545,D1,-3.03
+10010101,Marzahn West,5545,D2,-1.59
+10010101,Marzahn West,5545,D3,-1.51
+10010101,Marzahn West,5545,D4,-4.65
+10010102,Havemannstraße,17726,S1,12.99
+10010102,Havemannstraße,17726,S2,4.27
+10010102,Havemannstraße,17726,S3,28.74
+10010102,Havemannstraße,17726,S4,62.06
+10010102,Havemannstraße,17726,D1,-2.13
+10010102,Havemannstraße,17726,D2,-1.2
+10010102,Havemannstraße,17726,D3,0.61
+10010102,Havemannstraße,17726,D4,-1.33
+10010204,Wuhletalstraße,10220,S1,12.02
+10010204,Wuhletalstraße,10220,S2,4.2
+10010204,Wuhletalstraße,10220,S3,23.16
+10010204,Wuhletalstraße,10220,S4,53.87
+10010204,Wuhletalstraße,10220,D1,-2.02
+10010204,Wuhletalstraße,10220,D2,-1.41
+10010204,Wuhletalstraße,10220,D3,-0.88
+10010204,Wuhletalstraße,10220,D4,-2.95
+10010205,Marzahn Ost,8035,S1,12.56
+10010205,Marzahn Ost,8035,S2,4.47
+10010205,Marzahn Ost,8035,S3,21.88
+10010205,Marzahn Ost,8035,S4,51.8
+10010205,Marzahn Ost,8035,D1,-0.65
+10010205,Marzahn Ost,8035,D2,-0.28
+10010205,Marzahn Ost,8035,D3,-0.24
+10010205,Marzahn Ost,8035,D4,-1.12
+10010206,Ringkolonnaden,16406,S1,10.04
+10010206,Ringkolonnaden,16406,S2,3.31
+10010206,Ringkolonnaden,16406,S3,17.98
+10010206,Ringkolonnaden,16406,S4,50.18
+10010206,Ringkolonnaden,16406,D1,-1.38
+10010206,Ringkolonnaden,16406,D2,-0.97
+10010206,Ringkolonnaden,16406,D3,0.56
+10010206,Ringkolonnaden,16406,D4,-0.07
+10010207,Marzahner Promenade,10655,S1,10.55
+10010207,Marzahner Promenade,10655,S2,3.31
+10010207,Marzahner Promenade,10655,S3,19.93
+10010207,Marzahner Promenade,10655,S4,53.94
+10010207,Marzahner Promenade,10655,D1,-1.02
+10010207,Marzahner Promenade,10655,D2,-1.04
+10010207,Marzahner Promenade,10655,D3,1.03
+10010207,Marzahner Promenade,10655,D4,0.63
+10010308,Marzahner Chaussee,2148,S1,6.22
+10010308,Marzahner Chaussee,2148,S2,1.86
+10010308,Marzahner Chaussee,2148,S3,5.73
+10010308,Marzahner Chaussee,2148,S4,10.56
+10010308,Marzahner Chaussee,2148,D1,0.02
+10010308,Marzahner Chaussee,2148,D2,-0.41
+10010308,Marzahner Chaussee,2148,D3,0.88
+10010308,Marzahner Chaussee,2148,D4,1.61
+10010309,Springpfuhl,14403,S1,9.3
+10010309,Springpfuhl,14403,S2,3.29
+10010309,Springpfuhl,14403,S3,15.1
+10010309,Springpfuhl,14403,S4,43.36
+10010309,Springpfuhl,14403,D1,-1.45
+10010309,Springpfuhl,14403,D2,-0.7
+10010309,Springpfuhl,14403,D3,-0.47
+10010309,Springpfuhl,14403,D4,-2.95
+10010310,Alt-Marzahn,17603,S1,8.89
+10010310,Alt-Marzahn,17603,S2,2.77
+10010310,Alt-Marzahn,17603,S3,14.24
+10010310,Alt-Marzahn,17603,S4,40.73
+10010310,Alt-Marzahn,17603,D1,-0.58
+10010310,Alt-Marzahn,17603,D2,-0.66
+10010310,Alt-Marzahn,17603,D3,0.07
+10010310,Alt-Marzahn,17603,D4,-1.43
+10010311,Landsberger Tor,2944,S1,3.69
+10010311,Landsberger Tor,2944,S2,0.97
+10010311,Landsberger Tor,2944,S3,6.79
+10010311,Landsberger Tor,2944,S4,13.72
+10010311,Landsberger Tor,2944,D1,-1.28
+10010311,Landsberger Tor,2944,D2,-0.88
+10010311,Landsberger Tor,2944,D3,-0.85
+10010311,Landsberger Tor,2944,D4,-4.65
+10020412,Alte Hellersdorfer Straße,6617,S1,16.58
+10020412,Alte Hellersdorfer Straße,6617,S2,5.23
+10020412,Alte Hellersdorfer Straße,6617,S3,34.35
+10020412,Alte Hellersdorfer Straße,6617,S4,62.49
+10020412,Alte Hellersdorfer Straße,6617,D1,-1.59
+10020412,Alte Hellersdorfer Straße,6617,D2,-1.04
+10020412,Alte Hellersdorfer Straße,6617,D3,0.67
+10020412,Alte Hellersdorfer Straße,6617,D4,-3.04
+10020413,Gut Hellersdorf,14967,S1,11.34
+10020413,Gut Hellersdorf,14967,S2,3.38
+10020413,Gut Hellersdorf,14967,S3,21.9
+10020413,Gut Hellersdorf,14967,S4,54.95
+10020413,Gut Hellersdorf,14967,D1,-1.65
+10020413,Gut Hellersdorf,14967,D2,-1.02
+10020413,Gut Hellersdorf,14967,D3,1.13
+10020413,Gut Hellersdorf,14967,D4,0.48
+10020414,Helle Mitte,1658,S1,9.13
+10020414,Helle Mitte,1658,S2,2.56
+10020414,Helle Mitte,1658,S3,22.86
+10020414,Helle Mitte,1658,S4,51.97
+10020414,Helle Mitte,1658,D1,-1.87
+10020414,Helle Mitte,1658,D2,-1.77
+10020414,Helle Mitte,1658,D3,-3.93
+10020414,Helle Mitte,1658,D4,-10.58
+10020415,Hellersdorfer Promenade,5304,S1,15.95
+10020415,Hellersdorfer Promenade,5304,S2,5.25
+10020415,Hellersdorfer Promenade,5304,S3,32.35
+10020415,Hellersdorfer Promenade,5304,S4,70.8
+10020415,Hellersdorfer Promenade,5304,D1,-1.64
+10020415,Hellersdorfer Promenade,5304,D2,-1.2
+10020415,Hellersdorfer Promenade,5304,D3,2.61
+10020415,Hellersdorfer Promenade,5304,D4,0.97
+10020416,Böhlener Straße,5406,S1,14.7
+10020416,Böhlener Straße,5406,S2,4.09
+10020416,Böhlener Straße,5406,S3,27.28
+10020416,Böhlener Straße,5406,S4,56.23
+10020416,Böhlener Straße,5406,D1,-2.88
+10020416,Böhlener Straße,5406,D2,-2.77
+10020416,Böhlener Straße,5406,D3,0.99
+10020416,Böhlener Straße,5406,D4,-2.02
+10020517,Adele-Sandrock-Straße,8786,S1,7.1
+10020517,Adele-Sandrock-Straße,8786,S2,2.23
+10020517,Adele-Sandrock-Straße,8786,S3,10.96
+10020517,Adele-Sandrock-Straße,8786,S4,31.68
+10020517,Adele-Sandrock-Straße,8786,D1,-0.64
+10020517,Adele-Sandrock-Straße,8786,D2,-0.64
+10020517,Adele-Sandrock-Straße,8786,D3,-0.88
+10020517,Adele-Sandrock-Straße,8786,D4,-5.41
+10020518,Schleipfuhl,5045,S1,10.43
+10020518,Schleipfuhl,5045,S2,3.1
+10020518,Schleipfuhl,5045,S3,20.34
+10020518,Schleipfuhl,5045,S4,47.85
+10020518,Schleipfuhl,5045,D1,-1.56
+10020518,Schleipfuhl,5045,D2,-1.07
+10020518,Schleipfuhl,5045,D3,0.96
+10020518,Schleipfuhl,5045,D4,3.35
+10020519,Boulevard Kastanienallee,5799,S1,15.73
+10020519,Boulevard Kastanienallee,5799,S2,5.26
+10020519,Boulevard Kastanienallee,5799,S3,32.14
+10020519,Boulevard Kastanienallee,5799,S4,61.47
+10020519,Boulevard Kastanienallee,5799,D1,-2.67
+10020519,Boulevard Kastanienallee,5799,D2,-2
+10020519,Boulevard Kastanienallee,5799,D3,0.54
+10020519,Boulevard Kastanienallee,5799,D4,-8.48
+10020620,Kaulsdorf Nord II,3357,S1,9.24
+10020620,Kaulsdorf Nord II,3357,S2,3.12
+10020620,Kaulsdorf Nord II,3357,S3,16.74
+10020620,Kaulsdorf Nord II,3357,S4,46.95
+10020620,Kaulsdorf Nord II,3357,D1,-3.35
+10020620,Kaulsdorf Nord II,3357,D2,-1.77
+10020620,Kaulsdorf Nord II,3357,D3,-0.56
+10020620,Kaulsdorf Nord II,3357,D4,-2.73
+10020621,Gelbes Viertel,5915,S1,11.67
+10020621,Gelbes Viertel,5915,S2,3.37
+10020621,Gelbes Viertel,5915,S3,24.4
+10020621,Gelbes Viertel,5915,S4,53.27
+10020621,Gelbes Viertel,5915,D1,-1.03
+10020621,Gelbes Viertel,5915,D2,-0.72
+10020621,Gelbes Viertel,5915,D3,2.94
+10020621,Gelbes Viertel,5915,D4,3.66
+10020622,Kaulsdorf Nord I,8717,S1,8.45
+10020622,Kaulsdorf Nord I,8717,S2,2.55
+10020622,Kaulsdorf Nord I,8717,S3,14.12
+10020622,Kaulsdorf Nord I,8717,S4,43.37
+10020622,Kaulsdorf Nord I,8717,D1,-0.75
+10020622,Kaulsdorf Nord I,8717,D2,-0.73
+10020622,Kaulsdorf Nord I,8717,D3,-0.31
+10020622,Kaulsdorf Nord I,8717,D4,0.16
+10020623,Rotes Viertel,6507,S1,8.38
+10020623,Rotes Viertel,6507,S2,2.75
+10020623,Rotes Viertel,6507,S3,11.91
+10020623,Rotes Viertel,6507,S4,32.86
+10020623,Rotes Viertel,6507,D1,0.05
+10020623,Rotes Viertel,6507,D2,-0.1
+10020623,Rotes Viertel,6507,D3,0.48
+10020623,Rotes Viertel,6507,D4,1.06
+10030724,Oberfeldstraße,7728,S1,2.28
+10030724,Oberfeldstraße,7728,S2,0.7
+10030724,Oberfeldstraße,7728,S3,1.63
+10030724,Oberfeldstraße,7728,S4,4.13
+10030724,Oberfeldstraße,7728,D1,-0.66
+10030724,Oberfeldstraße,7728,D2,-0.27
+10030724,Oberfeldstraße,7728,D3,0.35
+10030724,Oberfeldstraße,7728,D4,1.51
+10030725,Buckower Ring,5810,S1,8.07
+10030725,Buckower Ring,5810,S2,2.8
+10030725,Buckower Ring,5810,S3,12
+10030725,Buckower Ring,5810,S4,22.97
+10030725,Buckower Ring,5810,D1,-1.52
+10030725,Buckower Ring,5810,D2,-0.7
+10030725,Buckower Ring,5810,D3,0.52
+10030725,Buckower Ring,5810,D4,1.1
+10030726,Alt-Biesdorf,2844,S1,3.28
+10030726,Alt-Biesdorf,2844,S2,0.85
+10030726,Alt-Biesdorf,2844,S3,1.62
+10030726,Alt-Biesdorf,2844,S4,2.27
+10030726,Alt-Biesdorf,2844,D1,-0.31
+10030726,Alt-Biesdorf,2844,D2,-0.33
+10030726,Alt-Biesdorf,2844,D3,-0.14
+10030726,Alt-Biesdorf,2844,D4,-1
+10030727,Biesdorf Süd,9188,S1,2.15
+10030727,Biesdorf Süd,9188,S2,0.51
+10030727,Biesdorf Süd,9188,S3,0.98
+10030727,Biesdorf Süd,9188,S4,1.76
+10030727,Biesdorf Süd,9188,D1,-0.69
+10030727,Biesdorf Süd,9188,D2,-0.37
+10030727,Biesdorf Süd,9188,D3,-0.19
+10030727,Biesdorf Süd,9188,D4,-0.28
+10040828,Kaulsdorf Nord,7609,S1,4.41
+10040828,Kaulsdorf Nord,7609,S2,1.47
+10040828,Kaulsdorf Nord,7609,S3,6.01
+10040828,Kaulsdorf Nord,7609,S4,16.06
+10040828,Kaulsdorf Nord,7609,D1,-0.62
+10040828,Kaulsdorf Nord,7609,D2,-0.35
+10040828,Kaulsdorf Nord,7609,D3,0.14
+10040828,Kaulsdorf Nord,7609,D4,-1.69
+10040829,Alt-Kaulsdorf,3583,S1,3.29
+10040829,Alt-Kaulsdorf,3583,S2,0.98
+10040829,Alt-Kaulsdorf,3583,S3,3.18
+10040829,Alt-Kaulsdorf,3583,S4,3.89
+10040829,Alt-Kaulsdorf,3583,D1,-0.63
+10040829,Alt-Kaulsdorf,3583,D2,-0.3
+10040829,Alt-Kaulsdorf,3583,D3,0.42
+10040829,Alt-Kaulsdorf,3583,D4,0.63
+10040830,Kaulsdorf Süd,7426,S1,2.31
+10040830,Kaulsdorf Süd,7426,S2,0.69
+10040830,Kaulsdorf Süd,7426,S3,1.99
+10040830,Kaulsdorf Süd,7426,S4,5.92
+10040830,Kaulsdorf Süd,7426,D1,-0.83
+10040830,Kaulsdorf Süd,7426,D2,-0.33
+10040830,Kaulsdorf Süd,7426,D3,0.31
+10040830,Kaulsdorf Süd,7426,D4,2.73
+10040931,Mahlsdorf Nord,9124,S1,2.73
+10040931,Mahlsdorf Nord,9124,S2,0.85
+10040931,Mahlsdorf Nord,9124,S3,2.03
+10040931,Mahlsdorf Nord,9124,S4,2.95
+10040931,Mahlsdorf Nord,9124,D1,-0.61
+10040931,Mahlsdorf Nord,9124,D2,-0.27
+10040931,Mahlsdorf Nord,9124,D3,0.12
+10040931,Mahlsdorf Nord,9124,D4,-0.01
+10040932,Alt-Mahlsdorf,3905,S1,3.61
+10040932,Alt-Mahlsdorf,3905,S2,0.93
+10040932,Alt-Mahlsdorf,3905,S3,2.77
+10040932,Alt-Mahlsdorf,3905,S4,5.75
+10040932,Alt-Mahlsdorf,3905,D1,0.02
+10040932,Alt-Mahlsdorf,3905,D2,-0.12
+10040932,Alt-Mahlsdorf,3905,D3,-0.31
+10040932,Alt-Mahlsdorf,3905,D4,0
+10040933,Mahlsdorf Süd,14405,S1,2.9
+10040933,Mahlsdorf Süd,14405,S2,0.92
+10040933,Mahlsdorf Süd,14405,S3,2
+10040933,Mahlsdorf Süd,14405,S4,4.14
+10040933,Mahlsdorf Süd,14405,D1,-0.34
+10040933,Mahlsdorf Süd,14405,D2,-0.15
+10040933,Mahlsdorf Süd,14405,D3,0.08
+10040933,Mahlsdorf Süd,14405,D4,0.47
+11010101,Dorf Malchow,560,S1,10.92
+11010101,Dorf Malchow,560,S2,2.18
+11010101,Dorf Malchow,560,S3,11.96
+11010101,Dorf Malchow,560,S4,0
+11010101,Dorf Malchow,560,D1,6.47
+11010101,Dorf Malchow,560,D2,2.18
+11010101,Dorf Malchow,560,D3,7.31
+11010101,Dorf Malchow,560,D4,-5.17
+11010102,Dorf Wartenberg,2562,S1,3.13
+11010102,Dorf Wartenberg,2562,S2,1.08
+11010102,Dorf Wartenberg,2562,S3,2.38
+11010102,Dorf Wartenberg,2562,S4,5.57
+11010102,Dorf Wartenberg,2562,D1,0.31
+11010102,Dorf Wartenberg,2562,D2,-0.06
+11010102,Dorf Wartenberg,2562,D3,0.41
+11010102,Dorf Wartenberg,2562,D4,1.27
+11010103,Dorf Falkenberg,1285,S1,3.17
+11010103,Dorf Falkenberg,1285,S2,1.19
+11010103,Dorf Falkenberg,1285,S3,2.72
+11010103,Dorf Falkenberg,1285,S4,7.01
+11010103,Dorf Falkenberg,1285,D1,-0.95
+11010103,Dorf Falkenberg,1285,D2,-0.12
+11010103,Dorf Falkenberg,1285,D3,-0.86
+11010103,Dorf Falkenberg,1285,D4,0.3
+11010204,Falkenberg Ost,8818,S1,12.48
+11010204,Falkenberg Ost,8818,S2,5.07
+11010204,Falkenberg Ost,8818,S3,24.86
+11010204,Falkenberg Ost,8818,S4,56.75
+11010204,Falkenberg Ost,8818,D1,-1.35
+11010204,Falkenberg Ost,8818,D2,0.31
+11010204,Falkenberg Ost,8818,D3,1.43
+11010204,Falkenberg Ost,8818,D4,2.38
+11010205,Falkenberg West,6670,S1,10.53
+11010205,Falkenberg West,6670,S2,3.93
+11010205,Falkenberg West,6670,S3,22.31
+11010205,Falkenberg West,6670,S4,51.18
+11010205,Falkenberg West,6670,D1,-3.22
+11010205,Falkenberg West,6670,D2,-0.79
+11010205,Falkenberg West,6670,D3,1.64
+11010205,Falkenberg West,6670,D4,-1.84
+11010206,Wartenberg Süd,5853,S1,9.46
+11010206,Wartenberg Süd,5853,S2,3.52
+11010206,Wartenberg Süd,5853,S3,18.18
+11010206,Wartenberg Süd,5853,S4,50.89
+11010206,Wartenberg Süd,5853,D1,-1.37
+11010206,Wartenberg Süd,5853,D2,-0.16
+11010206,Wartenberg Süd,5853,D3,0.67
+11010206,Wartenberg Süd,5853,D4,3.65
+11010207,Wartenberg Nord,6882,S1,10.03
+11010207,Wartenberg Nord,6882,S2,3.4
+11010207,Wartenberg Nord,6882,S3,17.96
+11010207,Wartenberg Nord,6882,S4,42.79
+11010207,Wartenberg Nord,6882,D1,-1.58
+11010207,Wartenberg Nord,6882,D2,-0.37
+11010207,Wartenberg Nord,6882,D3,-0.37
+11010207,Wartenberg Nord,6882,D4,-5.54
+11010308,Zingster Straße Ost,10996,S1,10.79
+11010308,Zingster Straße Ost,10996,S2,4.11
+11010308,Zingster Straße Ost,10996,S3,18.42
+11010308,Zingster Straße Ost,10996,S4,49.86
+11010308,Zingster Straße Ost,10996,D1,-1.45
+11010308,Zingster Straße Ost,10996,D2,-0.3
+11010308,Zingster Straße Ost,10996,D3,0.35
+11010308,Zingster Straße Ost,10996,D4,-2.32
+11010309,Zingster Straße West,9551,S1,11.35
+11010309,Zingster Straße West,9551,S2,4.53
+11010309,Zingster Straße West,9551,S3,23.09
+11010309,Zingster Straße West,9551,S4,54.53
+11010309,Zingster Straße West,9551,D1,-2.25
+11010309,Zingster Straße West,9551,D2,-0.21
+11010309,Zingster Straße West,9551,D3,2.11
+11010309,Zingster Straße West,9551,D4,2.31
+11010310,Mühlengrund,5237,S1,7.57
+11010310,Mühlengrund,5237,S2,3.17
+11010310,Mühlengrund,5237,S3,11.04
+11010310,Mühlengrund,5237,S4,33.16
+11010310,Mühlengrund,5237,D1,-2.42
+11010310,Mühlengrund,5237,D2,0
+11010310,Mühlengrund,5237,D3,-0.71
+11010310,Mühlengrund,5237,D4,-7.9
+11020411,Malchower Weg,7779,S1,5.25
+11020411,Malchower Weg,7779,S2,1.66
+11020411,Malchower Weg,7779,S3,7.21
+11020411,Malchower Weg,7779,S4,21.77
+11020411,Malchower Weg,7779,D1,-0.17
+11020411,Malchower Weg,7779,D2,0.01
+11020411,Malchower Weg,7779,D3,1.17
+11020411,Malchower Weg,7779,D4,2.73
+11020412,Hauptstraße,6088,S1,7.94
+11020412,Hauptstraße,6088,S2,3.32
+11020412,Hauptstraße,6088,S3,13.21
+11020412,Hauptstraße,6088,S4,32.59
+11020412,Hauptstraße,6088,D1,-0.45
+11020412,Hauptstraße,6088,D2,0.14
+11020412,Hauptstraße,6088,D3,-0.18
+11020412,Hauptstraße,6088,D4,-1.13
+11020513,Orankesee,3390,S1,2.99
+11020513,Orankesee,3390,S2,0.94
+11020513,Orankesee,3390,S3,2.09
+11020513,Orankesee,3390,S4,3.45
+11020513,Orankesee,3390,D1,0.05
+11020513,Orankesee,3390,D2,0.27
+11020513,Orankesee,3390,D3,-0.07
+11020513,Orankesee,3390,D4,-0.94
+11020514,Große-Leege-Straße,8286,S1,7.12
+11020514,Große-Leege-Straße,8286,S2,2.49
+11020514,Große-Leege-Straße,8286,S3,9.8
+11020514,Große-Leege-Straße,8286,S4,23.46
+11020514,Große-Leege-Straße,8286,D1,-0.6
+11020514,Große-Leege-Straße,8286,D2,0.12
+11020514,Große-Leege-Straße,8286,D3,0.72
+11020514,Große-Leege-Straße,8286,D4,0.76
+11020515,Landsberger Allee,14317,S1,8.96
+11020515,Landsberger Allee,14317,S2,3.11
+11020515,Landsberger Allee,14317,S3,14.24
+11020515,Landsberger Allee,14317,S4,38.99
+11020515,Landsberger Allee,14317,D1,-0.88
+11020515,Landsberger Allee,14317,D2,-0.27
+11020515,Landsberger Allee,14317,D3,0.31
+11020515,Landsberger Allee,14317,D4,-0.04
+11020516,Weiße Taube,3705,S1,2.94
+11020516,Weiße Taube,3705,S2,0.67
+11020516,Weiße Taube,3705,S3,3.83
+11020516,Weiße Taube,3705,S4,10.16
+11020516,Weiße Taube,3705,D1,0.05
+11020516,Weiße Taube,3705,D2,-0.02
+11020516,Weiße Taube,3705,D3,-0.01
+11020516,Weiße Taube,3705,D4,0.65
+11030617,Hohenschönhausener Straße,6124,S1,10.95
+11030617,Hohenschönhausener Straße,6124,S2,3.79
+11030617,Hohenschönhausener Straße,6124,S3,18.62
+11030617,Hohenschönhausener Straße,6124,S4,60.14
+11030617,Hohenschönhausener Straße,6124,D1,-2.94
+11030617,Hohenschönhausener Straße,6124,D2,-0.88
+11030617,Hohenschönhausener Straße,6124,D3,0.74
+11030617,Hohenschönhausener Straße,6124,D4,-2.34
+11030618,Fennpfuhl West,15750,S1,7.87
+11030618,Fennpfuhl West,15750,S2,2.83
+11030618,Fennpfuhl West,15750,S3,11.83
+11030618,Fennpfuhl West,15750,S4,34.47
+11030618,Fennpfuhl West,15750,D1,-1.51
+11030618,Fennpfuhl West,15750,D2,-0.41
+11030618,Fennpfuhl West,15750,D3,0.45
+11030618,Fennpfuhl West,15750,D4,-0.89
+11030619,Fennpfuhl Ost,10596,S1,10.04
+11030619,Fennpfuhl Ost,10596,S2,3.53
+11030619,Fennpfuhl Ost,10596,S3,16.78
+11030619,Fennpfuhl Ost,10596,S4,48.03
+11030619,Fennpfuhl Ost,10596,D1,-1.75
+11030619,Fennpfuhl Ost,10596,D2,-0.38
+11030619,Fennpfuhl Ost,10596,D3,0.33
+11030619,Fennpfuhl Ost,10596,D4,0.61
+11030720,Herzbergstraße,5128,S1,5.54
+11030720,Herzbergstraße,5128,S2,1.58
+11030720,Herzbergstraße,5128,S3,10.35
+11030720,Herzbergstraße,5128,S4,33.14
+11030720,Herzbergstraße,5128,D1,-1.4
+11030720,Herzbergstraße,5128,D2,-0.71
+11030720,Herzbergstraße,5128,D3,-0.52
+11030720,Herzbergstraße,5128,D4,2.71
+11030721,Rüdigerstraße,21946,S1,7.56
+11030721,Rüdigerstraße,21946,S2,2.76
+11030721,Rüdigerstraße,21946,S3,10.37
+11030721,Rüdigerstraße,21946,S4,24.68
+11030721,Rüdigerstraße,21946,D1,-1.92
+11030721,Rüdigerstraße,21946,D2,-0.54
+11030721,Rüdigerstraße,21946,D3,-0.03
+11030721,Rüdigerstraße,21946,D4,-1.75
+11030824,Frankfurter Allee Süd,10004,S1,8.4
+11030824,Frankfurter Allee Süd,10004,S2,3.05
+11030824,Frankfurter Allee Süd,10004,S3,14.63
+11030824,Frankfurter Allee Süd,10004,S4,40.28
+11030824,Frankfurter Allee Süd,10004,D1,-1.1
+11030824,Frankfurter Allee Süd,10004,D2,-0.36
+11030824,Frankfurter Allee Süd,10004,D3,-0.26
+11030824,Frankfurter Allee Süd,10004,D4,-4.04
+11040925,Victoriastadt,3553,S1,7.01
+11040925,Victoriastadt,3553,S2,1.81
+11040925,Victoriastadt,3553,S3,10.78
+11040925,Victoriastadt,3553,S4,19.24
+11040925,Victoriastadt,3553,D1,-1.14
+11040925,Victoriastadt,3553,D2,-0.67
+11040925,Victoriastadt,3553,D3,-0.01
+11040925,Victoriastadt,3553,D4,-0.36
+11040926,Weitlingstraße,27214,S1,8.05
+11040926,Weitlingstraße,27214,S2,2.68
+11040926,Weitlingstraße,27214,S3,12.37
+11040926,Weitlingstraße,27214,S4,31.8
+11040926,Weitlingstraße,27214,D1,-1.99
+11040926,Weitlingstraße,27214,D2,-0.8
+11040926,Weitlingstraße,27214,D3,0.12
+11040926,Weitlingstraße,27214,D4,-0.59
+11041022,Rosenfelder Ring,5088,S1,11.67
+11041022,Rosenfelder Ring,5088,S2,4.58
+11041022,Rosenfelder Ring,5088,S3,14.68
+11041022,Rosenfelder Ring,5088,S4,49.56
+11041022,Rosenfelder Ring,5088,D1,-2.45
+11041022,Rosenfelder Ring,5088,D2,-0.13
+11041022,Rosenfelder Ring,5088,D3,2.06
+11041022,Rosenfelder Ring,5088,D4,6.96
+11041023,Gensinger Straße,5902,S1,10.02
+11041023,Gensinger Straße,5902,S2,3.41
+11041023,Gensinger Straße,5902,S3,18.52
+11041023,Gensinger Straße,5902,S4,44.6
+11041023,Gensinger Straße,5902,D1,-1.79
+11041023,Gensinger Straße,5902,D2,-0.87
+11041023,Gensinger Straße,5902,D3,-0.04
+11041023,Gensinger Straße,5902,D4,-4.56
+11041027,Tierpark,2738,S1,8.82
+11041027,Tierpark,2738,S2,3.43
+11041027,Tierpark,2738,S3,17.68
+11041027,Tierpark,2738,S4,41.31
+11041027,Tierpark,2738,D1,-4.74
+11041027,Tierpark,2738,D2,-1.93
+11041027,Tierpark,2738,D3,1.05
+11041027,Tierpark,2738,D4,-3.69
+11041128,Sewanstraße,24697,S1,7.97
+11041128,Sewanstraße,24697,S2,3.15
+11041128,Sewanstraße,24697,S3,11.63
+11041128,Sewanstraße,24697,S4,41.08
+11041128,Sewanstraße,24697,D1,-1.23
+11041128,Sewanstraße,24697,D2,0.01
+11041128,Sewanstraße,24697,D3,0.55
+11041128,Sewanstraße,24697,D4,0.78
+11051229,Rummelsburg,3420,S1,4.52
+11051229,Rummelsburg,3420,S2,1.54
+11051229,Rummelsburg,3420,S3,3.86
+11051229,Rummelsburg,3420,S4,3.17
+11051229,Rummelsburg,3420,D1,-0.93
+11051229,Rummelsburg,3420,D2,-0.24
+11051229,Rummelsburg,3420,D3,0.02
+11051229,Rummelsburg,3420,D4,-1.12
+11051330,Karlshorst West,8240,S1,4.38
+11051330,Karlshorst West,8240,S2,1.38
+11051330,Karlshorst West,8240,S3,5.69
+11051330,Karlshorst West,8240,S4,10.57
+11051330,Karlshorst West,8240,D1,-0.55
+11051330,Karlshorst West,8240,D2,-0.15
+11051330,Karlshorst West,8240,D3,0.41
+11051330,Karlshorst West,8240,D4,0.04
+11051331,Karlshorst Nord,9595,S1,4.03
+11051331,Karlshorst Nord,9595,S2,1.4
+11051331,Karlshorst Nord,9595,S3,3.98
+11051331,Karlshorst Nord,9595,S4,5.84
+11051331,Karlshorst Nord,9595,D1,-0.88
+11051331,Karlshorst Nord,9595,D2,-0.03
+11051331,Karlshorst Nord,9595,D3,0.2
+11051331,Karlshorst Nord,9595,D4,-0.47
+11051332,Karlshorst Süd,6491,S1,3.03
+11051332,Karlshorst Süd,6491,S2,0.86
+11051332,Karlshorst Süd,6491,S3,3.24
+11051332,Karlshorst Süd,6491,S4,3.91
+11051332,Karlshorst Süd,6491,D1,-0.79
+11051332,Karlshorst Süd,6491,D2,-0.26
+11051332,Karlshorst Süd,6491,D3,-0.52
+11051332,Karlshorst Süd,6491,D4,-1.82
+12103115,Breitkopfbecken,7449,S1,11.88
+12103115,Breitkopfbecken,7449,S2,4
+12103115,Breitkopfbecken,7449,S3,22.74
+12103115,Breitkopfbecken,7449,S4,54.15
+12103115,Breitkopfbecken,7449,D1,-1.05
+12103115,Breitkopfbecken,7449,D2,0.24
+12103115,Breitkopfbecken,7449,D3,-0.26
+12103115,Breitkopfbecken,7449,D4,0.31
+12103116,Hausotterplatz,9180,S1,10.83
+12103116,Hausotterplatz,9180,S2,3.49
+12103116,Hausotterplatz,9180,S3,23.19
+12103116,Hausotterplatz,9180,S4,53.63
+12103116,Hausotterplatz,9180,D1,-0.69
+12103116,Hausotterplatz,9180,D2,-0.2
+12103116,Hausotterplatz,9180,D3,1.41
+12103116,Hausotterplatz,9180,D4,3.33
+12103117,Letteplatz,10039,S1,11.17
+12103117,Letteplatz,10039,S2,3.56
+12103117,Letteplatz,10039,S3,23.78
+12103117,Letteplatz,10039,S4,55.58
+12103117,Letteplatz,10039,D1,-2.01
+12103117,Letteplatz,10039,D2,-0.62
+12103117,Letteplatz,10039,D3,-0.4
+12103117,Letteplatz,10039,D4,-0.6
+12103218,Teichstraße,13017,S1,10.61
+12103218,Teichstraße,13017,S2,3.48
+12103218,Teichstraße,13017,S3,20.87
+12103218,Teichstraße,13017,S4,53.85
+12103218,Teichstraße,13017,D1,0.04
+12103218,Teichstraße,13017,D2,0.56
+12103218,Teichstraße,13017,D3,0.87
+12103218,Teichstraße,13017,D4,1.25
+12103219,Schäfersee,8551,S1,11.24
+12103219,Schäfersee,8551,S2,3.47
+12103219,Schäfersee,8551,S3,20.1
+12103219,Schäfersee,8551,S4,53.77
+12103219,Schäfersee,8551,D1,-0.24
+12103219,Schäfersee,8551,D2,0.03
+12103219,Schäfersee,8551,D3,0.15
+12103219,Schäfersee,8551,D4,-2.86
+12103220,Humboldtstraße,4588,S1,7.06
+12103220,Humboldtstraße,4588,S2,2.44
+12103220,Humboldtstraße,4588,S3,12.93
+12103220,Humboldtstraße,4588,S4,31.03
+12103220,Humboldtstraße,4588,D1,-2.32
+12103220,Humboldtstraße,4588,D2,-0.38
+12103220,Humboldtstraße,4588,D3,0.46
+12103220,Humboldtstraße,4588,D4,-0.83
+12214125,Waldidyll/Flughafensee,7005,S1,4.61
+12214125,Waldidyll/Flughafensee,7005,S2,1.29
+12214125,Waldidyll/Flughafensee,7005,S3,6.54
+12214125,Waldidyll/Flughafensee,7005,S4,16.24
+12214125,Waldidyll/Flughafensee,7005,D1,-0.75
+12214125,Waldidyll/Flughafensee,7005,D2,-0.05
+12214125,Waldidyll/Flughafensee,7005,D3,0.15
+12214125,Waldidyll/Flughafensee,7005,D4,-0.61
+12214126,Tegel Süd,7551,S1,9.79
+12214126,Tegel Süd,7551,S2,3.49
+12214126,Tegel Süd,7551,S3,20.22
+12214126,Tegel Süd,7551,S4,45.07
+12214126,Tegel Süd,7551,D1,-1.39
+12214126,Tegel Süd,7551,D2,-0.41
+12214126,Tegel Süd,7551,D3,1.08
+12214126,Tegel Süd,7551,D4,0.27
+12214421,Reinickes Hof,2603,S1,11.16
+12214421,Reinickes Hof,2603,S2,3.8
+12214421,Reinickes Hof,2603,S3,16.25
+12214421,Reinickes Hof,2603,S4,43.15
+12214421,Reinickes Hof,2603,D1,1.25
+12214421,Reinickes Hof,2603,D2,1.24
+12214421,Reinickes Hof,2603,D3,0.33
+12214421,Reinickes Hof,2603,D4,5.37
+12214422,Klixstraße,7688,S1,11.9
+12214422,Klixstraße,7688,S2,3.92
+12214422,Klixstraße,7688,S3,28.77
+12214422,Klixstraße,7688,S4,62.37
+12214422,Klixstraße,7688,D1,-1.43
+12214422,Klixstraße,7688,D2,-0.07
+12214422,Klixstraße,7688,D3,1.27
+12214422,Klixstraße,7688,D4,-0.93
+12214423,Mellerbogen,5534,S1,7.82
+12214423,Mellerbogen,5534,S2,2.84
+12214423,Mellerbogen,5534,S3,14.6
+12214423,Mellerbogen,5534,S4,44.23
+12214423,Mellerbogen,5534,D1,-2.44
+12214423,Mellerbogen,5534,D2,0.05
+12214423,Mellerbogen,5534,D3,0.51
+12214423,Mellerbogen,5534,D4,2.03
+12214424,Scharnweberstraße,10325,S1,10.91
+12214424,Scharnweberstraße,10325,S2,3.4
+12214424,Scharnweberstraße,10325,S3,23.21
+12214424,Scharnweberstraße,10325,S4,54.64
+12214424,Scharnweberstraße,10325,D1,-1.25
+12214424,Scharnweberstraße,10325,D2,-0.43
+12214424,Scharnweberstraße,10325,D3,0.62
+12214424,Scharnweberstraße,10325,D4,-2.38
+12214527,Alt-Tegel,10380,S1,5.6
+12214527,Alt-Tegel,10380,S2,1.51
+12214527,Alt-Tegel,10380,S3,7.22
+12214527,Alt-Tegel,10380,S4,17.96
+12214527,Alt-Tegel,10380,D1,-0.01
+12214527,Alt-Tegel,10380,D2,-0.35
+12214527,Alt-Tegel,10380,D3,0.29
+12214527,Alt-Tegel,10380,D4,2.08
+12224229,Konradshöhe/Tegelort,6013,S1,2.96
+12224229,Konradshöhe/Tegelort,6013,S2,0.92
+12224229,Konradshöhe/Tegelort,6013,S3,2.26
+12224229,Konradshöhe/Tegelort,6013,S4,5.78
+12224229,Konradshöhe/Tegelort,6013,D1,-0.66
+12224229,Konradshöhe/Tegelort,6013,D2,-0.27
+12224229,Konradshöhe/Tegelort,6013,D3,0.35
+12224229,Konradshöhe/Tegelort,6013,D4,0.83
+12224230,Heiligensee,17860,S1,2.62
+12224230,Heiligensee,17860,S2,0.74
+12224230,Heiligensee,17860,S3,2.58
+12224230,Heiligensee,17860,S4,4.49
+12224230,Heiligensee,17860,D1,-0.53
+12224230,Heiligensee,17860,D2,-0.02
+12224230,Heiligensee,17860,D3,0.04
+12224230,Heiligensee,17860,D4,-0.48
+12231101,Hermsdorf,16287,S1,3.05
+12231101,Hermsdorf,16287,S2,0.91
+12231101,Hermsdorf,16287,S3,2.74
+12231101,Hermsdorf,16287,S4,4.72
+12231101,Hermsdorf,16287,D1,-0.1
+12231101,Hermsdorf,16287,D2,-0.26
+12231101,Hermsdorf,16287,D3,0.21
+12231101,Hermsdorf,16287,D4,0.81
+12231102,Frohnau,16686,S1,2.32
+12231102,Frohnau,16686,S2,0.7
+12231102,Frohnau,16686,S3,2.05
+12231102,Frohnau,16686,S4,3.23
+12231102,Frohnau,16686,D1,-0.33
+12231102,Frohnau,16686,D2,0.01
+12231102,Frohnau,16686,D3,0.1
+12231102,Frohnau,16686,D4,-0.07
+12301203,Wittenau Süd,14476,S1,7.23
+12301203,Wittenau Süd,14476,S2,2.21
+12301203,Wittenau Süd,14476,S3,11.29
+12301203,Wittenau Süd,14476,S4,26.28
+12301203,Wittenau Süd,14476,D1,-0.96
+12301203,Wittenau Süd,14476,D2,-0.4
+12301203,Wittenau Süd,14476,D3,0.19
+12301203,Wittenau Süd,14476,D4,-3.08
+12301204,Wittenau Nord,6167,S1,3.64
+12301204,Wittenau Nord,6167,S2,0.99
+12301204,Wittenau Nord,6167,S3,6.19
+12301204,Wittenau Nord,6167,S4,14.29
+12301204,Wittenau Nord,6167,D1,-0.58
+12301204,Wittenau Nord,6167,D2,-0.17
+12301204,Wittenau Nord,6167,D3,0.6
+12301204,Wittenau Nord,6167,D4,0.61
+12301205,Waidmannslust,4825,S1,4.32
+12301205,Waidmannslust,4825,S2,1.33
+12301205,Waidmannslust,4825,S3,5.1
+12301205,Waidmannslust,4825,S4,9.46
+12301205,Waidmannslust,4825,D1,-0.52
+12301205,Waidmannslust,4825,D2,0.15
+12301205,Waidmannslust,4825,D3,0.34
+12301205,Waidmannslust,4825,D4,1.59
+12301206,Lübars,4969,S1,3.16
+12301206,Lübars,4969,S2,0.85
+12301206,Lübars,4969,S3,3.14
+12301206,Lübars,4969,S4,4.81
+12301206,Lübars,4969,D1,-0.99
+12301206,Lübars,4969,D2,-0.21
+12301206,Lübars,4969,D3,-0.13
+12301206,Lübars,4969,D4,0.22
+12302107,Schorfheidestraße,3005,S1,5.18
+12302107,Schorfheidestraße,3005,S2,1.39
+12302107,Schorfheidestraße,3005,S3,7.05
+12302107,Schorfheidestraße,3005,S4,19.5
+12302107,Schorfheidestraße,3005,D1,0.65
+12302107,Schorfheidestraße,3005,D2,-0.31
+12302107,Schorfheidestraße,3005,D3,1.71
+12302107,Schorfheidestraße,3005,D4,6.48
+12302108,Märkisches Zentrum,13526,S1,12.17
+12302108,Märkisches Zentrum,13526,S2,4.17
+12302108,Märkisches Zentrum,13526,S3,27.45
+12302108,Märkisches Zentrum,13526,S4,65.42
+12302108,Märkisches Zentrum,13526,D1,-0.65
+12302108,Märkisches Zentrum,13526,D2,0.15
+12302108,Märkisches Zentrum,13526,D3,-0.24
+12302108,Märkisches Zentrum,13526,D4,-1.53
+12302109,Treuenbrietzener Straße,11183,S1,13.36
+12302109,Treuenbrietzener Straße,11183,S2,4.2
+12302109,Treuenbrietzener Straße,11183,S3,34.66
+12302109,Treuenbrietzener Straße,11183,S4,67.71
+12302109,Treuenbrietzener Straße,11183,D1,-1.52
+12302109,Treuenbrietzener Straße,11183,D2,-0.23
+12302109,Treuenbrietzener Straße,11183,D3,0.49
+12302109,Treuenbrietzener Straße,11183,D4,-0.93
+12302110,Dannenwalder Weg,9957,S1,12.84
+12302110,Dannenwalder Weg,9957,S2,4.3
+12302110,Dannenwalder Weg,9957,S3,31
+12302110,Dannenwalder Weg,9957,S4,61.69
+12302110,Dannenwalder Weg,9957,D1,0.52
+12302110,Dannenwalder Weg,9957,D2,0.77
+12302110,Dannenwalder Weg,9957,D3,1.61
+12302110,Dannenwalder Weg,9957,D4,1.06
+12302211,Lübarser Straße,3280,S1,6.65
+12302211,Lübarser Straße,3280,S2,2.35
+12302211,Lübarser Straße,3280,S3,7.07
+12302211,Lübarser Straße,3280,S4,14.61
+12302211,Lübarser Straße,3280,D1,-0.61
+12302211,Lübarser Straße,3280,D2,0.15
+12302211,Lübarser Straße,3280,D3,0.3
+12302211,Lübarser Straße,3280,D4,-3.06
+12302212,Rollbergesiedlung,5472,S1,11.74
+12302212,Rollbergesiedlung,5472,S2,3.45
+12302212,Rollbergesiedlung,5472,S3,30.65
+12302212,Rollbergesiedlung,5472,S4,64.33
+12302212,Rollbergesiedlung,5472,D1,-0.45
+12302212,Rollbergesiedlung,5472,D2,0.45
+12302212,Rollbergesiedlung,5472,D3,3.87
+12302212,Rollbergesiedlung,5472,D4,8.24
+12304313,Borsigwalde,6452,S1,7.45
+12304313,Borsigwalde,6452,S2,2.42
+12304313,Borsigwalde,6452,S3,11.35
+12304313,Borsigwalde,6452,S4,29.18
+12304313,Borsigwalde,6452,D1,-1.17
+12304313,Borsigwalde,6452,D2,-0.61
+12304313,Borsigwalde,6452,D3,-0.16
+12304313,Borsigwalde,6452,D4,4.1
+12304314,Ziekowstraße/Freie Scholle,9679,S1,5.78
+12304314,Ziekowstraße/Freie Scholle,9679,S2,1.63
+12304314,Ziekowstraße/Freie Scholle,9679,S3,7.49
+12304314,Ziekowstraße/Freie Scholle,9679,S4,18.2
+12304314,Ziekowstraße/Freie Scholle,9679,D1,-1.05
+12304314,Ziekowstraße/Freie Scholle,9679,D2,-0.58
+12304314,Ziekowstraße/Freie Scholle,9679,D3,0.07
+12304314,Ziekowstraße/Freie Scholle,9679,D4,-0.98

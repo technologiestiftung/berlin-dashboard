@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Berlin Visualisierung</title>
+  <script src="https://cdn.jsdelivr.net/npm/vega@3.0.10"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@2.1.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@3.0.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-tooltip"></script>
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/vega-tooltip/build/vega-tooltip.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/tachyons@4.9.1/css/tachyons.min.css"/>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body class="bg-light-gray">
+
+  <svg class="logo-tsb" width="158px" height="47px" viewBox="0 0 158 47">
+
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-1719.000000, -33.000000)">
+            <g id="Page-1" transform="translate(1719.000000, 33.000000)">
+                <path d="M142.684452,7.17561888 C142.439475,7.24531775 142.160264,7.26694843 141.857017,7.26694843 C140.51972,7.26694843 140.053803,6.70479099 140.053803,4.45856464 C140.053803,2.24382294 140.53186,1.64561436 142.089855,1.64561436 C142.742722,1.64561436 143.451431,1.7850121 143.99747,2.00348201 L144.181749,0.393918788 C143.58011,0.151414787 142.742722,0 141.985697,0 C139.299206,0 138.134291,1.39325639 138.134291,4.48019532 C138.134291,7.49767573 139.170526,8.94861394 141.905576,8.94861394 C142.788852,8.94861394 143.730399,8.75393778 144.322568,8.47538264 L144.322568,4.11031063 L142.684452,4.11031063 L142.684452,7.17561888 Z M135.646889,4.46817827 C135.646889,7.72816268 134.625221,8.93659689 132.147288,8.93659689 C129.715729,8.93659689 128.643074,7.65846381 128.643074,4.46817827 C128.643074,1.27813308 129.669598,0.0120170466 132.147288,0.0120170466 C134.625221,0.0120170466 135.646889,1.27813308 135.646889,4.46817827 Z M133.729562,4.46817827 C133.729562,2.17652748 133.334055,1.69127914 132.147288,1.69127914 C130.970477,1.69127914 130.562586,2.18854453 130.562586,4.46817827 C130.562586,6.76006941 130.970477,7.26935184 132.157,7.26935184 C133.334055,7.26935184 133.729562,6.74805236 133.729562,4.46817827 Z M88.171384,8.93659689 C88.8606699,8.93659689 89.6155095,8.76355142 90.1275574,8.51143378 L89.9430357,6.97877965 C89.5111091,7.17561888 89.0112008,7.30299957 88.4433108,7.30299957 C87.0091398,7.30299957 86.5092315,6.66873985 86.5092315,4.41073679 C86.5092315,2.29189113 86.9848606,1.67926209 88.406892,1.67926209 C88.9772099,1.67926209 89.5208207,1.79702915 89.9163286,1.94580019 L90.1057061,0.343447192 C89.66164,0.151414787 88.8946607,0 88.2782124,0 C85.7301127,0 84.5919048,1.4485348 84.5919048,4.41073679 C84.5919048,7.55752062 85.7422522,8.93659689 88.171384,8.93659689 Z M147.426418,8.7851821 L149.297614,8.7851821 L149.297614,0.151414787 L148.363109,0.151414787 L147.426418,0.151414787 L147.426418,8.7851821 Z M115.249709,8.93659689 C112.817906,8.93659689 111.750108,7.65846381 111.750108,4.46817827 C111.750108,1.27813308 112.774204,0.0120170466 115.249709,0.0120170466 C117.727399,0.0120170466 118.751495,1.27813308 118.751495,4.46817827 C118.751495,7.72816268 117.727399,8.93659689 115.249709,8.93659689 Z M116.834411,4.46817827 C116.834411,2.17652748 116.43866,1.69127914 115.249709,1.69127914 C114.075082,1.69127914 113.667435,2.18854453 113.667435,4.46817827 C113.667435,6.76006941 114.075082,7.26694843 115.261848,7.26694843 C116.43866,7.26694843 116.834411,6.74805236 116.834411,4.46817827 Z M82.1069309,7.15158478 L78.5104562,7.15158478 L78.5104562,5.10243799 L81.3860821,5.10243799 L81.3860821,3.58420432 L78.5104562,3.58420432 L78.5104562,1.80664279 L81.9321208,1.80664279 L81.89813,0.151414787 L76.6878183,0.151414787 L76.6878183,8.7851821 L82.0608005,8.7851821 L82.1069309,7.15158478 Z M94.6922857,5.2057846 L97.3933443,5.2057846 L97.3933443,8.7851821 L99.2181673,8.7851821 L99.2181673,0.151414787 L97.3933443,0.151414787 L97.3933443,3.52411909 L94.6922857,3.52411909 L94.6922857,0.151414787 L92.8674627,0.151414787 L92.8674627,8.7851821 L94.6922857,8.7851821 L94.6922857,5.2057846 Z M126.73813,7.10592001 L123.527452,7.10592001 L123.527452,0.149011378 L121.692674,0.149011378 L121.692674,8.7851821 L126.692,8.7851821 L126.73813,7.10592001 Z M154.405953,7.15158478 L154.405953,5.10243799 L157.279151,5.10243799 L157.279151,3.58420432 L154.405953,3.58420432 L154.405953,1.80664279 L157.82519,1.80664279 L157.788771,0.151414787 L152.57846,0.151414787 L152.57846,8.7851821 L157.95387,8.7851821 L158,7.15158478 L154.405953,7.15158478 Z M70.121029,8.7851821 L71.9677033,8.7851821 L71.9677033,1.84245359 L74.0838765,1.84245359 L74.0523135,0.151414787 L68.0461304,0.151414787 L68,1.84245359 L70.121029,1.84245359 L70.121029,8.7851821 Z M108.891477,8.7851821 L108.891477,0.151414787 L107.287352,0.151414787 L107.287352,4.45616123 L107.309203,5.37642666 L107.287352,5.3884437 L104.052394,0.151414787 L102.48226,0.151414787 L102.48226,8.7851821 L104.096097,8.7851821 L104.096097,4.24970837 L104.086385,3.31766623 L104.108237,3.30564918 L104.596005,4.11031063 L107.588171,8.7851821 L108.891477,8.7851821 Z M103.234672,16.4965209 L97.2331017,16.4965209 L97.1845433,18.1878001 L99.3031444,18.1878001 L99.3031444,25.132932 L101.152489,25.132932 L101.152489,18.1878001 L103.271091,18.1878001 L103.234672,16.4965209 Z M112.017179,22.1995709 L112.017179,16.4965209 L110.192113,16.4965209 L110.192113,22.1755368 C110.192113,23.1772778 109.794177,23.5906642 108.816212,23.5906642 C107.838247,23.5906642 107.430599,23.1652608 107.430599,22.1755368 L107.430599,16.4965209 L105.595822,16.4965209 L105.595822,22.1995709 C105.595822,24.2703484 106.697611,25.281703 108.816212,25.281703 C110.934813,25.281703 112.017179,24.2703484 112.017179,22.1995709 Z M94.6971415,20.114373 L91.84798,20.114373 L91.84798,18.1878001 L95.2577478,18.1878001 L95.2334686,16.4965209 L90.0231569,16.4965209 L90.0231569,25.132932 L91.84798,25.132932 L91.84798,21.7143226 L94.6752903,21.7143226 L94.6971415,20.114373 Z M119.9504,20.8039111 L119.97468,21.7239362 L119.9504,21.7359532 L116.715443,16.4965209 L115.145308,16.4965209 L115.145308,25.132932 L116.761573,25.132932 L116.761573,20.5972179 L116.749433,19.6627724 L116.773713,19.6531587 L117.263909,20.4580605 L120.253647,25.132932 L121.554526,25.132932 L121.554526,16.4965209 L119.9504,16.4965209 L119.9504,20.8039111 Z M71.1912552,23.6601227 C70.4097084,23.6601227 69.701242,23.4416528 69.0265237,23.0859483 L68.7815467,24.6738808 C69.4584502,25.0656365 70.3176903,25.281703 71.225246,25.281703 C73.110767,25.281703 74.2028444,24.2703484 74.2028444,22.5766658 C74.2028444,19.7444883 70.5748068,20.2513673 70.5748068,18.870128 C70.5748068,18.3848796 70.8540174,18.017158 71.8416944,18.017158 C72.4362914,18.017158 73.0646366,18.1301182 73.7150758,18.3488285 L73.9238767,16.7873334 C73.3195679,16.508538 72.5185979,16.3595266 71.7251543,16.3595266 C69.7109537,16.3595266 68.8152948,17.4862449 68.8152948,18.9492001 C68.8152948,21.7720044 72.448431,21.2771424 72.448431,22.6944329 C72.448431,23.3262892 72.0623921,23.6601227 71.1912552,23.6601227 Z M78.3065111,25.132932 L80.1558561,25.132932 L80.1558561,18.1878001 L82.2744572,18.1878001 L82.2404664,16.4965209 L76.2364684,16.4965209 L76.190338,18.1878001 L78.3065111,18.1878001 L78.3065111,25.132932 Z M86.6910825,16.4965209 L85.7568198,16.4965209 L84.8201291,16.4965209 L84.8201291,25.132932 L86.6910825,25.132932 L86.6910825,16.4965209 Z M129.026443,23.5233688 C128.781466,23.5928273 128.504683,23.614458 128.201436,23.614458 C126.861954,23.614458 126.395794,23.0501375 126.395794,20.8039111 C126.395794,18.5913325 126.874094,17.9931239 128.434516,17.9931239 C129.087141,17.9931239 129.793422,18.1301182 130.339461,18.3488285 L130.52641,16.7392653 C129.922102,16.4965209 129.087141,16.3475095 128.327688,16.3475095 C125.641197,16.3475095 124.47871,17.7410063 124.47871,20.8279452 C124.47871,23.8451853 125.510089,25.2937201 128.247567,25.2937201 C129.133271,25.2937201 130.07239,25.0968808 130.664559,24.8228922 L130.664559,20.4580605 L129.026443,20.4580605 L129.026443,23.5233688 Z M112.604492,32.3638293 L112.604492,37.9923736 L112.626343,38.9148021 L112.604492,38.9268191 L112.126435,38.1219173 L108.668109,32.3638293 L107.661009,32.3638293 L107.661009,41 L108.646258,41 L108.646258,35.1960068 L108.634118,34.2639647 L108.660825,34.2519476 L109.124315,35.0590125 L112.764492,41 L113.565462,41 L113.565462,32.3638293 L112.604492,32.3638293 Z M102.664354,41 L103.790422,41 L103.790422,32.3638293 L103.227388,32.3638293 L102.664354,32.3638293 L102.664354,41 Z M73.2467304,36.4284751 C74.1664257,36.6565587 74.7124644,37.3148525 74.7124644,38.5473208 C74.7124644,40.1016056 73.9700071,41 72.1060946,41 L69.1503475,41 L69.1503475,32.3638293 L72.0016941,32.3638293 C73.5961078,32.3638293 74.3995058,33.0651441 74.3995058,34.5064687 C74.3995058,35.5634881 73.9335884,36.1616967 73.2467304,36.404441 L73.2467304,36.4284751 Z M70.2205736,36.0823842 L72.0138337,36.0823842 C72.9216322,36.0823842 73.3292796,35.645204 73.3292796,34.6987414 C73.3292796,33.6970004 72.9119205,33.3511498 71.9677033,33.3511498 L70.2205736,33.3511498 L70.2205736,36.0823842 Z M72.1206621,40.0343101 C73.0743482,40.0343101 73.6082474,39.6403913 73.6082474,38.4656049 C73.6082474,37.406182 73.1204787,36.9690019 72.0696758,36.9690019 L70.2205736,36.9690019 L70.2205736,40.0343101 L72.1206621,40.0343101 Z M89.9430357,37.0937388 L92.025218,41 L90.7221545,41 L88.9286516,37.300432 L87.4046476,37.300432 L87.4046476,41 L86.3004306,41 L86.3004306,32.3638293 L88.9189399,32.3638293 C90.676024,32.3638293 91.5010305,33.1108089 91.5010305,34.8044914 C91.5010305,36.1616967 90.9525639,36.9113201 89.9430357,37.0937388 Z M90.3628226,34.8477528 C90.3628226,33.7186311 89.9187565,33.3415362 88.9286516,33.3415362 L87.4046476,33.3415362 L87.4046476,36.404441 L88.8849491,36.404441 C89.9066169,36.404441 90.3628226,36.0129257 90.3628226,34.8477528 Z M78.0809576,32.3638293 L78.0809576,41 L83.0727566,41 L83.1067475,39.9766283 L79.1876025,39.9766283 L79.1876025,36.9786155 L82.3837135,36.9786155 L82.3837135,36.0249427 L79.1876025,36.0249427 L79.1876025,33.399218 L82.9200406,33.399218 L82.8981893,32.3638293 L78.0809576,32.3638293 Z M96.090038,32.3638293 L96.090038,39.9525942 L99.6962243,39.9525942 L99.6600483,41 L94.9761093,41 L94.9761093,32.3638293 L96.090038,32.3638293 Z" id="Fill-1" fill="#000000"></path>
+                <polygon id="Fill-2" fill="#E40134" points="5.05273957 47 0 32.1422578 0.238021616 32 17 34.7499156 16.8698127 34.8846988"></polygon>
+                <polygon id="Fill-3" fill="#71CBF4" points="11.5451905 8 59 28.9277047 53.520409 41 0 32.1324642"></polygon>
+                <polygon id="Fill-4" fill="#63B9E9" points="0 32.2436278 47.0880333 4 54 41"></polygon>
+                <polygon id="Fill-5" fill="#3192D0" points="0 32.0840217 27.9752849 15 51.0940739 25.1563605 54 41"></polygon>
+                <polygon id="Fill-6" fill="#3A5BA7" points="0 32.2738983 47 4 16.7620398 35"></polygon>
+                <polygon id="Fill-7" fill="#213A8F" points="0 32.2071895 27.5345766 15 33 17.4569071 16.5288807 35"></polygon>
+            </g>
+        </g>
+    </g>
+  </svg>
+
+  <div class="wrapper center flex flex-column mt5 w-60">
+    <div class="row row-1 flex flex-row">
+      <div class="vis-wrapper">
+        <div class="title-wrapper flex-wrapper justify-space-around">
+            Anteil Langzeitarbeitsloser in Berlin
+        </div>
+        <div id="vis-map"></div>
+      </div>
+      <div class="vis-wrapper">
+          <div class="title-wrapper flex-wrapper justify-space-around">
+              Bruttowertschöpfung
+          </div>
+        <div id="vis-bws"></div>
+      </div>
+    </div>
+
+    <div class="row row-2 flex flex-row">
+        <div class="vis-wrapper">
+            <div class="title-wrapper flex-wrapper justify-space-around">
+                Bruttoinlandsprodukt
+            </div>
+            <div id="vis-bip"></div>
+        </div>
+
+        <div class="vis-wrapper">
+            <div class="title-wrapper flex-wrapper justify-space-around">
+                Import / Export in Euro
+            </div>
+            <div id="vis-inEuro"></div>
+        </div>
+
+        <div class="vis-wrapper">
+            <div class="title-wrapper flex-wrapper justify-space-around">
+                Import / Export in Tonnen
+            </div>
+            <div id="vis-inTons"></div>
+        </div>
+    </div>
+  </div>
+  
+
+
+  <script type="text/javascript">
+
+    var wrapperWidth = document.querySelector('.wrapper').getClientRects()[0].width;
+    var colWidth2 = (wrapperWidth / 2);
+    var colWidth3 = (wrapperWidth / 3);
+
+    var height = 250;
+    var latency = 100;
+    
+
+    var font = {
+      "axis": {
+        "labelFont": "ClanPro-Book",
+        "titleFont": "ClanPro-Book",
+        "titleFont": "ClanPro-Book"
+      },
+      "legend": {
+        "labelFont": "ClanPro-Book",
+        "orient": "bottom-right"
+      }
+    }
+
+    var noLegend = {
+      "axis": {
+        "labelFont": "ClanPro-Book",
+        "titleFont": "ClanPro-Book",
+        "titleFont": "ClanPro-Book"
+      }
+    }
+
+    var svg = { 'renderer': 'svg' };
+
+    var bws = {
+      "renderer": "svg",
+      "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+      "description": "Area chart showing weight of cars over time.",
+      "width": colWidth2 - 80, "height": height,
+      "data": {"url": "data/bws_2008-2016.json"},
+      "layer": [
+        {
+          "mark": "area",
+            "encoding": {
+            "x": {
+              "timeUnit": "yearmonth", "field": "Jahr", "type": "temporal",
+              "axis": {"format": "%Y"}
+            },
+            "y": {
+              "aggregate": "sum", "field": "Tausend Euro", "type": "quantitative"
+            },
+            "color": {
+              "field": "Wirtschaftsbereich",
+              "type": "nominal",
+              "legend": null
+            }
+          }
+        },
+        {
+          "mark": "point",
+          "encoding": {
+            "x": {"field": "Jahr","type": "temporal"},
+            "y": {"aggregate": "sum", "field": "Tausend Euro", "type": "quantitative"},
+          }
+        }
+      ],
+      "config": noLegend
+    }
+
+    var bip = {
+      "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+      "width": colWidth3 - 61, "height": height,
+      "description": "Stock prices of 5 Tech Companies Over Time.",
+      "data": {"url": "data/bip_refined.csv", "format": {"type": "csv"}},
+      "layer": [
+        {
+          "mark": "line",
+          "encoding": {
+            "x": { "field": "Jahr", "type": "temporal", "axis": {"format": "%Y"} },
+            "y": { "field": "BIP in Milliarden Euro", "type": "quantitative"},
+          } 
+        },
+        {
+          "mark": "point",
+          "encoding": {
+            "x": {"field": "Jahr","type": "temporal"},
+            "y": {"field": "BIP in Milliarden Euro", "type": "quantitative"},
+          }
+        }
+      ],
+      
+      "config": font
+    }
+
+    var inEuro = {
+      "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+      "width": colWidth3 - 62, "height": height,
+      "data": {"url": "data/import_euro_transposed.csv"},
+      "layer": [
+        {
+          "mark": "line",
+          "encoding": {
+            "x": {"field": "Jahr", "type": "temporal", "axis": {"format": "%Y"}},
+            "y": {"field": "Summe in Milliarden Euro", "type": "quantitative"},
+            "color": {"field": "type", "type": "nominal"}
+          },
+        },
+        {
+          "mark": "point",
+          "encoding": {
+            "x": {"field": "Jahr","type": "temporal"},
+            "y": {"field": "Summe in Milliarden Euro","type": "quantitative"},
+          }
+        }
+      ],
+      "config": font
+    }
+
+    var inTons = {
+      "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+      "width": colWidth3 - 69, "height": height,
+      "data": {"url": "data/import_tons_transposed.csv"},
+      "layer": [
+        {
+          "mark": "line",
+          "encoding": {
+            "x": {"field": "Jahr", "type": "temporal", "axis": {"format": "%Y"}},
+            "y": {"field": "Menge in Tausend Tonnen", "type": "quantitative"},
+            "color": {"field": "type", "type": "nominal"}
+          },
+        },
+        {
+          "mark": "point",
+          "encoding": {
+            "x": {"field": "Jahr","type": "temporal"},
+            "y": {"field": "Menge in Tausend Tonnen","type": "quantitative"},
+          }
+        }
+      ],
+      "config": font
+    }
+
+    var map = {
+      "$schema": "https://vega.github.io/schema/vega-lite/v2.1.json",
+      "width": colWidth2,
+      "height": height,
+      "data": {
+        "url": "data/PLR-topo.json",
+        "format": {
+          "type": "topojson",
+          "feature": "Planungsraum"
+        }
+      },
+      "transform": [
+        // {"filter": {"field": "category", "equal": "S1"}},  
+        {
+        "lookup": "properties['SCHLUESSEL']",
+        "from": {
+          "data": {
+            "url": "data/indicators.csv",
+            "format": {
+              "type": "csv"
+            }
+          },
+          "key": "Nummer",
+          "fields": ["S2"]
+        },
+        "default": 0
+      }
+      ],
+      "projection": {
+        "type": "mercator"
+      },
+      "mark": "geoshape",
+      "encoding": {
+        "color": {
+          "field": "S2",
+          "type": "quantitative"
+        }
+      },
+      "config": font
+    }
+
+    var optionsMap = {
+      showAllFields: false,
+      fields: [
+        {
+          field: 'name',
+          title: 'Planungsraum',
+          formatType: String
+        },
+        {
+          field: 'S2',
+          title: 'Anteil Langzeitarbeitslose',
+          formatType: Number
+        },
+      ],
+      delay: latency,
+      colorTheme: "light"
+    };
+
+    var optionsInTons = {
+      showAllFields: false,
+      fields: [
+        {
+          field: 'type',
+          title: 'Kategorie'
+        },
+        {
+          field: 'Menge in Tausend Tonnen',
+          title: 'Gewicht (in Tsd. Tonnen)'
+        },
+      ],
+      delay: latency,
+      colorTheme: "light"
+    };
+
+    var optionsInEuro = {
+      showAllFields: false,
+      fields: [
+        {
+          field: 'type',
+          title: 'Kategorie'
+        },
+        {
+          field: 'Summe in Milliarden Euro',
+          title: 'Wert (in Mrd. Euro)'
+        },
+      ],
+      delay: latency,
+      colorTheme: "light"
+    };
+
+    var optionsBws = {
+      showAllFields: false,
+      fields: [
+        {
+          field: 'Wirtschaftsbereich',
+          title: 'Bereich'
+        },
+        {
+          field: 'Euro',
+          title: 'Euro'
+        }
+      ],
+      delay: latency,
+      colorTheme: "light"
+    };
+
+    var optionsBip = {
+      showAllFields: false,
+      fields: [
+        {
+          field: 'year',
+          title: 'Jahr'
+        },
+        {
+          field: 'BIP in Milliarden Euro',
+          title: 'Mrd. Euro'
+        }
+      ],
+      delay: latency,
+      colorTheme: "light"
+    };
+
+    function renderCharts() {
+      vegaEmbed("#vis-bws", bws, svg).then( result => {
+        vegaTooltip.vegaLite(result.view, bws, optionsBws);
+      });
+      vegaEmbed("#vis-bip", bip, svg).then( result => {
+        vegaTooltip.vegaLite(result.view, bip, optionsBip);
+      });
+      vegaEmbed("#vis-inEuro", inEuro, svg).then( result => {
+        vegaTooltip.vegaLite(result.view, inEuro, optionsInEuro);
+      });
+      vegaEmbed("#vis-inTons", inTons, svg).then( result => {
+        vegaTooltip.vegaLite(result.view, inTons, optionsInTons);
+      });
+      vegaEmbed("#vis-map", map, svg).then( result => {
+        vegaTooltip.vegaLite(result.view, map, optionsMap);
+      });
+
+      const legend = document.querySelectorAll('.vega-actions');
+      legend.forEach( item => {
+        item.style.display = 'none';
+      })
+    }
+
+    renderCharts();
+
+    window.addEventListener('resize', function() {
+      map.width = window.innerWidth;
+    })
+
+  </script>
+</body>
+</html>

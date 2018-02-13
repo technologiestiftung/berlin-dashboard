@@ -1,0 +1,13 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+  "width": 600, "height": 400,
+  "description": "Stock prices of 5 Tech Companies Over Time.",
+  "data": {"url": "data/bip_refined.csv", "format": {"type": "csv"}},
+  "mark": "line",
+  "encoding": {
+    "x": {
+      "field": "Jahr", "type": "temporal", "axis": {"format": "%Y"}
+  },
+    "y": {"field": "BIP in Euro", "type": "quantitative"}
+  }
+}

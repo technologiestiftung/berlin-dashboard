@@ -1,0 +1,1122 @@
+[
+  {
+    "year": 2008,
+    "Tausend Euro": 8.307,
+    "Wirtschaftsbereich": "Land- und Forstwirtschaft, Fischerei",
+    "short": "A",
+    "chapter": 2.2,
+    "Jahr": "2007-12-31T23:00:00Z"
+  },
+  {
+    "year": 2009,
+    "Tausend Euro": 5.960,
+    "Wirtschaftsbereich": "Land- und Forstwirtschaft, Fischerei",
+    "short": "A",
+    "chapter": 2.2,
+    "Jahr": "2008-12-31T23:00:00Z"
+  },
+  {
+    "year": 2010,
+    "Tausend Euro": 5.300,
+    "Wirtschaftsbereich": "Land- und Forstwirtschaft, Fischerei",
+    "short": "A",
+    "chapter": 2.2,
+    "Jahr": "2009-12-31T23:00:00Z"
+  },
+  {
+    "year": 2011,
+    "Tausend Euro": 5.328,
+    "Wirtschaftsbereich": "Land- und Forstwirtschaft, Fischerei",
+    "short": "A",
+    "chapter": 2.2,
+    "Jahr": "2010-12-31T23:00:00Z"
+  },
+  {
+    "year": 2012,
+    "Tausend Euro": 5.530,
+    "Wirtschaftsbereich": "Land- und Forstwirtschaft, Fischerei",
+    "short": "A",
+    "chapter": 2.2,
+    "Jahr": "2011-12-31T23:00:00Z"
+  },
+  {
+    "year": 2013,
+    "Tausend Euro": 5.257,
+    "Wirtschaftsbereich": "Land- und Forstwirtschaft, Fischerei",
+    "short": "A",
+    "chapter": 2.2,
+    "Jahr": "2012-12-31T23:00:00Z"
+  },
+  {
+    "year": 2014,
+    "Tausend Euro": "4x531",
+    "Wirtschaftsbereich": "Land- und Forstwirtschaft, Fischerei",
+    "short": "A",
+    "chapter": 2.2,
+    "Jahr": "2013-12-31T23:00:00Z"
+  },
+  {
+    "year": 2008,
+    "Tausend Euro": 22.517,
+    "Wirtschaftsbereich": "Bergbau und Gewinnung von Steinen und Erden",
+    "short": "B",
+    "chapter": "2.3.1.1",
+    "Jahr": "2007-12-31T23:00:00Z"
+  },
+  {
+    "year": 2009,
+    "Tausend Euro": 9.675,
+    "Wirtschaftsbereich": "Bergbau und Gewinnung von Steinen und Erden",
+    "short": "B",
+    "chapter": "2.3.1.1",
+    "Jahr": "2008-12-31T23:00:00Z"
+  },
+  {
+    "year": 2010,
+    "Tausend Euro": 23.252,
+    "Wirtschaftsbereich": "Bergbau und Gewinnung von Steinen und Erden",
+    "short": "B",
+    "chapter": "2.3.1.1",
+    "Jahr": "2009-12-31T23:00:00Z"
+  },
+  {
+    "year": 2011,
+    "Tausend Euro": 7.851,
+    "Wirtschaftsbereich": "Bergbau und Gewinnung von Steinen und Erden",
+    "short": "B",
+    "chapter": "2.3.1.1",
+    "Jahr": "2010-12-31T23:00:00Z"
+  },
+  {
+    "year": 2012,
+    "Tausend Euro": 11.763,
+    "Wirtschaftsbereich": "Bergbau und Gewinnung von Steinen und Erden",
+    "short": "B",
+    "chapter": "2.3.1.1",
+    "Jahr": "2011-12-31T23:00:00Z"
+  },
+  {
+    "year": 2013,
+    "Tausend Euro": 15.149,
+    "Wirtschaftsbereich": "Bergbau und Gewinnung von Steinen und Erden",
+    "short": "B",
+    "chapter": "2.3.1.1",
+    "Jahr": "2012-12-31T23:00:00Z"
+  },
+  {
+    "year": 2014,
+    "Tausend Euro": 3.720,
+    "Wirtschaftsbereich": "Bergbau und Gewinnung von Steinen und Erden",
+    "short": "B",
+    "chapter": "2.3.1.1",
+    "Jahr": "2013-12-31T23:00:00Z"
+  },
+  {
+    "year": 2008,
+    "Tausend Euro": 9636.480,
+    "Wirtschaftsbereich": "Verarbeitendes Gewerbe",
+    "short": "C",
+    "chapter": "2.3.1.2",
+    "Jahr": "2007-12-31T23:00:00Z"
+  },
+  {
+    "year": 2009,
+    "Tausend Euro": 9252.604,
+    "Wirtschaftsbereich": "Verarbeitendes Gewerbe",
+    "short": "C",
+    "chapter": "2.3.1.2",
+    "Jahr": "2008-12-31T23:00:00Z"
+  },
+  {
+    "year": 2010,
+    "Tausend Euro": 9798.517,
+    "Wirtschaftsbereich": "Verarbeitendes Gewerbe",
+    "short": "C",
+    "chapter": "2.3.1.2",
+    "Jahr": "2009-12-31T23:00:00Z"
+  },
+  {
+    "year": 2011,
+    "Tausend Euro": 10499.752,
+    "Wirtschaftsbereich": "Verarbeitendes Gewerbe",
+    "short": "C",
+    "chapter": "2.3.1.2",
+    "Jahr": "2010-12-31T23:00:00Z"
+  },
+  {
+    "year": 2012,
+    "Tausend Euro": 10000.751,
+    "Wirtschaftsbereich": "Verarbeitendes Gewerbe",
+    "short": "C",
+    "chapter": "2.3.1.2",
+    "Jahr": "2011-12-31T23:00:00Z"
+  },
+  {
+    "year": 2013,
+    "Tausend Euro": 9572.690,
+    "Wirtschaftsbereich": "Verarbeitendes Gewerbe",
+    "short": "C",
+    "chapter": "2.3.1.2",
+    "Jahr": "2012-12-31T23:00:00Z"
+  },
+  {
+    "year": 2014,
+    "Tausend Euro": 9896.416,
+    "Wirtschaftsbereich": "Verarbeitendes Gewerbe",
+    "short": "C",
+    "chapter": "2.3.1.2",
+    "Jahr": "2013-12-31T23:00:00Z"
+  },
+  {
+    "year": 2008,
+    "Tausend Euro": 1439.572,
+    "Wirtschaftsbereich": "Energieversorgung",
+    "short": "D",
+    "chapter": "2.3.1.3",
+    "Jahr": "2007-12-31T23:00:00Z"
+  },
+  {
+    "year": 2009,
+    "Tausend Euro": 1471.630,
+    "Wirtschaftsbereich": "Energieversorgung",
+    "short": "D",
+    "chapter": "2.3.1.3",
+    "Jahr": "2008-12-31T23:00:00Z"
+  },
+  {
+    "year": 2010,
+    "Tausend Euro": 1487.346,
+    "Wirtschaftsbereich": "Energieversorgung",
+    "short": "D",
+    "chapter": "2.3.1.3",
+    "Jahr": "2009-12-31T23:00:00Z"
+  },
+  {
+    "year": 2011,
+    "Tausend Euro": 1230.888,
+    "Wirtschaftsbereich": "Energieversorgung",
+    "short": "D",
+    "chapter": "2.3.1.3",
+    "Jahr": "2010-12-31T23:00:00Z"
+  },
+  {
+    "year": 2012,
+    "Tausend Euro": 1262.835,
+    "Wirtschaftsbereich": "Energieversorgung",
+    "short": "D",
+    "chapter": "2.3.1.3",
+    "Jahr": "2011-12-31T23:00:00Z"
+  },
+  {
+    "year": 2013,
+    "Tausend Euro": 1097.676,
+    "Wirtschaftsbereich": "Energieversorgung",
+    "short": "D",
+    "chapter": "2.3.1.3",
+    "Jahr": "2012-12-31T23:00:00Z"
+  },
+  {
+    "year": 2014,
+    "Tausend Euro": 981.124,
+    "Wirtschaftsbereich": "Energieversorgung",
+    "short": "D",
+    "chapter": "2.3.1.3",
+    "Jahr": "2013-12-31T23:00:00Z"
+  },
+  {
+    "year": 2008,
+    "Tausend Euro": 1529.883,
+    "Wirtschaftsbereich": "Wasserversorgung, Entsorgung u. �.",
+    "short": "E",
+    "chapter": "2.3.1.4",
+    "Jahr": "2007-12-31T23:00:00Z"
+  },
+  {
+    "year": 2009,
+    "Tausend Euro": 1542.451,
+    "Wirtschaftsbereich": "Wasserversorgung, Entsorgung u. �.",
+    "short": "E",
+    "chapter": "2.3.1.4",
+    "Jahr": "2008-12-31T23:00:00Z"
+  },
+  {
+    "year": 2010,
+    "Tausend Euro": 1934.651,
+    "Wirtschaftsbereich": "Wasserversorgung, Entsorgung u. �.",
+    "short": "E",
+    "chapter": "2.3.1.4",
+    "Jahr": "2009-12-31T23:00:00Z"
+  },
+  {
+    "year": 2011,
+    "Tausend Euro": 1909.426,
+    "Wirtschaftsbereich": "Wasserversorgung, Entsorgung u. �.",
+    "short": "E",
+    "chapter": "2.3.1.4",
+    "Jahr": "2010-12-31T23:00:00Z"
+  },
+  {
+    "year": 2012,
+    "Tausend Euro": 1862.513,
+    "Wirtschaftsbereich": "Wasserversorgung, Entsorgung u. �.",
+    "short": "E",
+    "chapter": "2.3.1.4",
+    "Jahr": "2011-12-31T23:00:00Z"
+  },
+  {
+    "year": 2013,
+    "Tausend Euro": 1830.002,
+    "Wirtschaftsbereich": "Wasserversorgung, Entsorgung u. �.",
+    "short": "E",
+    "chapter": "2.3.1.4",
+    "Jahr": "2012-12-31T23:00:00Z"
+  },
+  {
+    "year": 2014,
+    "Tausend Euro": 1971.722,
+    "Wirtschaftsbereich": "Wasserversorgung, Entsorgung u. �.",
+    "short": "E",
+    "chapter": "2.3.1.4",
+    "Jahr": "2013-12-31T23:00:00Z"
+  },
+  {
+    "year": 2008,
+    "Tausend Euro": 2759.426,
+    "Wirtschaftsbereich": "Baugewerbe",
+    "short": "F",
+    "chapter": "2.3.2",
+    "Jahr": "2007-12-31T23:00:00Z"
+  },
+  {
+    "year": 2009,
+    "Tausend Euro": 2745.837,
+    "Wirtschaftsbereich": "Baugewerbe",
+    "short": "F",
+    "chapter": "2.3.2",
+    "Jahr": "2008-12-31T23:00:00Z"
+  },
+  {
+    "year": 2010,
+    "Tausend Euro": 3106.224,
+    "Wirtschaftsbereich": "Baugewerbe",
+    "short": "F",
+    "chapter": "2.3.2",
+    "Jahr": "2009-12-31T23:00:00Z"
+  },
+  {
+    "year": 2011,
+    "Tausend Euro": 3376.907,
+    "Wirtschaftsbereich": "Baugewerbe",
+    "short": "F",
+    "chapter": "2.3.2",
+    "Jahr": "2010-12-31T23:00:00Z"
+  },
+  {
+    "year": 2012,
+    "Tausend Euro": 3433.805,
+    "Wirtschaftsbereich": "Baugewerbe",
+    "short": "F",
+    "chapter": "2.3.2",
+    "Jahr": "2011-12-31T23:00:00Z"
+  },
+  {
+    "year": 2013,
+    "Tausend Euro": 3610.756,
+    "Wirtschaftsbereich": "Baugewerbe",
+    "short": "F",
+    "chapter": "2.3.2",
+    "Jahr": "2012-12-31T23:00:00Z"
+  },
+  {
+    "year": 2014,
+    "Tausend Euro": 3840.485,
+    "Wirtschaftsbereich": "Baugewerbe",
+    "short": "F",
+    "chapter": "2.3.2",
+    "Jahr": "2013-12-31T23:00:00Z"
+  },
+  {
+    "year": 2008,
+    "Tausend Euro": 6027.862,
+    "Wirtschaftsbereich": "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen",
+    "short": "G",
+    "chapter": "2.4.1.1",
+    "Jahr": "2007-12-31T23:00:00Z"
+  },
+  {
+    "year": 2009,
+    "Tausend Euro": 6098.056,
+    "Wirtschaftsbereich": "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen",
+    "short": "G",
+    "chapter": "2.4.1.1",
+    "Jahr": "2008-12-31T23:00:00Z"
+  },
+  {
+    "year": 2010,
+    "Tausend Euro": 5895.564,
+    "Wirtschaftsbereich": "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen",
+    "short": "G",
+    "chapter": "2.4.1.1",
+    "Jahr": "2009-12-31T23:00:00Z"
+  },
+  {
+    "year": 2011,
+    "Tausend Euro": 5933.336,
+    "Wirtschaftsbereich": "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen",
+    "short": "G",
+    "chapter": "2.4.1.1",
+    "Jahr": "2010-12-31T23:00:00Z"
+  },
+  {
+    "year": 2012,
+    "Tausend Euro": 6128.865,
+    "Wirtschaftsbereich": "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen",
+    "short": "G",
+    "chapter": "2.4.1.1",
+    "Jahr": "2011-12-31T23:00:00Z"
+  },
+  {
+    "year": 2013,
+    "Tausend Euro": 6668.626,
+    "Wirtschaftsbereich": "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen",
+    "short": "G",
+    "chapter": "2.4.1.1",
+    "Jahr": "2012-12-31T23:00:00Z"
+  },
+  {
+    "year": 2014,
+    "Tausend Euro": 7398.884,
+    "Wirtschaftsbereich": "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen",
+    "short": "G",
+    "chapter": "2.4.1.1",
+    "Jahr": "2013-12-31T23:00:00Z"
+  },
+  {
+    "year": 2008,
+    "Tausend Euro": 4107.581,
+    "Wirtschaftsbereich": "Verkehr und Lagerei",
+    "short": "H",
+    "chapter": "2.4.1.2",
+    "Jahr": "2007-12-31T23:00:00Z"
+  },
+  {
+    "year": 2009,
+    "Tausend Euro": 4164.555,
+    "Wirtschaftsbereich": "Verkehr und Lagerei",
+    "short": "H",
+    "chapter": "2.4.1.2",
+    "Jahr": "2008-12-31T23:00:00Z"
+  },
+  {
+    "year": 2010,
+    "Tausend Euro": 4182.002,
+    "Wirtschaftsbereich": "Verkehr und Lagerei",
+    "short": "H",
+    "chapter": "2.4.1.2",
+    "Jahr": "2009-12-31T23:00:00Z"
+  },
+  {
+    "year": 2011,
+    "Tausend Euro": 4434.288,
+    "Wirtschaftsbereich": "Verkehr und Lagerei",
+    "short": "H",
+    "chapter": "2.4.1.2",
+    "Jahr": "2010-12-31T23:00:00Z"
+  },
+  {
+    "year": 2012,
+    "Tausend Euro": 4368.962,
+    "Wirtschaftsbereich": "Verkehr und Lagerei",
+    "short": "H",
+    "chapter": "2.4.1.2",
+    "Jahr": "2011-12-31T23:00:00Z"
+  },
+  {
+    "year": 2013,
+    "Tausend Euro": 4555.695,
+    "Wirtschaftsbereich": "Verkehr und Lagerei",
+    "short": "H",
+    "chapter": "2.4.1.2",
+    "Jahr": "2012-12-31T23:00:00Z"
+  },
+  {
+    "year": 2014,
+    "Tausend Euro": 4498.230,
+    "Wirtschaftsbereich": "Verkehr und Lagerei",
+    "short": "H",
+    "chapter": "2.4.1.2",
+    "Jahr": "2013-12-31T23:00:00Z"
+  },
+  {
+    "year": 2008,
+    "Tausend Euro": 1809.060,
+    "Wirtschaftsbereich": "Gastgewerbe",
+    "short": "I",
+    "chapter": "2.4.1.3",
+    "Jahr": "2007-12-31T23:00:00Z"
+  },
+  {
+    "year": 2009,
+    "Tausend Euro": 1777.357,
+    "Wirtschaftsbereich": "Gastgewerbe",
+    "short": "I",
+    "chapter": "2.4.1.3",
+    "Jahr": "2008-12-31T23:00:00Z"
+  },
+  {
+    "year": 2010,
+    "Tausend Euro": 1947.833,
+    "Wirtschaftsbereich": "Gastgewerbe",
+    "short": "I",
+    "chapter": "2.4.1.3",
+    "Jahr": "2009-12-31T23:00:00Z"
+  },
+  {
+    "year": 2011,
+    "Tausend Euro": 2081.073,
+    "Wirtschaftsbereich": "Gastgewerbe",
+    "short": "I",
+    "chapter": "2.4.1.3",
+    "Jahr": "2010-12-31T23:00:00Z"
+  },
+  {
+    "year": 2012,
+    "Tausend Euro": 2198.135,
+    "Wirtschaftsbereich": "Gastgewerbe",
+    "short": "I",
+    "chapter": "2.4.1.3",
+    "Jahr": "2011-12-31T23:00:00Z"
+  },
+  {
+    "year": 2013,
+    "Tausend Euro": 2194.237,
+    "Wirtschaftsbereich": "Gastgewerbe",
+    "short": "I",
+    "chapter": "2.4.1.3",
+    "Jahr": "2012-12-31T23:00:00Z"
+  },
+  {
+    "year": 2014,
+    "Tausend Euro": 2384.189,
+    "Wirtschaftsbereich": "Gastgewerbe",
+    "short": "I",
+    "chapter": "2.4.1.3",
+    "Jahr": "2013-12-31T23:00:00Z"
+  },
+  {
+    "year": 2008,
+    "Tausend Euro": 7142.771,
+    "Wirtschaftsbereich": "Information und Kommunikation",
+    "short": "J",
+    "chapter": "2.4.2",
+    "Jahr": "2007-12-31T23:00:00Z"
+  },
+  {
+    "year": 2009,
+    "Tausend Euro": 6662.512,
+    "Wirtschaftsbereich": "Information und Kommunikation",
+    "short": "J",
+    "chapter": "2.4.2",
+    "Jahr": "2008-12-31T23:00:00Z"
+  },
+  {
+    "year": 2010,
+    "Tausend Euro": 6650.761,
+    "Wirtschaftsbereich": "Information und Kommunikation",
+    "short": "J",
+    "chapter": "2.4.2",
+    "Jahr": "2009-12-31T23:00:00Z"
+  },
+  {
+    "year": 2011,
+    "Tausend Euro": 7654.507,
+    "Wirtschaftsbereich": "Information und Kommunikation",
+    "short": "J",
+    "chapter": "2.4.2",
+    "Jahr": "2010-12-31T23:00:00Z"
+  },
+  {
+    "year": 2012,
+    "Tausend Euro": 7816.626,
+    "Wirtschaftsbereich": "Information und Kommunikation",
+    "short": "J",
+    "chapter": "2.4.2",
+    "Jahr": "2011-12-31T23:00:00Z"
+  },
+  {
+    "year": 2013,
+    "Tausend Euro": 8005.573,
+    "Wirtschaftsbereich": "Information und Kommunikation",
+    "short": "J",
+    "chapter": "2.4.2",
+    "Jahr": "2012-12-31T23:00:00Z"
+  },
+  {
+    "year": 2014,
+    "Tausend Euro": 8589.892,
+    "Wirtschaftsbereich": "Information und Kommunikation",
+    "short": "J",
+    "chapter": "2.4.2",
+    "Jahr": "2013-12-31T23:00:00Z"
+  },
+  {
+    "year": 2008,
+    "Tausend Euro": 3282.902,
+    "Wirtschaftsbereich": "Finanz- und Versicherungsdienstleister",
+    "short": "K",
+    "chapter": "2.4.3",
+    "Jahr": "2007-12-31T23:00:00Z"
+  },
+  {
+    "year": 2009,
+    "Tausend Euro": 3638.828,
+    "Wirtschaftsbereich": "Finanz- und Versicherungsdienstleister",
+    "short": "K",
+    "chapter": "2.4.3",
+    "Jahr": "2008-12-31T23:00:00Z"
+  },
+  {
+    "year": 2010,
+    "Tausend Euro": 3902.103,
+    "Wirtschaftsbereich": "Finanz- und Versicherungsdienstleister",
+    "short": "K",
+    "chapter": "2.4.3",
+    "Jahr": "2009-12-31T23:00:00Z"
+  },
+  {
+    "year": 2011,
+    "Tausend Euro": 3536.942,
+    "Wirtschaftsbereich": "Finanz- und Versicherungsdienstleister",
+    "short": "K",
+    "chapter": "2.4.3",
+    "Jahr": "2010-12-31T23:00:00Z"
+  },
+  {
+    "year": 2012,
+    "Tausend Euro": 3772.532,
+    "Wirtschaftsbereich": "Finanz- und Versicherungsdienstleister",
+    "short": "K",
+    "chapter": "2.4.3",
+    "Jahr": "2011-12-31T23:00:00Z"
+  },
+  {
+    "year": 2013,
+    "Tausend Euro": 3760.610,
+    "Wirtschaftsbereich": "Finanz- und Versicherungsdienstleister",
+    "short": "K",
+    "chapter": "2.4.3",
+    "Jahr": "2012-12-31T23:00:00Z"
+  },
+  {
+    "year": 2014,
+    "Tausend Euro": 3552.295,
+    "Wirtschaftsbereich": "Finanz- und Versicherungsdienstleister",
+    "short": "K",
+    "chapter": "2.4.3",
+    "Jahr": "2013-12-31T23:00:00Z"
+  },
+  {
+    "year": 2008,
+    "Tausend Euro": 12975.433,
+    "Wirtschaftsbereich": "Grundst�cks- und Wohnungswesen",
+    "short": "L",
+    "chapter": "2.4.4",
+    "Jahr": "2007-12-31T23:00:00Z"
+  },
+  {
+    "year": 2009,
+    "Tausend Euro": 12755.609,
+    "Wirtschaftsbereich": "Grundst�cks- und Wohnungswesen",
+    "short": "L",
+    "chapter": "2.4.4",
+    "Jahr": "2008-12-31T23:00:00Z"
+  },
+  {
+    "year": 2010,
+    "Tausend Euro": 13271.509,
+    "Wirtschaftsbereich": "Grundst�cks- und Wohnungswesen",
+    "short": "L",
+    "chapter": "2.4.4",
+    "Jahr": "2009-12-31T23:00:00Z"
+  },
+  {
+    "year": 2011,
+    "Tausend Euro": 13900.724,
+    "Wirtschaftsbereich": "Grundst�cks- und Wohnungswesen",
+    "short": "L",
+    "chapter": "2.4.4",
+    "Jahr": "2010-12-31T23:00:00Z"
+  },
+  {
+    "year": 2012,
+    "Tausend Euro": 13734.479,
+    "Wirtschaftsbereich": "Grundst�cks- und Wohnungswesen",
+    "short": "L",
+    "chapter": "2.4.4",
+    "Jahr": "2011-12-31T23:00:00Z"
+  },
+  {
+    "year": 2013,
+    "Tausend Euro": 14328.564,
+    "Wirtschaftsbereich": "Grundst�cks- und Wohnungswesen",
+    "short": "L",
+    "chapter": "2.4.4",
+    "Jahr": "2012-12-31T23:00:00Z"
+  },
+  {
+    "year": 2014,
+    "Tausend Euro": 14120.363,
+    "Wirtschaftsbereich": "Grundst�cks- und Wohnungswesen",
+    "short": "L",
+    "chapter": "2.4.4",
+    "Jahr": "2013-12-31T23:00:00Z"
+  },
+  {
+    "year": 2008,
+    "Tausend Euro": 7856.091,
+    "Wirtschaftsbereich": "Freiberufliche, wissenschaftliche und technische Dienstleister",
+    "short": "M",
+    "chapter": "2.4.5.1",
+    "Jahr": "2007-12-31T23:00:00Z"
+  },
+  {
+    "year": 2009,
+    "Tausend Euro": 7672.173,
+    "Wirtschaftsbereich": "Freiberufliche, wissenschaftliche und technische Dienstleister",
+    "short": "M",
+    "chapter": "2.4.5.1",
+    "Jahr": "2008-12-31T23:00:00Z"
+  },
+  {
+    "year": 2010,
+    "Tausend Euro": 7975.930,
+    "Wirtschaftsbereich": "Freiberufliche, wissenschaftliche und technische Dienstleister",
+    "short": "M",
+    "chapter": "2.4.5.1",
+    "Jahr": "2009-12-31T23:00:00Z"
+  },
+  {
+    "year": 2011,
+    "Tausend Euro": 8187.785,
+    "Wirtschaftsbereich": "Freiberufliche, wissenschaftliche und technische Dienstleister",
+    "short": "M",
+    "chapter": "2.4.5.1",
+    "Jahr": "2010-12-31T23:00:00Z"
+  },
+  {
+    "year": 2012,
+    "Tausend Euro": 8521.518,
+    "Wirtschaftsbereich": "Freiberufliche, wissenschaftliche und technische Dienstleister",
+    "short": "M",
+    "chapter": "2.4.5.1",
+    "Jahr": "2011-12-31T23:00:00Z"
+  },
+  {
+    "year": 2013,
+    "Tausend Euro": 8651.330,
+    "Wirtschaftsbereich": "Freiberufliche, wissenschaftliche und technische Dienstleister",
+    "short": "M",
+    "chapter": "2.4.5.1",
+    "Jahr": "2012-12-31T23:00:00Z"
+  },
+  {
+    "year": 2014,
+    "Tausend Euro": 8993.336,
+    "Wirtschaftsbereich": "Freiberufliche, wissenschaftliche und technische Dienstleister",
+    "short": "M",
+    "chapter": "2.4.5.1",
+    "Jahr": "2013-12-31T23:00:00Z"
+  },
+  {
+    "year": 2008,
+    "Tausend Euro": 4807.633,
+    "Wirtschaftsbereich": "Sonstige Unternehmensdienstleister",
+    "short": "N",
+    "chapter": "2.4.5.2",
+    "Jahr": "2007-12-31T23:00:00Z"
+  },
+  {
+    "year": 2009,
+    "Tausend Euro": 4539.555,
+    "Wirtschaftsbereich": "Sonstige Unternehmensdienstleister",
+    "short": "N",
+    "chapter": "2.4.5.2",
+    "Jahr": "2008-12-31T23:00:00Z"
+  },
+  {
+    "year": 2010,
+    "Tausend Euro": 4850.357,
+    "Wirtschaftsbereich": "Sonstige Unternehmensdienstleister",
+    "short": "N",
+    "chapter": "2.4.5.2",
+    "Jahr": "2009-12-31T23:00:00Z"
+  },
+  {
+    "year": 2011,
+    "Tausend Euro": 5454.144,
+    "Wirtschaftsbereich": "Sonstige Unternehmensdienstleister",
+    "short": "N",
+    "chapter": "2.4.5.2",
+    "Jahr": "2010-12-31T23:00:00Z"
+  },
+  {
+    "year": 2012,
+    "Tausend Euro": 5743.089,
+    "Wirtschaftsbereich": "Sonstige Unternehmensdienstleister",
+    "short": "N",
+    "chapter": "2.4.5.2",
+    "Jahr": "2011-12-31T23:00:00Z"
+  },
+  {
+    "year": 2013,
+    "Tausend Euro": 5901.648,
+    "Wirtschaftsbereich": "Sonstige Unternehmensdienstleister",
+    "short": "N",
+    "chapter": "2.4.5.2",
+    "Jahr": "2012-12-31T23:00:00Z"
+  },
+  {
+    "year": 2014,
+    "Tausend Euro": 6723.576,
+    "Wirtschaftsbereich": "Sonstige Unternehmensdienstleister",
+    "short": "N",
+    "chapter": "2.4.5.2",
+    "Jahr": "2013-12-31T23:00:00Z"
+  },
+  {
+    "year": 2008,
+    "Tausend Euro": 8295.551,
+    "Wirtschaftsbereich": "�ffentliche Verwaltung, Verteidigung, Sozialversicherung",
+    "short": "O",
+    "chapter": "2.4.6.1",
+    "Jahr": "2007-12-31T23:00:00Z"
+  },
+  {
+    "year": 2009,
+    "Tausend Euro": 8436.841,
+    "Wirtschaftsbereich": "�ffentliche Verwaltung, Verteidigung, Sozialversicherung",
+    "short": "O",
+    "chapter": "2.4.6.1",
+    "Jahr": "2008-12-31T23:00:00Z"
+  },
+  {
+    "year": 2010,
+    "Tausend Euro": 8776.956,
+    "Wirtschaftsbereich": "�ffentliche Verwaltung, Verteidigung, Sozialversicherung",
+    "short": "O",
+    "chapter": "2.4.6.1",
+    "Jahr": "2009-12-31T23:00:00Z"
+  },
+  {
+    "year": 2011,
+    "Tausend Euro": 9103.888,
+    "Wirtschaftsbereich": "�ffentliche Verwaltung, Verteidigung, Sozialversicherung",
+    "short": "O",
+    "chapter": "2.4.6.1",
+    "Jahr": "2010-12-31T23:00:00Z"
+  },
+  {
+    "year": 2012,
+    "Tausend Euro": 9615.888,
+    "Wirtschaftsbereich": "�ffentliche Verwaltung, Verteidigung, Sozialversicherung",
+    "short": "O",
+    "chapter": "2.4.6.1",
+    "Jahr": "2011-12-31T23:00:00Z"
+  },
+  {
+    "year": 2013,
+    "Tausend Euro": 10014.501,
+    "Wirtschaftsbereich": "�ffentliche Verwaltung, Verteidigung, Sozialversicherung",
+    "short": "O",
+    "chapter": "2.4.6.1",
+    "Jahr": "2012-12-31T23:00:00Z"
+  },
+  {
+    "year": 2014,
+    "Tausend Euro": 10331.151,
+    "Wirtschaftsbereich": "�ffentliche Verwaltung, Verteidigung, Sozialversicherung",
+    "short": "O",
+    "chapter": "2.4.6.1",
+    "Jahr": "2013-12-31T23:00:00Z"
+  },
+  {
+    "year": 2008,
+    "Tausend Euro": 4926.303,
+    "Wirtschaftsbereich": "Erziehung und Unterricht",
+    "short": "P",
+    "chapter": "2.4.6.2",
+    "Jahr": "2007-12-31T23:00:00Z"
+  },
+  {
+    "year": 2009,
+    "Tausend Euro": 5201.535,
+    "Wirtschaftsbereich": "Erziehung und Unterricht",
+    "short": "P",
+    "chapter": "2.4.6.2",
+    "Jahr": "2008-12-31T23:00:00Z"
+  },
+  {
+    "year": 2010,
+    "Tausend Euro": 5383.139,
+    "Wirtschaftsbereich": "Erziehung und Unterricht",
+    "short": "P",
+    "chapter": "2.4.6.2",
+    "Jahr": "2009-12-31T23:00:00Z"
+  },
+  {
+    "year": 2011,
+    "Tausend Euro": 5657.970,
+    "Wirtschaftsbereich": "Erziehung und Unterricht",
+    "short": "P",
+    "chapter": "2.4.6.2",
+    "Jahr": "2010-12-31T23:00:00Z"
+  },
+  {
+    "year": 2012,
+    "Tausend Euro": 5694.412,
+    "Wirtschaftsbereich": "Erziehung und Unterricht",
+    "short": "P",
+    "chapter": "2.4.6.2",
+    "Jahr": "2011-12-31T23:00:00Z"
+  },
+  {
+    "year": 2013,
+    "Tausend Euro": 5849.842,
+    "Wirtschaftsbereich": "Erziehung und Unterricht",
+    "short": "P",
+    "chapter": "2.4.6.2",
+    "Jahr": "2012-12-31T23:00:00Z"
+  },
+  {
+    "year": 2014,
+    "Tausend Euro": 6277.835,
+    "Wirtschaftsbereich": "Erziehung und Unterricht",
+    "short": "P",
+    "chapter": "2.4.6.2",
+    "Jahr": "2013-12-31T23:00:00Z"
+  },
+  {
+    "year": 2008,
+    "Tausend Euro": 6978.804,
+    "Wirtschaftsbereich": "Gesundheits- und Sozialwesen",
+    "short": "Q",
+    "chapter": "2.4.6.3",
+    "Jahr": "2007-12-31T23:00:00Z"
+  },
+  {
+    "year": 2009,
+    "Tausend Euro": 7295.094,
+    "Wirtschaftsbereich": "Gesundheits- und Sozialwesen",
+    "short": "Q",
+    "chapter": "2.4.6.3",
+    "Jahr": "2008-12-31T23:00:00Z"
+  },
+  {
+    "year": 2010,
+    "Tausend Euro": 7632.068,
+    "Wirtschaftsbereich": "Gesundheits- und Sozialwesen",
+    "short": "Q",
+    "chapter": "2.4.6.3",
+    "Jahr": "2009-12-31T23:00:00Z"
+  },
+  {
+    "year": 2011,
+    "Tausend Euro": 8003.591,
+    "Wirtschaftsbereich": "Gesundheits- und Sozialwesen",
+    "short": "Q",
+    "chapter": "2.4.6.3",
+    "Jahr": "2010-12-31T23:00:00Z"
+  },
+  {
+    "year": 2012,
+    "Tausend Euro": 8440.366,
+    "Wirtschaftsbereich": "Gesundheits- und Sozialwesen",
+    "short": "Q",
+    "chapter": "2.4.6.3",
+    "Jahr": "2011-12-31T23:00:00Z"
+  },
+  {
+    "year": 2013,
+    "Tausend Euro": 8997.785,
+    "Wirtschaftsbereich": "Gesundheits- und Sozialwesen",
+    "short": "Q",
+    "chapter": "2.4.6.3",
+    "Jahr": "2012-12-31T23:00:00Z"
+  },
+  {
+    "year": 2014,
+    "Tausend Euro": 9291.750,
+    "Wirtschaftsbereich": "Gesundheits- und Sozialwesen",
+    "short": "Q",
+    "chapter": "2.4.6.3",
+    "Jahr": "2013-12-31T23:00:00Z"
+  },
+  {
+    "year": 2008,
+    "Tausend Euro": 2373.372,
+    "Wirtschaftsbereich": "Kunst, Unterhaltung und Erholung",
+    "short": "R",
+    "chapter": "2.4.7.1",
+    "Jahr": "2007-12-31T23:00:00Z"
+  },
+  {
+    "year": 2009,
+    "Tausend Euro": 2379.234,
+    "Wirtschaftsbereich": "Kunst, Unterhaltung und Erholung",
+    "short": "R",
+    "chapter": "2.4.7.1",
+    "Jahr": "2008-12-31T23:00:00Z"
+  },
+  {
+    "year": 2010,
+    "Tausend Euro": 2456.924,
+    "Wirtschaftsbereich": "Kunst, Unterhaltung und Erholung",
+    "short": "R",
+    "chapter": "2.4.7.1",
+    "Jahr": "2009-12-31T23:00:00Z"
+  },
+  {
+    "year": 2011,
+    "Tausend Euro": 2573.743,
+    "Wirtschaftsbereich": "Kunst, Unterhaltung und Erholung",
+    "short": "R",
+    "chapter": "2.4.7.1",
+    "Jahr": "2010-12-31T23:00:00Z"
+  },
+  {
+    "year": 2012,
+    "Tausend Euro": 2522.967,
+    "Wirtschaftsbereich": "Kunst, Unterhaltung und Erholung",
+    "short": "R",
+    "chapter": "2.4.7.1",
+    "Jahr": "2011-12-31T23:00:00Z"
+  },
+  {
+    "year": 2013,
+    "Tausend Euro": 2707.890,
+    "Wirtschaftsbereich": "Kunst, Unterhaltung und Erholung",
+    "short": "R",
+    "chapter": "2.4.7.1",
+    "Jahr": "2012-12-31T23:00:00Z"
+  },
+  {
+    "year": 2014,
+    "Tausend Euro": 2739.963,
+    "Wirtschaftsbereich": "Kunst, Unterhaltung und Erholung",
+    "short": "R",
+    "chapter": "2.4.7.1",
+    "Jahr": "2013-12-31T23:00:00Z"
+  },
+  {
+    "year": 2008,
+    "Tausend Euro": 3161.773,
+    "Wirtschaftsbereich": "Sonstige Dienstleister a.n.g.",
+    "short": "S",
+    "chapter": "2.4.7.2",
+    "Jahr": "2007-12-31T23:00:00Z"
+  },
+  {
+    "year": 2009,
+    "Tausend Euro": 3204.506,
+    "Wirtschaftsbereich": "Sonstige Dienstleister a.n.g.",
+    "short": "S",
+    "chapter": "2.4.7.2",
+    "Jahr": "2008-12-31T23:00:00Z"
+  },
+  {
+    "year": 2010,
+    "Tausend Euro": 3465.297,
+    "Wirtschaftsbereich": "Sonstige Dienstleister a.n.g.",
+    "short": "S",
+    "chapter": "2.4.7.2",
+    "Jahr": "2009-12-31T23:00:00Z"
+  },
+  {
+    "year": 2011,
+    "Tausend Euro": 3373.397,
+    "Wirtschaftsbereich": "Sonstige Dienstleister a.n.g.",
+    "short": "S",
+    "chapter": "2.4.7.2",
+    "Jahr": "2010-12-31T23:00:00Z"
+  },
+  {
+    "year": 2012,
+    "Tausend Euro": 3407.404,
+    "Wirtschaftsbereich": "Sonstige Dienstleister a.n.g.",
+    "short": "S",
+    "chapter": "2.4.7.2",
+    "Jahr": "2011-12-31T23:00:00Z"
+  },
+  {
+    "year": 2013,
+    "Tausend Euro": 3528.404,
+    "Wirtschaftsbereich": "Sonstige Dienstleister a.n.g.",
+    "short": "S",
+    "chapter": "2.4.7.2",
+    "Jahr": "2012-12-31T23:00:00Z"
+  },
+  {
+    "year": 2014,
+    "Tausend Euro": 3806.961,
+    "Wirtschaftsbereich": "Sonstige Dienstleister a.n.g.",
+    "short": "S",
+    "chapter": "2.4.7.2",
+    "Jahr": "2013-12-31T23:00:00Z"
+  },
+  {
+    "year": 2008,
+    "Tausend Euro": 195.630,
+    "Wirtschaftsbereich": "Private Haushalte mit Hauspersonal",
+    "short": "T",
+    "chapter": "2.4.7.3",
+    "Jahr": "2007-12-31T23:00:00Z"
+  },
+  {
+    "year": 2009,
+    "Tausend Euro": 203.284,
+    "Wirtschaftsbereich": "Private Haushalte mit Hauspersonal",
+    "short": "T",
+    "chapter": "2.4.7.3",
+    "Jahr": "2008-12-31T23:00:00Z"
+  },
+  {
+    "year": 2010,
+    "Tausend Euro": 202.658,
+    "Wirtschaftsbereich": "Private Haushalte mit Hauspersonal",
+    "short": "T",
+    "chapter": "2.4.7.3",
+    "Jahr": "2009-12-31T23:00:00Z"
+  },
+  {
+    "year": 2011,
+    "Tausend Euro": 213.592,
+    "Wirtschaftsbereich": "Private Haushalte mit Hauspersonal",
+    "short": "T",
+    "chapter": "2.4.7.3",
+    "Jahr": "2010-12-31T23:00:00Z"
+  },
+  {
+    "year": 2012,
+    "Tausend Euro": 223.462,
+    "Wirtschaftsbereich": "Private Haushalte mit Hauspersonal",
+    "short": "T",
+    "chapter": "2.4.7.3",
+    "Jahr": "2011-12-31T23:00:00Z"
+  },
+  {
+    "year": 2013,
+    "Tausend Euro": 243.345,
+    "Wirtschaftsbereich": "Private Haushalte mit Hauspersonal",
+    "short": "T",
+    "chapter": "2.4.7.3",
+    "Jahr": "2012-12-31T23:00:00Z"
+  },
+  {
+    "year": 2014,
+    "Tausend Euro": 255.950,
+    "Wirtschaftsbereich": "Private Haushalte mit Hauspersonal",
+    "short": "T",
+    "chapter": "2.4.7.3",
+    "Jahr": "2013-12-31T23:00:00Z"
+  }
+]

@@ -1,0 +1,71 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v3.0.json",
+  "width": 960,
+  "height": 500,
+  "autosize": "none",
+
+  "data": [
+    {
+      "name": "indicators",
+      "url": "../data/indicators.csv",
+      "format": {"type": "csv", "parse": "auto"}
+    },
+    {
+      "name": "PLR",
+      "url": "../data/PLR-topo.json",
+      "format": {"type": "topojson", "feature": "Planungsraum"},
+      "transform": [
+        {"type": "lookup", "from": "indicators", "key": "Nummer", "fields": ["properties['SCHLUESSEL']"], "as": ["value"]}
+      ]
+    }
+  ],
+
+  "projections": [
+    {
+      "name": "projection",
+      "type": "mercator"
+    }
+  ],
+
+  "scales": [
+    {
+      "name": "color",
+      "type": "quantize",
+      "domain": [0, 0.15],
+      "range": {"scheme": "blues-9"}
+    }
+  ],
+
+  "legends": [
+    {
+      "fill": "color",
+      "orient": "bottom-right",
+      "title": "Unemployment",
+      "format": "0.1%",
+      "encode": {
+        "symbols": {
+          "update": {
+            "shape": {"value": "square"},
+            "stroke": {"value": "#ccc"},
+            "strokeWidth": {"value": 0.2}
+          }
+        }
+      }
+    }
+  ],
+
+  "marks": [
+    {
+      "type": "shape",
+      "from": {"data": "PLR"},
+      "encode": {
+        "enter": { "tooltip": {"signal": "format(datum.rate, '0.1%')"}},
+        "update": { "fill": {"scale": "color", "field": "rate"} },
+        "hover": { "fill": {"value": "red"} }
+      },
+      "transform": [
+        { "type": "geoshape", "projection": "projection" }
+      ]
+    }
+  ]
+}

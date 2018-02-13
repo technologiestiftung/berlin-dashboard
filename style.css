@@ -1,0 +1,57 @@
+@font-face {
+  font-family: 'Clan Book';
+  src:  url('assets/clan-book.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Clan Bold';
+  src:  url('assets/clan-bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Clan Medium';
+  src:  url('assets/clan-medium.otf') format('opentype');
+}
+
+body {
+  font-family: 'Clan Book', sans-serif;
+}
+
+.bg-light-gray {
+  background-color: white;
+}
+
+.title-wrapper {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+
+.logo-tsb {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+}
+
+.vis-wrapper {
+  background: white;
+  border: 2px solid #F7F7F7;
+  margin: 5px;
+}
+
+.wrapper {
+  padding: 5px;
+}
+
+.title-wrapper {
+  border-bottom: 2px solid #F7F7F7;
+  height: 6vh;
+}
+
+.flex-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+

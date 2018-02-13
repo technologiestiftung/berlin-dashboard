@@ -1,0 +1,23 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+  "description": "Area chart showing weight of cars over time.",
+  "width": 600, "height": 400,
+  "data": {"url": "data/bws_2008-2016.json"},
+  "mark": "area",
+  "encoding": {
+    "x": {
+      "timeUnit": "yearmonth", "field": "Jahr", "type": "temporal",
+      "axis": {"format": "%Y"}
+    },
+    "y": {
+      "aggregate": "sum", "field": "Euro", "type": "quantitative"
+    },
+    "color": {
+      "field": "Wirtschaftsbereich",
+      "type": "nominal",
+      "scale": {
+        "scheme": "blues"
+        }
+    }
+  }
+}
