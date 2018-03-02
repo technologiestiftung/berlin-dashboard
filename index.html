@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+  <header Content-Type: text/html; charset=utf-8></header>
 <head>
   <title>Berlin Visualisierung</title>
   <script src="https://cdn.jsdelivr.net/npm/vega@3.0.10"></script>
@@ -29,7 +30,7 @@
     </g>
   </svg>
 
-  <div class="wrapper center flex flex-column mt5 w-60">
+  <div class="wrapper center flex flex-column mt6 w-60">
     <div class="row row-1 flex flex-row">
       <div class="vis-wrapper">
         <div class="title-wrapper flex-wrapper justify-space-around">
@@ -73,7 +74,10 @@
 
   <script type="text/javascript">
 
+
     var wrapperWidth = document.querySelector('.wrapper').getClientRects()[0].width;
+    console.log(wrapperWidth);
+
     var colWidth2 = (wrapperWidth / 2);
     var colWidth3 = (wrapperWidth / 3);
 
@@ -355,13 +359,51 @@
       legend.forEach( item => {
         item.style.display = 'none';
       })
+
+      var title = document.getElementsByClassName('role-axis-title');
+      var legends = document.getElementsByClassName('role-legend-title');
+      setTimeout(() => {
+        legends[1].childNodes[0].textContent="Typ";
+        legends[2].childNodes[0].textContent="Typ";
+        title[0].childNodes[0].textContent="Jahr";
+        title[1].childNodes[0].textContent="Summe in Tsd. Euro";
+      }, 600);
     }
 
     renderCharts();
 
     window.addEventListener('resize', function() {
-      map.width = window.innerWidth;
-    })
+      var w = document.getElementsByClassName('vega-embed')[0].getClientRects()[0].width;
+      var window_width = window.innerWidth;
+      var wrapperWidth = document.querySelector('.wrapper').getClientRects()[0].width;
+
+      if (window.innerWidth >= 1400) {
+        var Width2 = (wrapperWidth / 2);
+        var Width3 = (wrapperWidth / 3);
+
+        console.log(Width2, Width3)
+
+        map.width = Width2;
+        inTons.width = Width3 - 69;
+        inEuro.width = Width3 - 62;
+        bip.width = Width3 - 61;
+        bws.width = Width2 - 80;
+
+        renderCharts();
+      } else {
+          var colWidth2 = (wrapperWidth / 2);
+          var colWidth3 = (wrapperWidth / 3);
+
+          map.width = w;
+          inTons.width = w - 69;
+          inEuro.width = w - 62;
+          bip.width = w - 61;
+          bws.width = w - 80;
+
+        renderCharts();
+      }
+
+    });
 
   </script>
 </body>
